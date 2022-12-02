@@ -38,3 +38,13 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+
+nav:
+  - Home: index.md
+  - Clients:
+      - Browser: clients/browser.md
+      - Desktop: clients/desktop.md
+      - Mobile: clients/mobile.md
+      - Television: clients/television.md
+      - Console: clients/console.md
+      - Other: clients/other.md
