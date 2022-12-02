@@ -4,13 +4,13 @@ site_url: https://docs.blackbeard.media/
 repo_name: docs
 repo_url: https://github.com/Blackbeard-Media/docs/
 
-language: en
-
 theme:
   name: material
   icon:
     logo: material/library
     repo: fontawesome/brands/github
+    
+  language: en
 
   palette:
     # Palette toggle for automatic mode
