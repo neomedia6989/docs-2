@@ -42,6 +42,7 @@ theme:
 nav:
   - Home: index.md
   - Clients:
+      - Apple TV: clients/appletv.md
       - Browser: clients/browser.md
       - Desktop: clients/desktop.md
       - Mobile: clients/mobile.md
