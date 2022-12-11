@@ -57,6 +57,7 @@ nav:
     - Apple TV: clients/appletv.md
     - Android TV: clients/androidtv.md
     - Amazon Firestick/TV: clients/firetv.md
+    - Roku: clients/roku.md
     - Browser: clients/browser.md
     - Desktop: clients/desktop.md
     - Mobile: clients/mobile.md
