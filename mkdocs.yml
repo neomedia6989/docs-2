@@ -41,6 +41,7 @@ theme:
 
 nav:
   - Home: index.md
+  
   - Guides:
     - Plex:
       - Accepting your Plex invitation: guides/plex/accepting-your-invite.md
@@ -52,7 +53,8 @@ nav:
       - How to request content via Overseerr: guides/requests/overseerr-requests.md
       - How to request content via Discord: guides/requests/discord-requests.md
       - How to request content that is Anime: guides/requests/anime-requests.md
-  - Clients:
+  
+  - Clients: clients.md
     - Apple TV: clients/appletv.md
     - Browser: clients/browser.md
     - Desktop: clients/desktop.md
