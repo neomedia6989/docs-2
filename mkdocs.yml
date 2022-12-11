@@ -55,6 +55,7 @@ nav:
       - How to request content that is Anime: guides/requests/anime-requests.md
   - Clients: 
     - Apple TV: clients/appletv.md
+    - Android TV: clients/androidtv.md
     - Browser: clients/browser.md
     - Desktop: clients/desktop.md
     - Mobile: clients/mobile.md
