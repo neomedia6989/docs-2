@@ -1,8 +1,5 @@
 # How to Accept Invite and Setup Libraries
-
-Date Created: November 30, 2022 3:08 PM
-Last Updated: November 30, 2022 3:54 PM
-Tags: Invites, Plex
+*Tags: Invites, Plex*
 
 # How to Accept Invite and Setup Libraries?
 
