@@ -1,4 +1,4 @@
-site_name: docs.blackbeard.media
+site_name: Blackbeard Media - Documentation
 site_url: https://docs.blackbeard.media/
 
 repo_name: docs
@@ -7,7 +7,7 @@ repo_url: https://github.com/Blackbeard-Media/docs/
 theme:
   name: material
   icon:
-    logo: material/library
+    logo: assets/logo.png
     repo: fontawesome/brands/github
     
   language: en
