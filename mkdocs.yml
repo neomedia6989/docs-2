@@ -7,7 +7,7 @@ repo_url: https://github.com/Blackbeard-Media/docs/
 theme:
   name: material
   icon:
-    logo: assets/logo
+    logo: material/library
     repo: fontawesome/brands/github
     
   language: en
