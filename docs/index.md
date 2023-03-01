@@ -1,6 +1,6 @@
 # Getting Started with Plex: A Guide for Share and Appbox Users
 
-Welcome to the Blackbeard Media documentation website! This site is designed to provide you with all the information you need to get the most out of your streaming service, whether you're a Share user, an Appbox user, or just curious about what we have to offer.
+Welcome to the Blackbeard Media documentation website! This site is designed to provide you with all the information you need to get the most out of your streaming service, whether you're a Share user, an Appbox user, or just curious about what there is out there.
 
 These docs are designed to help you get the most out of your service. Whether you're a new user just getting started with the Plex app or an experienced user looking to fine-tune your settings, we've got you covered. Our guides will walk you through the initial setup process, show you how to configure your devices for optimal playback, and go over other features of Plex such as filters, collections, and playlists.
 
