@@ -45,10 +45,11 @@ theme:
         name: Switch to system preference
 
 nav:
-  - Home:
-    - What is Plex: home/what-is-plex.md
+  - Home: index.md
+  - What is Plex?: 
+    - What Is Plex?: what-is-plex/what-is-plex.md
   - Plex:
-    - Creating a Plex Account: guides/plex/creating-an-account.md
+    - Creating a Plex Account: plex/creating-your-account.md
     - Accepting your Plex invitation: guides/plex/accepting-your-invite.md
     - Navigating and using Plex: guides/plex/navigating-plex.md
     - Recommended Settings: guides/plex/recommended-settings.md
