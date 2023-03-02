@@ -1,6 +1,6 @@
 # Accepting Your Plex Invite
 
-## How to Accept Invite and Setup Libraries
+## How to accept your invite
 
 - Go to [https://plex.tv](https://plex.tv/) and login with your Plex account credentials
 - Access the Plex Web app by clicking on the Open Plex button
@@ -20,6 +20,8 @@
 - Click the Home Icon to go to the Home Screen of Plex
 
 [![](../media/plex-settings.png "Accept the invite and go home")](https://docs.blackbeard.media/media/invite-location.png)
+
+## How to setup your libraries
 
 - Plex has their own libraries and content, while it's a nice bonus it is easy to confuse a Plex Library with a custom curated one that has been shared to you
 - Find the hidden ellipses next to the item you wish to **Unpin**. *(We recommend removing all Plex's items, as seen in the screenshot)*
