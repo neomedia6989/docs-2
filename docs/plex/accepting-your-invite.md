@@ -48,12 +48,12 @@
 - Locate a desired library you wish to move
 - Click the ellipses and select **Reorder**
 
-[![](../media/reorder.png "Click the ellipses to reorder the libraries")](https://docs.blackbeard.media/media/reorder.png
+[![](../media/reorder.png "Click the ellipses to reorder the libraries")](https://docs.blackbeard.media/media/reorder.png)
 
 - Now simply drag and drop the libraries as you see fit.
 
-[![](../media/drag-drop.png "Drag and drop to reorder libraries")](https://docs.blackbeard.media/media/drag-drop.png
+[![](../media/drag-drop.png "Drag and drop to reorder libraries")](https://docs.blackbeard.media/media/drag-drop.png)
 
 - Once all your ;ibraries are in the desired order, simply click the tiny “x” found here to exit the Reorder Process. You are now ready to enjoy your streaming.
 
-[![](../media/unorder.png "Close the menu to finish reordering libraries")](https://docs.blackbeard.media/media/unorder.png
+[![](../media/unorder.png "Close the menu to finish reordering libraries")](https://docs.blackbeard.media/media/unorder.png)
