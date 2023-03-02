@@ -59,8 +59,7 @@ nav:
   - Plex:
     - Creating a Plex Account: plex/creating-your-account.md
     - Accepting your Plex invitation: plex/accepting-your-invite.md
-    - Navigating and using Plex: guides/plex/navigating-plex.md
-    - Recommended Settings: guides/plex/recommended-settings.md
+    - Recommended Client Settings: clients/index.md
   - Appboxes:
     - How to manage your Blackbeard account: guides/account/manage-your-account.md
     - How to link your Discord account: guides/account/linking-your-discord.md
