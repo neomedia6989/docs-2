@@ -6,4 +6,4 @@ These docs are designed to help you get the most out of your service. Whether yo
 
 If you're an Appbox user, we've got you covered too. Our guides will walk you through the initial setup process, including recommended settings for your Appbox, and show you how to utilize the Kronos dashboard. We'll also help ensure you have all content scanned in and provide information about Plex Meta Manager to organize your media. Whether you're new to Appboxes or an experienced user, we'll provide you with the information you need to get the most out of your streaming experience.
 
-We hope this documentation website will be a valuable resource for you as you explore the world of Blackbeard Media streaming. If you have any questions or feedback, please don't hesitate to contact us on Discord.
+We hope this documentation website will be a valuable resource for you as you explore the world of streaming. If you have any questions or feedback, please don't hesitate to contact us on Discord.
