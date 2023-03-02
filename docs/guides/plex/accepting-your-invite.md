@@ -1,14 +1,12 @@
 # How to Accept Invite and Setup Libraries
 *Tags: Invites, Plex*
 
-# How to Accept Invite and Setup Libraries?
+## How to Accept Invite and Setup Libraries?
 
 1. Go to [https://plex.tv](https://plex.tv/) and login with your Plex account credentials
 2. Access the Plex Web app by clicking on the Open Plex button
 
 ![https://mediaclients.wiki/plex_invite/open_plex.png](https://mediaclients.wiki/plex_invite/open_plex.png)
-
-## 
 
 ## Decide if you want to Sync your Watched Status if you have access to Multiple Servers
 
