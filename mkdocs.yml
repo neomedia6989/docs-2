@@ -48,10 +48,10 @@ nav:
   - Home: index.md
   - Introduction: 
     - What Is Plex?: introduction/what-is-plex.md
-    - Playback Qualty: introduction/playback-quality.md
-    - Libaries: introduction/libraries.md
     - Navigation: introduction/navigation.md
+    - Libaries: introduction/libraries.md
     - Playback: introduction/playback.md
+    - Playback Qualty: introduction/playback-quality.md
   - Plex:
     - Creating a Plex Account: plex/creating-your-account.md
     - Accepting your Plex invitation: guides/plex/accepting-your-invite.md
