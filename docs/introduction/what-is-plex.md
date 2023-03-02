@@ -10,7 +10,7 @@ Many server operators do pay a monthly or yearly fee for some additional feature
 
 Additionally, Plex servers are a significant investment for the owner. The server hardware and storage devices are expensive to obtain and operate.
 
-As a viewer, you can connect to and watch content on Plex servers for free through the  web site. However viewing on the [https://plex.tv](https://plex.tv/) website often requires that the server transcode the media for you (more on that later). By using a Plex player that's specific to your hardware and platform, you'll get a better playback experience. On some platforms like iPhone and iPad as well as Android phones and tablets, you will have to pay a small one-time fee (around $5 US) to activate the Plex player on your iTunes or Google Play account. This will unlock the player on all the devices you use on your account.
+As a viewer, you can connect to and watch content on Plex servers for free through the  web site. However viewing on the [https://plex.tv](https://plex.tv/) website often requires that the server transcode the media for you (more on that later). By using a Plex player that's specific to your hardware and platform, you'll get a better playback experience. On some platforms like iPhone and iPad as well as Android phones and tablets, you will have to pay a small one-time fee (around $5 USD) to activate the Plex player on your iTunes or Google Play account. This will unlock the player on all the devices you use on your account.
 
 ## Is Plex legal?
 Plex is just a collection of software encompassing servers and clients. Plex itself is perfectly legal.
