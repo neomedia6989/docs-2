@@ -9,6 +9,11 @@ theme:
   icon:
     logo: material/library
     repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.path
     
   language: en
 
