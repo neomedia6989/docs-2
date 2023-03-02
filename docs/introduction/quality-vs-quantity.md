@@ -1,6 +1,6 @@
 # Quality vs Quantity
 
-The first and obvious indicator of how good a Plex server is often the raw amount of content offered. This is the easiest way to compare different offerings (200TB vs 50TB, 3000 Movies vs 750 Movies). The bigger the library, the higher the chance that you'll find what you're looking for. However, the amount of content is often not the full story. You can have 10,000 720p movies @1GB each take up a total of 10TB of space, as opposed to 200 4K movies @50GB each also taking up 10TB. As you can see, there is wide chasm between low quality and high quality. There are even differences between two files, both 1080p, which can range from 1GB to 30GB.
+The first and obvious indicator of how good a Plex server is often the raw amount of content offered. This is the easiest way to compare different offerings (200TB vs 50TB, 3000 Movies vs 750 Movies). The bigger the library, the higher the chance that you'll find what you're looking for. However, the amount of content is often not the full story. You can have 10,000 720p movies at 1GB each take up a total of 10TB of space, as opposed to 200 4K movies at 50GB each also taking up 10TB. As you can see, there is wide chasm between low quality and high quality. There are even differences between two files, both 1080p, which can range from 1GB to 30GB.
 
 So you must find a library that is a decent size and offers a decent quality, and this is where reading the description and looking for keywords can help you demystify the type of library offered. Below, I have explained some of those words:
 
