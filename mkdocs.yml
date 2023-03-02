@@ -51,7 +51,8 @@ nav:
     - Navigation: introduction/navigation.md
     - Libaries: introduction/libraries.md
     - Playback: introduction/playback.md
-    - Playback Qualty: introduction/playback-quality.md
+    - Playback Quality: introduction/playback-quality.md
+    - Quality vs Quantity: introduction/quality-vs-quantity.md
   - Plex:
     - Creating a Plex Account: plex/creating-your-account.md
     - Accepting your Plex invitation: guides/plex/accepting-your-invite.md
