@@ -25,6 +25,6 @@ Streaming of video exactly in the format stored on the server, with no transcodi
 When joining a share, server owners will usually explicitly mention which of these you're allowed to do and how much. Let's break down an example:
 A share allows 2 Direct Plays/1 Transcode. This means at any given time you will be able to have two devices direct playing content, and one of them may transcode video, just not both at the same time.
 
-> **Transcoding 4K:** You'll often see shares explicitly disallow video transcoding of 4k content, and for good reason. It stresses the resources of the server to an extreme amount. A single 4K transcode the resources enough for ~8x 1080p transcodes. Worst of all, the quality of the 4K is stream is severely compromised, AND Plex is unable to tonemap HDR properly, which leads to a washed out image, as seen below.*
+> **Transcoding 4K:** You'll often see shares explicitly disallow video transcoding of 4k content, and for good reason. It stresses the resources of the server to an extreme amount. A single 4K transcode the resources enough for ~8x 1080p transcodes. Worst of all, the quality of the 4K is stream is severely compromised, AND Plex is unable to tonemap HDR properly, which leads to a washed out image, as seen below.
 
 [![Direct Play vs Transcode](../media/quality-vs-quantity.png "Direct play vs Transcode")](https://docs.blackbeard.media/media/direct-play-vs-transcode.png)
