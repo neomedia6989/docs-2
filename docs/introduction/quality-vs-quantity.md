@@ -31,4 +31,4 @@ This loss of detail is one of the reasons I moved on from Netflix, and one the r
 
 If you are someone who watches reality shows, light dramas, comedies, animation, you will struggle to tell the difference between a Remux or a low bit-rate encode. Hell, even I do sometimes with two relatively good eyes and a penchant for only watching pixel-perfect content. If you also can't tell the difference in the aforementioned content or if you watch far away from your TV, or on a handheld device, OR if you simply don't care that much about the fine points of quality like I do, then these are all moot points for you.
 
-![](../media/quality-vs-quantity.png)
+[![Low bitrate vs High bitrate files](../media/quality-vs-quantity.png "Low bitrate vs High bitrate files")[https://docs.blackbeard.media/media/quality-vs-quantity.png]
