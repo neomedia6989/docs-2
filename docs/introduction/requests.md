@@ -12,7 +12,7 @@ How soon are the requests filled? Oftentimes, requests will be given download pr
 
 ## Automated vs Manual
 
-The third and final consideration in requests is the method of requesting them, and how they're handled. One example way to handle requests is Ombi, Overseerr, or Petio. Ombi, Overseerr and Petio are programs that a server owner can setup, and users can access a slick UI from which to search movies/TV shows and request them. They are then linked to the server share's backend automation, so it can obtain what you requested automatically. As a user, you don't need to install anything, and usually you will login to them with your Plex credentials. 
+The third and final consideration in requests is the method of requesting them, and how they're handled. One example way to handle requests is an application such as Ombi, Overseerr, or Petio. These apps are programs that a server owner can setup, and users can access a slick UI from which to search movies/TV shows and request them. They are then linked to the server share's backend automation, so it can obtain what you requested automatically. As a user, you don't need to install anything, and usually you will login to them with your Plex credentials. 
 
 Another method that some Plex servers utilize is Discord servers and request bots, wherein you request content in a specific channel, which is then automatically added. 
 
