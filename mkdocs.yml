@@ -55,6 +55,7 @@ nav:
     - Things to Consider: introduction/things-to-consider.md
     - Quality vs Quantity: introduction/quality-vs-quantity.md
     - Transcode vs Direct Play: introduction/transcode-vs-direct-play.md
+    - Requests: introduction/requests.md
   - Plex:
     - Creating a Plex Account: plex/creating-your-account.md
     - Accepting your Plex invitation: guides/plex/accepting-your-invite.md
