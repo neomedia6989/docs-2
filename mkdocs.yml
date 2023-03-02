@@ -46,8 +46,9 @@ theme:
 
 nav:
   - Home: index.md
-  - What is Plex?: 
-    - What Is Plex?: what-is-plex/what-is-plex.md
+  - Introduction: 
+    - What Is Plex?: introduction/what-is-plex.md
+    - Playback Qualty: introduction/playback-quality.md
   - Plex:
     - Creating a Plex Account: plex/creating-your-account.md
     - Accepting your Plex invitation: guides/plex/accepting-your-invite.md
