@@ -15,6 +15,7 @@ These are files that have been significantly reduced in size (from the above Rem
 Similar to P2P encodes, these files have been significantly reduced in size while maintaining a reasonable quality. These are automatically encoded, are available faster than the above encode, and are similar in quality to files offered by streaming services. Suitable for: Those with limited connections/speeds, who want to watch available movies ASAP. Great for watching on laptops/phones.
 
 ***NOTE:** File size estimates are based on a 1.5 hour film in 1080p.*
+
 ***NOTE #2:** This is a general understanding of the common offerings on Plex shares. There are ~100 other types of rips and media, as well as exceptions to the rule.*
 
 ## Why Quality Matters
