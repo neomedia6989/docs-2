@@ -4,6 +4,11 @@ site_url: https://docs.blackbeard.media/
 repo_name: docs
 repo_url: https://github.com/Blackbeard-Media/docs/
 
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+
 theme:
   name: material
   icon:
