@@ -79,8 +79,8 @@ nav:
   - Home: index.md
   - Introduction: 
     - What Is Plex?: introduction/what-is-plex.md
-    - Navigation: introduction/navigation.md
     - Libaries: introduction/libraries.md
+    - Navigation: introduction/navigation.md
     - Playback: introduction/playback.md
     - Playback Quality: introduction/playback-quality.md
     - Things to Consider: introduction/things-to-consider.md
