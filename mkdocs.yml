@@ -31,7 +31,11 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - footnotes
-
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
 
 theme:
   name: material
