@@ -17,24 +17,12 @@ Your Plex profile is a way to personalize your streaming experience and showcase
 1. To begin editing your profile, head to [https://plex.tv/](https://plex.tv/), hover over your profile picture in the upper right corner and click on 'Account Settings'.
 2. On this page, you can begin customizing your profile by setting your profile picture, username, full name, set up two-factor authentication, set your preferred audio & subtitle settings, and link other accounts.
 
-=== "Turn on 'Sync my Watch State and Ratings'"
+!!! note "Phasellus posuere in sem ut cursus"
 
-    * Sed sagittis eleifend rutrum
-    * Donec vitae suscipit est
-    * Nulla tempor lobortis orci
-
-=== "Unsubscribe from Plex e-mail subscriptions"
-
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
     
-=== "Enable experimental features if you are bold enough"
-
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
-
 3. After you are complete editing this portion, hover over your profile picture and click on 'View Profile'.
 [![Step 2. Account Settings > Step 3. View Profile](../media/settings-profile.png "Step 2. Account Settings > Step 3. View Profile")](https://docs.blackbeard.media/media/settings-profile.png)
 4. Click on the 'Edit Profile' button.
