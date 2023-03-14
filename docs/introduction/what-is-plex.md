@@ -25,7 +25,7 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
 ## How do I watch content on Plex?
 To get the best playback experience, you'll need to use a Plex player that's specific to your hardware and platform. There is a small one-time fee (around $5 USD) to activate the Plex player on some platforms like iPhone and iPad, as well as Android phones and tablets. This fee unlocks the player on all devices associated with your account.
 
-!!! question Troubles Streaming?
+!!! question "Streaming Troubles?"
   
   Having issues streaming from your device? Be sure to check out our **[Frequently Asked Questions](#)** section to help resolve your issues. 
 
