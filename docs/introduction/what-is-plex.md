@@ -1,6 +1,6 @@
 # What is Plex?
 
-Plex is a streaming service that allows you to watch movies, TV shows, and other media on your computer, smartphone, tablet, or smart TV. It's like having your own personal Netflix or Amazon Prime Video, but with content curated by someone you know and trust.
+Plex is a streaming service that allows you to watch movies, TV shows, and other media on your computer, smartphone, tablet, or smart TV. It's like having your own personal Netflix or Amazon Prime Video, but with content curated by someone you know and trust instead of a faceless corporation.
 
 ## Is Plex free?
 Plex is free to use as a software. However, on some mobile operating systems such as Android or iOS, a small one-time fee (around $5 USD) may be required to activate the Plex player on your iTunes or Google Play account. This will unlock the player on all the devices you use on your account.
@@ -25,7 +25,7 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
 ## How do I watch content on Plex?
 To get the best playback experience, you'll need to use a Plex player that's specific to your hardware and platform. There is a small one-time fee (around $5 USD) to activate the Plex player on some platforms like iPhone and iPad, as well as Android phones and tablets. This fee unlocks the player on all devices associated with your account.
 
-!!! question "Streaming Troubles?"
+!!! warning "Streaming Troubles?"
   
     Having issues streaming from your device? Be sure to check out our **[Frequently Asked Questions](#)** section to help resolve your issues. 
 
