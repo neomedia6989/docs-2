@@ -4,6 +4,8 @@ Plex servers are organized with Libraries in order to help organize and sort con
 
 Libraries are often further separated into subjects like 4K, Reality TV, Kid's TV or Documentaries to facilitate finding what you want to watch.[^1]
 
+Plex recently created a Watchlist and Discover tab for users to curate and explore content as well. The Watchlist feature allows you to make a single list of all the movies or shows you plan to watch, regardless of where they’re found, even including content that’s not yet released. The Discover library, on the other hand, lets you browse trending and popular content from across your mediaverse, and shows you where it's available to watch, including any Plex Media Server available to your Plex account, Plex’s own free Movies & Shows streaming service, and other popular streaming services such as Netflix, Disney+, Amazon Prime, and Funimation, starting with the ones you regularly use.
+
  <details>
   <summary>What about our libraries?</summary>
   <br />
@@ -33,4 +35,4 @@ With Plex and Blackbeard Media, you have control over what you watch and how you
 
 One of the advantages of using Plex and Blackbeard Media is that it is available on a variety of devices and platforms, making it accessible to a wide audience. With our user-friendly navigation and extensive libraries of movies and TV shows, with audiobooks and music coming soon, you can easily find new content to explore based on your interests and preferences.
 
-[^1]: The Plex creators recently added new Libraries that appears for all users called Movies & TV On Plex, Web Shows, Podcasts and Music. Users should know that the ad-supported content in this special library is not provided by the owner of the Plex server and is available through a deal between Plex software and a number of movie and/or music studios. Plex server owners have no control over the content of this library. In most Plex players, you can find an option to Unpin this library from your list so it doesn't appear.
+[^1]: The Plex creators recently added new Libraries that appears for all users called Movies & Shows, Live TV and Music. Users should know that the ad-supported content in these special libraries is not provided by the owner of the Plex server and is available through a deal between Plex software and a number of movie and/or music studios. Plex server owners have no control over the content of these libraries. In most Plex players, you can find an option to unpin these library from your list so it doesn't appear.
