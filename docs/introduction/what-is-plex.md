@@ -9,9 +9,8 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
 
  <details>
   <summary>Why Choose Us?</summary>
-  <br /><br />
  Our Plex server is unique because we focus on providing the best quality all around - whether it's the content we offer, our hardware and network, or our community. Here are some specific features and benefits that set us apart:
- <br /><br />
+ <br />
 <ul>
  <li><strong>Vast Library of Content:</strong> We have a huge library, which contains over 37,000 movies and 12,000 TV shows, including over 1,750 4K movies and 1,250+ 4K TV shows, as well as 157 MasterClass courses. We're always adding new content to our servers and aim to have movies up within hours of their digital release and TV shows up within an hour of airing. Don't forget about our wide range of other media, including music, audiobooks, e-books, manga, and comics.</li>
   <li><strong>High-Quality Playback:</strong> We utilize top-of-the-line server hardware and storage devices to provide you with the best playback experience possible. With access to private torrent trackers, Usenet indexers, and our own internal releases, we offer the highest quality content available. Our content features dedicated DolbyVision libraries, lossless and/or Atmos audio whenever possible, and if a file isn't up to our standards, we'll promptly replace it with a better version.</li>
@@ -21,23 +20,6 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
   <li><strong>Engaging Community:</strong> We have a huge emphasis on our community and encourage all users to join our Discord to engage in conversation and help out all other users. Our community is known for being welcoming and supportive. We have regular giveaways and events as well as curated, daily questions to engage users and weekly movie selections to drive conversation and help you discover more to watch!</li>
  </ul>
   </details>
-
-???+ tip "Why Choose Us?"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-
-???+ tip "Test"
-
-    Our Plex server is unique because we focus on providing the best quality all around - 
-    whether it's the content we offer, our hardware and network, or our community. Here are some specific features and benefits that set us apart:
-    - **Vast Library of Content:** We have a huge library, which contains over 37,000 movies and 12,000 TV shows, 
-    including over 1,750 4K movies and 1,250+ 4K TV shows, as well as 157 MasterClass courses. 
-    We're always adding new content to our servers and aim to have movies up within hours of their 
-    digital release and TV shows up within an hour of airing. Don't forget about our wide range of other media, 
-    including music, audiobooks, e-books, manga, and comics.
 
 ## Is Plex legal?
 Plex is just a collection of software encompassing servers and clients. Plex itself is perfectly legal.
