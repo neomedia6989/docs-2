@@ -27,23 +27,23 @@ Our libraries are divided into multiple collections, which are split to help org
 
 With Plex and Blackbeard Media, you have control over what you watch and how you watch it. One of the main ways you can customize your viewing experience on Plex is by curating your own playlists and using filters and sorting options. You can easily access these features within each library, where you have the option to switch between Recommended, Library, Collections, or Playlists.
 
-???+ info "Recommended"
+??? info "Recommended"
 
     This view shows a mix of items that are new or popular in the library selected by the server.
     
     We utilize this page to show you what is popular and trending with TMDb and Trakt charts as well as what is popular on streaming platforms, such as Disney+, HBO Max, Hulu, Netflix and more!
 
-???+ info "Library"
+??? info "Library"
 
     This view shows the full contents of the library in alphabetical order by default, but you can use filters and sorting to change how the list is presented. With personalized recommendations based on viewing history, you can find new content that fits your interests and preferences. Plex offers a user-friendly interface that makes it easy to navigate and find the content you want.
 
-???+ info "Collections"
+??? info "Collections"
 
     If the server owner has curated collections of content, they will appear here. These may include grouped genres of movies, different TV networks for series, or film franchises.
     
     We utilize Plex Meta Manager to keep up-to-date collections for all libraries to help organize content based on streaming service, broadcast network, popular and trending charts as well as country, franchise, language and more!
 
-???+ info "Playlists"
+??? info "Playlists"
 
     If the server owner has curated playlists of content, such as all the films in a series, they may be presented here. It is normal if this page is empty.
 
