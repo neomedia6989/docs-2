@@ -7,64 +7,44 @@ Plex is free to use as a software. However, on some mobile operating systems suc
 
 Our streaming services that utilizes Plex do have costs. We offer Plex share plans ranging from $1.99 per month to $8.99 per month. Additionally, we offer appboxes which range from $14.99 to $29.99 per month. Appboxes allow users to invite their friends and family to join the server at no additional cost.
 
-!!! tip "Current Share Plans"
+??? tip "Share Plans"
 
     === ":octicons-smiley-24: Basic"
 
         - 1 Simultaneous Stream
         - Full HD Access
         - Anime Access
-        - Global CDN
+        - Curated Collections
+        - Global CDN w/ Georouting
         
-        [:octicons-arrow-right-24: Subscribe started](https://blackbeard.media/subscribe "$1.99/mo")
+        [:octicons-arrow-right-24: Subscribe](https://blackbeard.media/subscribe "$1.99/mo")
+        
+    === ":material-star: Standard"
 
-    === "Ordered List"
+        - 3 Simultaneous Stream
+        - Full HD Access
+        - Anime Access
+        - MasterClass Access
+        - Curated Collections
+        - Global CDN w/ Georouting
+        - Audiobookshelf / Kavita Access
+        
+        [:octicons-arrow-right-24: Subscribe](https://blackbeard.media/subscribe "$5.99/mo")
+        
+    === ":material-diamond-stone: Premium"
 
-        ``` markdown
-        1. Sed sagittis eleifend rutrum
-        2. Donec vitae suscipit est
-        3. Nulla tempor lobortis orci
-        ```
+        - 4 Simultaneous Stream
+        - Full HD Access
+        - 4K Access
+        - Anime Access
+        - MasterClass Access
+        - Curated Collections
+        - Advanced Overlays *(4K libraries only)*
+        - Global CDN w/ Georouting
+        - Audiobookshelf / Kavita Access
+        
+        [:octicons-arrow-right-24: Subscribe](https://blackbeard.media/subscribe "$7.99/mo")
      
-
-<div class="grid cards" markdown>
-
--   :octicons-smiley-24:{ .lg .middle } __Basic__ $1.99/mo
-
-    ---
-
-    - 1 Simultaneous Stream
-    - Full HD Access
-    - Anime Access
-    - Global CDN
-
-    [:octicons-arrow-right-24: Subscribe started](https://blackbeard.media/subscribe)
-
--   :material-star:{ .lg .middle } __Standard__ $5.99/mo
-
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Subscribe](https://blackbeard.media/subscribe)
-
--   :material-diamond-stone:{ .lg .middle } __Premium__ $7.99/mo
-
-    ---
-
-    Change the colors, fonts, language, icons, logo and more with a few lines
-
-    [:octicons-arrow-right-24: Subscribe](https://blackbeard.media/subscribe)
-
--   :material-sale-outline:{ .lg .middle } __Regular Sales__
-
-    ---
-
-    Material for MkDocs is licensed under MIT and available on [GitHub]
-
-    [:octicons-arrow-right-24: Check Now](https://blackbeard.media/subscribe)
-
-</div>
 
  <details>
   <summary>Why choose us?</summary>
