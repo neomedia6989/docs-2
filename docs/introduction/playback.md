@@ -16,6 +16,7 @@ To increase the quality of your playback experience, locate the settings in your
 
 By default, Plex's out-of-the-box quality settings limit the bandwidth to 8Mbps, which means that many files will have to be transcoded to meet this limit. However, this can result in decreased video quality and increased server load. The good news is that adjusting the quality settings for your specific client can lead to optimum playback without unnecessary transcoding. To do this, simply select your client below and follow the recommended settings for the best possible playback experience:
 
+### Media Clients
 <div class="grid cards" markdown>
 - :simple-amazonfiretv: __[Amazon FireTV](#)__
 - :simple-android: __[Android TV](#)__
@@ -26,6 +27,10 @@ By default, Plex's out-of-the-box quality settings limit the bandwidth to 8Mbps,
 - :material-plex: __[Plex Web Player](#)__
 - :simple-roku: __[Roku](#)__
 - :simple-xbox: __[Xbox](#)__
+</div>
+
+### Mobile Clients
+<div class="grid cards" markdown>
 - :simple-android: __[Android Devices](#)__
 - :simple-ios: __[Apple Devices](#)__
 </div>
