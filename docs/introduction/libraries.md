@@ -20,7 +20,7 @@ Our libraries are divided into multiple collections, which are split to help org
  <li><strong>TV - Anime:</strong> Anime lovers will find a huge selection of animated TV shows in this library.</li>
  <li><strong>TV - 4K:</strong> Watch TV shows in stunning 4K resolution with this library, which includes popular series from different networks.</li>
  <li><strong>TV - 4K DV:</strong> Get an even more immersive viewing experience with this library of TV shows in 4K with Dolby Vision.</li>
- <li><strong>MasterClass: Learn new skills from the world's top experts with this library of educational videos.</li>
+ <li><strong>MasterClass:</strong> Learn new skills from the world's top experts with this library of educational videos.</li>
 <br />
   We will soon be expanding our collection of libraries to include Movies - Concerts, Movies - Documentary, Movies - Sports, Movies - Stand-Up, TV - Documentary, TV - Family, and TV - Reality. Stay tuned for even more content to explore!
   </details>
