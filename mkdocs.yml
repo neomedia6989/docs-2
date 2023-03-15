@@ -83,6 +83,7 @@ nav:
   - Home: index.md
   - Plex: 
     - What Is Plex?: plex/what-is-plex.md
+    - Getting Started: plex/getting-started.md
     - Libaries / Navigation: plex/libraries.md
     - Playback / Playback Quality: plex/playback.md
     - Requests: plex/requests.md
