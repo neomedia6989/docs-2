@@ -20,7 +20,7 @@ Your Plex profile is a way to personalize your streaming experience and showcase
 2. On this page, you can begin customizing your profile by setting your profile picture, username, full name, set up two-factor authentication, set your preferred audio & subtitle settings, and link other accounts.
 
 
-??? tip "Recommended Settings"
+???+ tip "Recommended Settings"
 
     === "Two-Factor Authentication"
 
@@ -45,4 +45,12 @@ Your Plex profile is a way to personalize your streaming experience and showcase
         
     === "Unsubscribe from Emails"
 
-        If you're receiving too many emails from Plex or you simply don't want to receive any promotional emails, it's recommended to adjust your email subscription settings to unsubscribe from all emails. By doing so, you'll stop receiving all non-essential emails from Plex, including promotional emails, account notifications, and updates. This will help declutter your inbox and prevent unnecessary distractions while still allowing you to enjoy using Plex. You can change your email subscription settings by going to your account settings page and selecting "Email Preferences." From there, you can uncheck all email types that you do not wish to receive and click "Save Changes" to update your settings.
+        If you're receiving too many emails from Plex or you simply don't want to receive any promotional emails, it's recommended to adjust your email subscription settings to unsubscribe from all emails. By doing so, you'll stop receiving all non-essential emails from Plex, including promotional emails, account notifications, and updates. This will help declutter your inbox and prevent unnecessary distractions while still allowing you to enjoy using Plex. 
+        
+        You can change your email subscription settings here on the account settings page and selecting "Email Preferences." From there, you can uncheck all email types that you do not wish to receive and click "Save Changes" to update your settings.
+
+Additionally, users can manage their privacy settings and choose which badges are displayed on their profile, whether to include their location, and if they want to add a short biography or a link to any other online presence. This allows for further customization of their profile and control over the information shared with other Plex users.
+
+1. Hover over your profile picture and click on 'View Profile'.
+2. Click on the 'Edit Profile' button.
+3. You can update the final part of your profile to manage privacy settings, which badges are displayed, include your location, a short biography, or a link to any other online presence.
