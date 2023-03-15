@@ -8,7 +8,7 @@ Plex is free to use as a software. However, on some mobile operating systems suc
 Our streaming services that utilizes Plex do have costs. We offer Plex share plans ranging from $1.99 per month to $8.99 per month. Additionally, we offer appboxes which range from $14.99 to $29.99 per month. Appboxes allow users to invite their friends and family to join the server at no additional cost.
 
  <details>
-  <summary>Why Choose Us?</summary>
+  <summary>Why choose us?</summary>
  <br />
  Our Plex server is unique because we focus on providing the best quality all around - whether it's the content we offer, our hardware and network, or our community. Here are some specific features and benefits that set us apart:
  <br />
