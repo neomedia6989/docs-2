@@ -53,4 +53,4 @@ Additionally, users can manage their privacy settings and choose which badges ar
 
 1. Hover over your profile picture and click on 'View Profile'.
 2. Click on the 'Edit Profile' button.
-3. You can update the final part of your profile to manage privacy settings, which badges are displayed, include your location, a short biography, or a link to any other online presence.
+3. You can update the final part of your profile to manage privacy settings and all personal information.
