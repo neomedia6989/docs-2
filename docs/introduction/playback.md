@@ -26,11 +26,11 @@ If the connection from your client to a Plex server only allows for 10Mbps, and 
 
 Without getting too technical, each client (PC, TV, phone, web player, etc.) and the different Plex apps have different capabilities based on your device's codec support. What this means is that if you attempt to play a video (encoded in the H.265 codec) on a given device, but this client doesn't support that codec, it will transcode it to a different codec that it can play, once again requiring server resources and lowering quality. The main things to look for in regards to client support include the following:
 
-- **Codec support:** The client needs support the codecs used in your media files to avoid transcoding. Common codecs include H.264, H.265 (HEVC), and VP9.
-- **Audio support:** The client needs support the audio formats used in your media files. Common audio formats include AAC, AC3, EAC3, and DTS.
-- **Subtitle support:** The client needs to be able to display subtitles for any media files you watch without the need for transcoding.
-- **HDR support:** If you are watching HDR content, the client needs support HDR playback to ensure the best possible viewing experience. This is very important in regards to DolbyVision.
-- **Resolution support:** The client needs be able to handle the resolution of your media files without the need for transcoding. For example, if you are watching 4K content, the client should be able to play it without downsampling it to 1080p.
+- [x] **Codec support:** The client needs support the codecs used in your media files to avoid transcoding. Common codecs include H.264, H.265 (HEVC), and VP9.
+- [x] **Audio support:** The client needs support the audio formats used in your media files. Common audio formats include AAC, AC3, EAC3, and DTS.
+- [x] **Subtitle support:** The client needs to be able to display subtitles for any media files you watch without the need for transcoding.
+- [x] **HDR support:** If you are watching HDR content, the client needs support HDR playback to ensure the best possible viewing experience. This is very important in regards to DolbyVision.
+- [x] **Resolution support:** The client needs be able to handle the resolution of your media files without the need for transcoding. For example, if you are watching 4K content, the client needs to be able to play it without downsampling it to 1080p.
 
 #### Subtitles
 
@@ -56,9 +56,30 @@ When joining a share, server owners usually explicitly mention which of these yo
 
 So enough about the evils of transcoding, how do you actually avoid it? As I mentioned earlier, this is usually dependent on the device's capability and the application you are using. But for most devices, you should be able to avoid transcoding, simply by going into Settings > Video > Set quality to Original/Maximum/Direct Play only. We will go further the settings for each client below. Enabling subtitles can also sometimes lead to transcoding if your device doesn't natively support them. The best way to avoid these issues is to use the devices which have the highest compatibility and support for a wide variety of formats. Here are some general good devices and tips:
 
-- When on a computer, *always* try to use the Plex Media Player app, instead of the browser players (ie. Chrome). You will get tone-mapping support, subtitle support, and better video/audio support. You will almost never transcode when using the official app.
-- The NVidia shield and Apple TV 4K (w/ Infuse) are heralded as the best TV boxes in terms of direct play support, ability to play 4K, HDR, and much much more.
-- There are also other cheaper Android TV boxes that CAN work well, but make sure to research further into these to ensure they are able to do what you want (i.e., Atmos audio, subtitle support, x265 support, etc.)
+#### What device should I buy for Plex?
+
+<div class="grid" markdown>
+=== "Nvidia Shield Pro"
+    * Powerful hardware: The Shield Pro is equipped with a powerful Tegra X1+ processor and 3GB of RAM, which makes it capable of handling demanding video codecs and high bitrate streams without any lag or buffering.
+    * Wide codec support: The Shield Pro supports a wide range of video and audio codecs, including H.265 (HEVC), VP9, and Dolby Vision, which allows for direct playback of most media files without transcoding.
+    * 4K HDR streaming: The Shield Pro supports 4K HDR and DolbyVision streaming, which provides high-quality video playback with vibrant colors and deep contrast.
+    * Ethernet port: The Shield Pro has a Gigabit Ethernet port, which allows for fast and stable network connectivity and reduces the risk of buffering or playback issues.
+=== "Apple TV 4K"
+    * A12 Bionic Chip: The Apple TV 4K is equipped with the A12 Bionic chip, which makes it one of the most powerful streaming devices on the market, capable of handling demanding video codecs and high bitrate streams.
+    * Wide codec support: The Apple TV 4K supports a wide range of video and audio codecs, including H.265 (HEVC), HDR10, Dolby Vision, and Dolby Atmos, which allows for direct playback of most media files without transcoding.
+    * 4K HDR streaming: The Apple TV 4K supports 4K HDR streaming, which provides high-quality video playback with vibrant colors and deep contrast.
+    * Ethernet port: Depending on model, the Apple TV 4K has a Gigabit Ethernet port, which allows for fast and stable network connectivity and reduces the risk of buffering or playback issues.
+    * Infuse Pro: Infuse Pro is good for Plex streaming on iOS because it offers a user-friendly interface and supports a wide range of video and audio codecs, including high-resolution formats such as 4K DolbyVision and Dolby Atmos.
+=== "FireStick 4K Max"
+    * Powerful hardware: The FireStick 4K Max is equipped with a powerful quad-core 1.8 GHz processor and 2GB of RAM, which makes it capable of handling demanding video codecs and high bitrate streams without any lag or buffering.
+    * Wide codec support: The FireStick 4K Max supports a wide range of video and audio codecs, including H.265 (HEVC), HDR10, HDR10+, and Dolby Vision, which allows for direct playback of most media files without transcoding.
+    * 4K HDR streaming: The FireStick 4K Max supports 4K HDR and DolbyVision streaming, which provides high-quality video playback with vibrant colors and deep contrast.
+    * Wi-Fi 6 and Ethernet support: The FireStick 4K Max has Wi-Fi 6 and Ethernet support, which allows for fast and stable network connectivity and reduces the risk of buffering or playback issues.
+</div>
+
+???+ tip "Pro-tip"
+
+    When on a computer, *always* try to use the Plex Media Player app, instead of the browser players (i.e. Chrome). You will get tone-mapping support, subtitle support, and better video/audio support. You will almost never have to transcode when using the official app.
 
 ## Recommended quality settings
 
