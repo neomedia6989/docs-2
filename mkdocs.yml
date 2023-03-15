@@ -35,6 +35,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
+plugins:
+  - glightbox
+  
 theme:
   name: material
   icon:
