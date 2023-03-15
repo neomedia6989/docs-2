@@ -54,3 +54,13 @@ Additionally, users can manage their privacy settings and choose which badges ar
 1. Hover over your profile picture and click on 'View Profile'.
 2. Click on the 'Edit Profile' button.
 3. You can update the final part of your profile to manage privacy settings and all personal information.
+
+## Accepting Your Invite
+
+If you've been invited to join Plex, either by signing up for our service or through a friend or family member's invitation, you may be wondering how to accept the invite and get started. Luckily, accepting a Plex invite is a simple process that can be done in just a few clicks. In this section, we'll go over the steps to accept a Plex invite and get you on your way to enjoying all that Plex has to offer.
+
+1. Go to [https://plex.tv](https://plex.tv/) and login with your Plex account credentials
+2. Access the Plex web app by clicking on the 'Open Plex' button
+3. Decide if you want to sync your watched status, which is useful if you have access to multiple servers
+4. Open 'Settings' by clicking on the wrench icon in the top right
+[![](../media/plex-settings.png "Open Plex Settings")](https://docs.blackbeard.media/media/plex-settings.png){ align=right }
