@@ -9,6 +9,20 @@ Plex recently created a Watchlist and Discover tab for users to curate and explo
  <details>
   <summary>What about our libraries?</summary>
   <br />
+Our libraries are divided into multiple collections, which are split to help organize content and make it easier for you to discover and decide what you want to watch. Currently, we have 10 libraries, each offering a unique collection of content:<br />
+<ul>
+ <li><strong>Movies:</strong> This library includes a broad selection of popular movies across different genres and eras.</li>
+ <li><strong>Movies - Anime:</strong> For fans of anime, this library features a vast collection of animated movies and TV shows.</li>
+ <li><strong>Movies - Foreign:</strong> Discover movies from around the world with this library, which includes foreign-language films with English subtitles.</li>
+ <li><strong>Movies - 4K:</strong> Get the ultimate viewing experience with this library of 4K movies, featuring stunning resolution and detail.</li>
+ <li><strong>Movies - 4K DV:</strong> This library offers 4K movies with Dolby Vision, providing an even more immersive viewing experience.</li>
+ <li><strong>TV:</strong> Find your favorite TV shows and binge-watch them with this library, which includes both classic and current TV series.</li>
+ <li><strong>TV - Anime:</strong> Anime lovers will find a huge selection of animated TV shows in this library.</li>
+ <li><strong>TV - 4K:</strong> Watch TV shows in stunning 4K resolution with this library, which includes popular series from different networks.</li>
+ <li><strong>TV - 4K DV:</strong> Get an even more immersive viewing experience with this library of TV shows in 4K with Dolby Vision.</li>
+ <li><strong>MasterClass: Learn new skills from the world's top experts with this library of educational videos.</li>
+<br />
+  We will soon be expanding our collection of libraries to include Movies - Concerts, Movies - Documentary, Movies - Sports, Movies - Stand-Up, TV - Documentary, TV - Family, and TV - Reality. Stay tuned for even more content to explore!
   </details>
 
 With Plex and Blackbeard Media, you have control over what you watch and how you watch it. One of the main ways you can customize your viewing experience on Plex is by curating your own playlists and using filters and sorting options. You can easily access these features within each library, where you have the option to switch between Recommended, Library, Collections, or Playlists.
