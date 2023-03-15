@@ -48,6 +48,7 @@ theme:
     - navigation.tracking
     - navigation.path
     - navigation.tabs
+    - content.tooltips
     
   language: en
 
