@@ -79,10 +79,10 @@ nav:
   - Home: index.md
   - Plex: 
     - What Is Plex?: plex/what-is-plex.md
-    - Libaries / Navigation: introduction/libraries.md
-    - Playback / Playback Quality: introduction/playback.md
-    - Requests: introduction/requests.md
-    - Things to Consider: introduction/things-to-consider.md
+    - Libaries / Navigation: plex/libraries.md
+    - Playback / Playback Quality: plex/playback.md
+    - Requests: plex/requests.md
+    - Things to Consider: plex/things-to-consider.md
   - Shares:
     - Creating a Plex Account: plex/creating-your-account.md
     - Accepting your Plex invitation: plex/accepting-your-invite.md
