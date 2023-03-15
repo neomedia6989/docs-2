@@ -47,6 +47,5 @@ With Plex and Blackbeard Media, you have control over what you watch and how you
 
     If the server owner has curated playlists of content, such as all the films in a series, they may be presented here. It is normal if this page is empty.
 
-One of the advantages of using Plex and Blackbeard Media is that it is available on a variety of devices and platforms, making it accessible to a wide audience. With our user-friendly navigation and extensive libraries of movies and TV shows, with audiobooks and music coming soon, you can easily find new content to explore based on your interests and preferences.
-
+ 
 [^1]: The Plex creators recently added new Libraries that appears for all users called Movies & Shows, Live TV and Music. Users should know that the ad-supported content in these special libraries is not provided by the owner of the Plex server and is available through a deal between Plex software and a number of movie and/or music studios. Plex server owners have no control over the content of these libraries. In most Plex players, you can find an option to unpin these library from your list so it doesn't appear.
