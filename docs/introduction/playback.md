@@ -17,31 +17,34 @@ To increase the quality of your playback experience, locate the settings in your
   <br />
 By default, Plex's out-of-the-box quality settings limit the bandwidth to 8Mbps, which means that many files will have to be transcoded to meet this limit. However, this can result in decreased video quality and increased server load. The good news is that adjusting the quality settings for your specific client can lead to optimum playback without unnecessary transcoding. To do this, simply select your client below and follow the recommended settings for the best possible playback experience:<br />
 <div class="grid cards" markdown>
-
 - :simple-amazonfiretv: __[Amazon FireTV](#)__
-
 - :simple-android: __[Android TV](#)__
-
 - :simple-apple: __[AppleTV](#)__
-  
 - :simple-kodi: __[Kodi](#)__
-  
 - :simple-lg: __[LG / WebOS](#)__
-  
 - :material-plex: __[Plex Media Player](#)__
-  
 - :material-plex: __[Plex Web Player](#)__
-  
 - :simple-roku: __[Roku](#)__
-
 - :simple-xbox: __[Xbox](#)__
-
 - :simple-android: __[Android Devices](#)__
-
 - :simple-ios: __[Apple Devices](#)__
-
 </div>
 
 <br />
 By adjusting these settings, you can ensure that your media is streamed in the best possible quality without causing unnecessary server strain.
   </details>
+  
+<div class="grid cards" markdown>
+- :simple-amazonfiretv: __[Amazon FireTV](#)__
+- :simple-android: __[Android TV](#)__
+- :simple-apple: __[AppleTV](#)__
+- :simple-kodi: __[Kodi](#)__
+- :simple-lg: __[LG / WebOS](#)__
+- :material-plex: __[Plex Media Player](#)__
+- :material-plex: __[Plex Web Player](#)__
+- :simple-roku: __[Roku](#)__
+- :simple-xbox: __[Xbox](#)__
+- :simple-android: __[Android Devices](#)__
+- :simple-ios: __[Apple Devices](#)__
+</div>
+
