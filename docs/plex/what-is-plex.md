@@ -24,7 +24,7 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
 
         Starting at __$5.99/mo__
         
-        - 3 Simultaneous Stream
+        - 3 Simultaneous Streams
         - Full HD Access
         - Curated Collections
         - Global CDN w/ Georouting
@@ -36,7 +36,7 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
 
         Starting at __$7.99/mo__
         
-        - 4 Simultaneous Stream
+        - 4 Simultaneous Streams
         - Full HD Access
         - 4K Access
         - Curated Collections
@@ -54,11 +54,8 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
         
         - 1 Dedicated Transcode
         - Up to 4 Direct Plays
-        - 16 Core / 24 Threads Shared
-        - 128GB DDR4 RAM Shared
-        - 1TB M.2 NVMe SSD Shared
         - Global CDN w/ Georouting Available
-        - Advanced PMM Collections Available
+        - Advanced PMM Collections/Overlays Available
         
         [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
         
@@ -66,13 +63,10 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
 
         __$22.99/mo__
         
-        - 3 Dedicated Transcode
+        - 3 Dedicated Transcodes
         - Up to 6 Direct Plays
-        - 16 Core / 24 Threads Shared
-        - 128GB DDR4 RAM Shared
-        - 1TB M.2 NVMe SSD Shared
         - Global CDN w/ Georouting Available
-        - Advanced PMM Collections Available
+        - Advanced PMM Collections/Overlays Available
         
         [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
         
@@ -80,13 +74,21 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
 
         __$29.99/mo__
         
-        - 6 Dedicated Transcode
+        - 6 Dedicated Transcodes
         - Up to 10 Direct Plays
-        - 16 Core / 24 Threads Shared
-        - 128GB DDR4 RAM Shared
-        - 1TB M.2 NVMe SSD Shared
         - Global CDN w/ Georouting Available
-        - Advanced PMM Collections Available
+        - Advanced PMM Collections/Overlays Available
+        
+        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
+
+    === "Extra Large"
+
+        __$49.99/mo__
+        
+        - 10 Dedicated Transcodes
+        - Up to 20 Direct Plays
+        - Global CDN w/ Georouting Available
+        - Advanced PMM Collections/Overlays Available
         
         [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
 
