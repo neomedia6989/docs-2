@@ -41,7 +41,7 @@ With Plex and Blackbeard Media, you have control over what you watch and how you
 
     If the server owner has curated collections of content, they will appear here. These may include grouped genres of movies, different TV networks for series, or film franchises.
     
-    We utilize Plex Meta Manager to keep up-to-date collections for all libraries to help organize content based on streaming service, broadcast network, popular and trending charts as well as country, franchise, language and more! 
+    We utilize Plex Meta Manager to keep up-to-date collections for all libraries to help organize content based on streaming service, broadcast network, popular and trending charts as well as country, franchise, language and more!
 
 ??? info "Playlists"
 
