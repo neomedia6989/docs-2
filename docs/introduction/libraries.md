@@ -31,7 +31,7 @@ With Plex and Blackbeard Media, you have control over what you watch and how you
 
     This view shows a mix of items that are new or popular in the library selected by the server.
     
-    We utilize this page to show you what is popular and trending with TMDb and Trakt charts as well as what is popular on streaming platforms, such as Disney+, HBO Max, Hulu, Netflix and more!
+    We utilize this page to show you what is popular and trending with TMDb and Trakt charts as well as what is popular on streaming platforms, such as Disney+, HBO Max, Hulu, Netflix and more! 
 
 ??? info "Library"
 
