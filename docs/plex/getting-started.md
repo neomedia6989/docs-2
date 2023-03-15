@@ -64,9 +64,17 @@ If you've been invited to join Plex, either by signing up for our service or thr
 3. Decide if you want to sync your watched status, which is useful if you have access to multiple servers
 4. Open 'Settings' by clicking on the wrench icon in the top right
 
-![(../media/plex-settings.png "Open Plex Settings")](https://docs.blackbeard.media/media/plex-settings.png){ align=right }
-
+<figure markdown>
+![(../media/plex-settings.png "Open Plex Settings")](https://docs.blackbeard.media/media/plex-settings.png){ width=500 }
+</figure>
+    
 5. Select **Manage Library Access**
 6. Find the invitation section and click the checkmark after verifying the server is in fact ours or the one you were expecting
 7. Click the 'Home' icon to go to the home screen of Plex
-![(../media/plex-settings.png "Accept the invite and go home")](https://docs.blackbeard.media/media/invite-location.png){ align=right }
+
+<figure markdown>
+![(../media/plex-settings.png "Accept the invite and go home")](https://docs.blackbeard.media/media/invite-location.png){ width=500 }
+</figure>
+
+## How to Setup Your Libraries
+
