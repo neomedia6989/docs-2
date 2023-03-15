@@ -1,4 +1,4 @@
-# Libraries
+# Libraries and How to Navigate in Plex
 
 Plex servers are organized with Libraries in order to help organize and sort content. Libraries are broad categories like TV shows and movies, and depending on what device or platform you're using Plex from, the interface can vary slightly. Typically, you will find a list of the Libraries on the server located in a table on the left side of the display. Clicking or tapping the name of a Library will change the content view on the bulk of the page to that Library.
 
