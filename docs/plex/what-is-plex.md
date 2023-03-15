@@ -7,6 +7,44 @@ Plex is free to use as a software. However, on some mobile operating systems suc
 
 Our streaming services that utilizes Plex do have costs. We offer Plex share plans ranging from $1.99 per month to $7.99 per month. Additionally, we offer appboxes which range from $14.99 to $29.99 per month. Appboxes allow users to invite their friends and family to join the server at no additional cost.
 
+??? info "Share Plans"
+
+    === "Basic"
+
+        __$1.99/mo__
+        - 1 Simultaneous Stream
+        - Full HD Access
+        - Curated Collections
+        - Global CDN w/ Georouting
+        
+        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
+        
+    === "Standard"
+
+        __$5.99/mo__
+        
+        - 3 Simultaneous Stream
+        - Full HD Access
+        - Curated Collections
+        - Global CDN w/ Georouting
+        - Audiobookshelf / Kavita Access
+        
+        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
+        
+    === "Premium"
+
+        __$7.99/mo__
+        
+        - 4 Simultaneous Stream
+        - Full HD Access
+        - 4K Access
+        - Curated Collections
+        - Advanced Overlays *(4K libraries only)*
+        - Global CDN w/ Georouting
+        - Audiobookshelf / Kavita Access
+        
+        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
+
 ??? info "Appbox Plans"
 
     === "Small"
@@ -48,44 +86,6 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
         - 1TB M.2 NVMe SSD Shared
         - Global CDN w/ Georouting Available
         - Advanced PMM Collections Available
-        
-        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
-     
-??? info "Share Plans"
-
-    === "Basic"
-
-        __$1.99/mo__
-        - 1 Simultaneous Stream
-        - Full HD Access
-        - Curated Collections
-        - Global CDN w/ Georouting
-        
-        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
-        
-    === "Standard"
-
-        __$5.99/mo__
-        
-        - 3 Simultaneous Stream
-        - Full HD Access
-        - Curated Collections
-        - Global CDN w/ Georouting
-        - Audiobookshelf / Kavita Access
-        
-        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
-        
-    === "Premium"
-
-        __$7.99/mo__
-        
-        - 4 Simultaneous Stream
-        - Full HD Access
-        - 4K Access
-        - Curated Collections
-        - Advanced Overlays *(4K libraries only)*
-        - Global CDN w/ Georouting
-        - Audiobookshelf / Kavita Access
         
         [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
 
