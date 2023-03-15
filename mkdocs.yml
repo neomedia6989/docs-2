@@ -77,17 +77,13 @@ theme:
 
 nav:
   - Home: index.md
-  - Introduction: 
-    - What Is Plex?: introduction/what-is-plex.md
-    - Libaries: introduction/libraries.md
-    - Navigation: introduction/navigation.md
-    - Playback: introduction/playback.md
-    - Playback Quality: introduction/playback-quality.md
-    - Things to Consider: introduction/things-to-consider.md
-    - Quality vs Quantity: introduction/quality-vs-quantity.md
-    - Transcode vs Direct Play: introduction/transcode-vs-direct-play.md
+  - Plex: 
+    - What Is Plex?: plex/what-is-plex.md
+    - Libaries / Navigation: introduction/libraries.md
+    - Playback / Playback Quality: introduction/playback.md
     - Requests: introduction/requests.md
-  - Plex:
+    - Things to Consider: introduction/things-to-consider.md
+  - Shares:
     - Creating a Plex Account: plex/creating-your-account.md
     - Accepting your Plex invitation: plex/accepting-your-invite.md
     - Recommended Client Settings: clients/index.md
