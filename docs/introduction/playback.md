@@ -22,7 +22,7 @@ By default, Plex's out-of-the-box quality settings limit the bandwidth to 8Mbps,
 
 - :simple-android: __[Android TV](#)__
 
-- :simple-apple: __[AppleTV(#)__
+- :simple-apple: __[AppleTV](#)__
   
 - :simple-kodi: __[Kodi](#)__
   
