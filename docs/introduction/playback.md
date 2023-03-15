@@ -20,15 +20,20 @@ If you play video via Plex and reduce the streaming quality to anything lower th
 
 `Slow Connection`
 
-:   If the connection from your client to a Plex server only allows for 10Mbps, and if the file you are playing is averaging 40Mbps, the Plex server will attempt to transcode the HQ video into a 10Mbps stream so that you can get smooth playback without stuttering, pausing, or buffering. This is usually most apparent on slower connections or on mobile devices with slow roaming connections.
+:   If the connection from your client to a Plex server only allows for 10Mbps, and if the file you are playing is averaging 40Mbps, the Plex server will attempt to transcode the HQ video into a 10Mbps stream so that you can get smooth playback without stuttering, pausing, or buffering. This is usually most apparent on slower connections or on mobile devices with slow roaming connections. Please be aware that the bitrate shown in Plex is the average bitrate and you may require up to twice as much bandwidth to be able to direct play the video without issues.
 
 `Client Support`
 
-:   Without getting too technical, each client (TV, phone, PC, web player, etc.) and the different Plex apps have different capabilities based on your device's codec support. What this means is that if you attempt to play Video A (encoded in the H.265 codec) on Client A, and this Client A doesn't support that codec, it will transcode it to a different codec that it can play, once again requiring server resources.
+:   Without getting too technical, each client (PC, TV, phone, web player, etc.) and the different Plex apps have different capabilities based on your device's codec support. What this means is that if you attempt to play a video (encoded in the H.265 codec) on a given device, but this client doesn't support that codec, it will transcode it to a different codec that it can play, once again requiring server resources and lowering quality. The main things to look for in regards to client support include the following:
+    - **Codec support:** The client needs support the codecs used in your media files to avoid transcoding. Common codecs include H.264, H.265 (HEVC), and VP9.
+    - **Audio support:** The client needs support the audio formats used in your media files. Common audio formats include AAC, AC3, EAC3, and DTS.
+    - **Subtitle support:** The client needs to be able to display subtitles for any media files you watch without the need for transcoding.
+    - **HDR support:** If you are watching HDR content, the client needs support HDR playback to ensure the best possible viewing experience. This is very important in regards to DolbyVision.
+    - **Resolution support:** The client needs be able to handle the resolution of your media files without the need for transcoding. For example, if you are watching 4K content, the client should be able to play it without downsampling it to 1080p.
 
 `Subtitles`
 
-:   Similar to the above point, some clients don't support being able to display the video stream and the subtitle stream at the same time, and so, if you turn on subtitles, Plex will create a second video with the subtitles burned in, so that your client sees the two streams merged as one, and is able to show subtitles. This is considered transcoding.
+:   To further expand on the point above, some clients don't support being able to display the video stream and the subtitle stream at the same time, and so, if you turn on subtitles, Plex will create a second video with the subtitles burned in, so that your client sees the two streams merged as one, and is able to show subtitles. This is considered transcoding. If you are presented with an option for subtitles, always try to select `.SRT` subtitles, as they have are compatible with the most devices.
 
 ### Direct Play / Stream
 
