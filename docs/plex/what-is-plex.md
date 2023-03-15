@@ -7,44 +7,82 @@ Plex is free to use as a software. However, on some mobile operating systems suc
 
 Our streaming services that utilizes Plex do have costs. We offer Plex share plans ranging from $1.99 per month to $8.99 per month. Additionally, we offer appboxes which range from $14.99 to $29.99 per month. Appboxes allow users to invite their friends and family to join the server at no additional cost.
 
-??? tip "Share Plans"
+??? info "Appbox Plans"
 
-    === ":octicons-smiley-24: Basic"
+    === "Small"
 
+        __$14.99/mo__
+        - 1 Dedicated Transcode
+        - Up to 4 Direct Plays
+        - 16 Core / 24 Threads Shared
+        - 128GB DDR4 RAM Shared
+        - 1TB M.2 NVMe SSD Shared
+        - Global CDN w/ Georouting Available
+        - Advanced PMM Collections Available
+        
+        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
+        
+    === "Medium"
+
+        __$22.99/mo__
+        - 3 Dedicated Transcode
+        - Up to 6 Direct Plays
+        - 16 Core / 24 Threads Shared
+        - 128GB DDR4 RAM Shared
+        - 1TB M.2 NVMe SSD Shared
+        - Global CDN w/ Georouting Available
+        - Advanced PMM Collections Available
+        
+        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
+        
+    === "Large"
+
+        __$29.99/mo__
+        - 6 Dedicated Transcode
+        - Up to 10 Direct Plays
+        - 16 Core / 24 Threads Shared
+        - 128GB DDR4 RAM Shared
+        - 1TB M.2 NVMe SSD Shared
+        - Global CDN w/ Georouting Available
+        - Advanced PMM Collections Available
+        
+        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
+     
+??? info "Share Plans"
+
+    === "Basic"
+
+        __$1.99/mo__
         - 1 Simultaneous Stream
         - Full HD Access
-        - Anime Access
         - Curated Collections
         - Global CDN w/ Georouting
         
-        [:octicons-arrow-right-24: Subscribe](https://blackbeard.media/subscribe "$1.99/mo")
+        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
         
-    === ":material-star: Standard"
+    === "Standard"
 
+        __$5.99/mo__
         - 3 Simultaneous Stream
         - Full HD Access
-        - Anime Access
-        - MasterClass Access
         - Curated Collections
         - Global CDN w/ Georouting
         - Audiobookshelf / Kavita Access
         
-        [:octicons-arrow-right-24: Subscribe](https://blackbeard.media/subscribe "$5.99/mo")
+        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
         
-    === ":material-diamond-stone: Premium"
+    === "Premium"
 
+        __$7.99/mo__
         - 4 Simultaneous Stream
         - Full HD Access
         - 4K Access
-        - Anime Access
-        - MasterClass Access
         - Curated Collections
         - Advanced Overlays *(4K libraries only)*
         - Global CDN w/ Georouting
         - Audiobookshelf / Kavita Access
         
-        [:octicons-arrow-right-24: Subscribe](https://blackbeard.media/subscribe "$7.99/mo")
-     
+        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
 
  <details>
   <summary>Why choose us?</summary>
