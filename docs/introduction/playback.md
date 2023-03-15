@@ -60,21 +60,23 @@ So enough about the evils of transcoding, how do you actually avoid it? As I men
 
 <div class="grid" markdown>
 === "Nvidia Shield Pro"
-    * Powerful hardware: The Shield Pro is equipped with a powerful Tegra X1+ processor and 3GB of RAM, which makes it capable of handling demanding video codecs and high bitrate streams without any lag or buffering.
-    * Wide codec support: The Shield Pro supports a wide range of video and audio codecs, including H.265 (HEVC), VP9, and Dolby Vision, which allows for direct playback of most media files without transcoding.
-    * 4K HDR streaming: The Shield Pro supports 4K HDR and DolbyVision streaming, which provides high-quality video playback with vibrant colors and deep contrast.
-    * Ethernet port: The Shield Pro has a Gigabit Ethernet port, which allows for fast and stable network connectivity and reduces the risk of buffering or playback issues.
+    * Equipped with a powerful Tegra X1+ processor and 3GB of RAM, which makes it capable of handling demanding video codecs and high bitrate streams without any lag or buffering.
+    * Supports a wide range of video and audio codecs, including H.265 (HEVC), VP9, and Dolby Vision, which allows for direct playback of most media files without transcoding.
+    * Supports 4K HDR and DolbyVision streaming, which provides high-quality video playback with vibrant colors and deep contrast.
+        * The Shield Pro is the only device on this list that will support all profiles of DolbyVision
+    * Has a Gigabit Ethernet port, which allows for fast and stable network connectivity and reduces the risk of buffering or playback issues.
 === "Apple TV 4K"
-    * A12 Bionic Chip: The Apple TV 4K is equipped with the A12 Bionic chip, which makes it one of the most powerful streaming devices on the market, capable of handling demanding video codecs and high bitrate streams.
-    * Wide codec support: The Apple TV 4K supports a wide range of video and audio codecs, including H.265 (HEVC), HDR10, Dolby Vision, and Dolby Atmos, which allows for direct playback of most media files without transcoding.
-    * 4K HDR streaming: The Apple TV 4K supports 4K HDR streaming, which provides high-quality video playback with vibrant colors and deep contrast.
-    * Ethernet port: Depending on model, the Apple TV 4K has a Gigabit Ethernet port, which allows for fast and stable network connectivity and reduces the risk of buffering or playback issues.
-    * Infuse Pro: Infuse Pro is good for Plex streaming on iOS because it offers a user-friendly interface and supports a wide range of video and audio codecs, including high-resolution formats such as 4K DolbyVision and Dolby Atmos.
+    * Equipped with the A12 Bionic chip, which makes it one of the most powerful streaming devices on the market, capable of handling demanding video codecs and high bitrate streams.
+    * Supports a wide range of video and audio codecs, including H.265 (HEVC), HDR10, Dolby Vision, and Dolby Atmos, which allows for direct playback of most media files without transcoding.
+    * Supports 4K HDR streaming, which provides high-quality video playback with vibrant colors and deep contrast.
+    * Depending on model, the Apple TV 4K has a Gigabit Ethernet port, which allows for fast and stable network connectivity and reduces the risk of buffering or playback issues.
+    * Infuse Pro is good for Plex streaming on iOS because it offers a user-friendly interface and supports a wide range of video and audio codecs, including high-resolution formats such as 4K DolbyVision and Dolby Atmos.
+        * Infuse is highly recommended as the default Plex app will struggle with 4K and will be unable to play DolbyVision or direct play DTS HD MA / TrueHD audio.
 === "FireStick 4K Max"
-    * Powerful hardware: The FireStick 4K Max is equipped with a powerful quad-core 1.8 GHz processor and 2GB of RAM, which makes it capable of handling demanding video codecs and high bitrate streams without any lag or buffering.
-    * Wide codec support: The FireStick 4K Max supports a wide range of video and audio codecs, including H.265 (HEVC), HDR10, HDR10+, and Dolby Vision, which allows for direct playback of most media files without transcoding.
-    * 4K HDR streaming: The FireStick 4K Max supports 4K HDR and DolbyVision streaming, which provides high-quality video playback with vibrant colors and deep contrast.
-    * Wi-Fi 6 and Ethernet support: The FireStick 4K Max has Wi-Fi 6 and Ethernet support, which allows for fast and stable network connectivity and reduces the risk of buffering or playback issues.
+    * Equipped with a powerful quad-core 1.8 GHz processor and 2GB of RAM, which makes it capable of handling demanding video codecs and high bitrate streams without any lag or buffering.
+    * Supports a wide range of video and audio codecs, including H.265 (HEVC), HDR10, HDR10+, and Dolby Vision, which allows for direct playback of most media files without transcoding.
+    * Supports 4K HDR and DolbyVision streaming, which provides high-quality video playback with vibrant colors and deep contrast.
+    * Has Wi-Fi 6 and Ethernet support, which allows for fast and stable network connectivity and reduces the risk of buffering or playback issues.
 </div>
 
 ???+ tip "Pro-tip"
