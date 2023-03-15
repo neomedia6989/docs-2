@@ -7,6 +7,45 @@ Plex is free to use as a software. However, on some mobile operating systems suc
 
 Our streaming services that utilizes Plex do have costs. We offer Plex share plans ranging from $1.99 per month to $8.99 per month. Additionally, we offer appboxes which range from $14.99 to $29.99 per month. Appboxes allow users to invite their friends and family to join the server at no additional cost.
 
+<div class="grid cards" markdown>
+
+-   :fontawesome-regular-face-smile:{ .lg .middle } __Basic__ $1.99/mo
+
+    ---
+
+    - 1 Simultaneous Stream
+    - Full HD Access
+    - Anime Access
+    - Global CDN
+
+    [:octicons-arrow-right-24: Subscribe started](https://blackbeard.media/subscribe)
+
+-   :fontawesome-solid-star:{ .lg .middle } __Standard__ $5.99/mo
+
+    ---
+
+    Focus on your content and generate a responsive and searchable static site
+
+    [:octicons-arrow-right-24: Subscribe](https://blackbeard.media/subscribe)
+
+-   :material-diamond:{ .lg .middle } __Premium__ $7.99/mo
+
+    ---
+
+    Change the colors, fonts, language, icons, logo and more with a few lines
+
+    [:octicons-arrow-right-24: Subscribe](https://blackbeard.media/subscribe)
+
+-   :material-sale-outline:{ .lg .middle } __Regular Sales__
+
+    ---
+
+    Material for MkDocs is licensed under MIT and available on [GitHub]
+
+    [:octicons-arrow-right-24: Check Now](https://blackbeard.media/subscribe)
+
+</div>
+
  <details>
   <summary>Why choose us?</summary>
  <br />
