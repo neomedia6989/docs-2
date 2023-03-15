@@ -11,7 +11,7 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
 
     === "Basic"
 
-        __$1.99/mo__
+        Starting at __$1.99/mo__
         
         - 1 Simultaneous Stream
         - Full HD Access
@@ -22,7 +22,7 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
         
     === "Standard"
 
-        __$5.99/mo__
+        Starting at __$5.99/mo__
         
         - 3 Simultaneous Stream
         - Full HD Access
@@ -34,7 +34,7 @@ Our streaming services that utilizes Plex do have costs. We offer Plex share pla
         
     === "Premium"
 
-        __$7.99/mo__
+        Starting at __$7.99/mo__
         
         - 4 Simultaneous Stream
         - Full HD Access
