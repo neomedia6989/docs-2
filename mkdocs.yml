@@ -1,9 +1,6 @@
 site_name: Blackbeard Media
 site_url: https://docs.blackbeard.media/
 
-repo_name: docs
-repo_url: https://discord.blackbeard.media/
-
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -52,10 +49,17 @@ theme:
     - navigation.footer
     - toc.integrate    
 
-  extra:
-    social:
-      - icon: fontawesome/brands/discord
-        link: https://discord.blackbeard.media
+extra:
+  generator: false
+  social:
+  - icon: fontawesome/solid/heart
+    class: md-social__link heart
+    link: 'https://donate.blackbeard.media'
+    name: Donate
+  - icon: fontawesome/brands/discord
+    class: md-social__link
+    link: 'https://discord.blackbeard.media'
+    name: Discord
 
   language: en
 
