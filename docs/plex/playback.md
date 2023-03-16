@@ -47,7 +47,7 @@ Direct streaming is when you are direct playing the video but the transcoding au
 When joining a share, server owners usually explicitly mention which of these you're allowed to do and how much of each. Let's break down an example: A share allows 2 direct plays / 1 transcode: This means at any given time you will be able to have two devices direct playing content, and one of them may transcode video, just not both at the same time.
 
 <figure markdown>
-![(../media/direct-play-vs-transcode..png "Direct play vs Transcode")](https://docs.blackbeard.media/media/direct-play-vs-transcode.png){ width=750 }
+![(../media/direct-play-vs-transcode.png "Direct play vs Transcode")](https://docs.blackbeard.media/media/direct-play-vs-transcode.png){ width=750 }
     <figcaption>An example of direct playing versus transcoding</figcaption>
 </figure>
 
