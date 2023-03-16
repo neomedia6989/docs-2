@@ -48,7 +48,7 @@ When joining a share, server owners usually explicitly mention which of these yo
 
 <figure markdown>
 ![Direct Play vs Transcode](../media/direct-play-vs-transcode..png "Direct play vs Transcode")(https://docs.blackbeard.media/media/direct-play-vs-transcode.png){ width=750 }
-    <figcaption>An example of the quality difference when direct playing versus transcoding</figcaption>
+    <figcaption>An example of direct playing versus transcoding</figcaption>
 </figure>
 
 
