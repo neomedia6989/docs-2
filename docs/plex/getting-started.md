@@ -65,7 +65,7 @@ If you've been invited to join Plex, either by signing up for our service or thr
 4. Open 'Settings' by clicking on the wrench icon in the top right
 
 <figure markdown>
-![(../media/plex-settings.png "Open Plex Settings")](https://docs.blackbeard.media/media/plex-settings.png){ width=500 }
+![(../media/plex-settings.png "Open Plex Settings")](https://docs.blackbeard.media/media/plex-settings.png){ width=600 }
 </figure>
     
 5. Select **Manage Library Access**
@@ -73,8 +73,14 @@ If you've been invited to join Plex, either by signing up for our service or thr
 7. Click the 'Home' icon to go to the home screen of Plex
 
 <figure markdown>
-![(../media/plex-settings.png "Accept the invite and go home")](https://docs.blackbeard.media/media/invite-location.png){ width=500 }
+![(../media/plex-settings.png "Accept the invite and go home")](https://docs.blackbeard.media/media/invite-location.png){ width=600 }
 </figure>
 
 ## How to Setup Your Libraries
 
+Plex is not just a platform for streaming your own personal media libraries, but also has its own libraries and content to offer its users. While this can be a nice bonus, it's important to understand that these are not custom curated libraries that have been shared with you by us, your friends or family members. In this section, we will walk you through how to set up and manage your own libraries, as well as how to accept shared library invites from others.
+
+<figure markdown>
+![(../media/unpin-bad-plex.png "Unpin the unwanted items")](https://docs.blackbeard.media/media/unpin-bad-plex.png){ width=600 }
+    <figcaption>Find the hidden ellipses next to the item you wish to **Unpin** *(We recommend removing all Plex's items, as seen in the screenshot)*</figcaption>
+</figure>
