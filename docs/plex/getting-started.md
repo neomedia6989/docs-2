@@ -65,7 +65,7 @@ If you've been invited to join Plex, either by signing up for our service or thr
 4. Open 'Settings' by clicking on the wrench icon in the top right
 
 <figure markdown>
-![(../media/plex-settings.png "Open Plex Settings")](https://docs.blackbeard.media/media/plex-settings.png){ width=600 }
+![(../media/plex-settings.png "Open Plex Settings")](https://docs.blackbeard.media/media/plex-settings.png){ width=750 }
 </figure>
     
 5. Select **Manage Library Access**
@@ -73,7 +73,7 @@ If you've been invited to join Plex, either by signing up for our service or thr
 7. Click the 'Home' icon to go to the home screen of Plex
 
 <figure markdown>
-![(../media/plex-settings.png "Accept the invite and go home")](https://docs.blackbeard.media/media/invite-location.png){ width=600 }
+![(../media/plex-settings.png "Accept the invite and go home")](https://docs.blackbeard.media/media/invite-location.png){ width=750 }
 </figure>
 
 ## How to Setup Your Libraries
@@ -81,6 +81,32 @@ If you've been invited to join Plex, either by signing up for our service or thr
 Plex is not just a platform for streaming your own personal media libraries, but also has its own libraries and content to offer its users. While this can be a nice bonus, it's important to understand that these are not custom curated libraries that have been shared with you by us, your friends or family members. In this section, we will walk you through how to set up and manage your own libraries, as well as how to accept shared library invites from others.
 
 <figure markdown>
-![(../media/unpin-bad-plex.png "Unpin the unwanted items")](https://docs.blackbeard.media/media/unpin-bad-plex.png){ width=600 }
+![(../media/unpin-bad-plex.png "Unpin the unwanted items")](https://docs.blackbeard.media/media/unpin-bad-plex.png){ width=750 }
     <figcaption>Find the hidden ellipses next to the item you wish to **Unpin** *(We recommend removing all Plex's items, as seen in the screenshot)*</figcaption>
 </figure>
+<figure markdown>
+![(../media/more-plex.png "Click on the 'More' button")](https://docs.blackbeard.media/media/more-plex.png){ width=750 }
+    <figcaption>Click on the **MORE** button to find the server that was shared with you</figcaption>
+</figure>
+<figure markdown>
+![(../media/pin-good-stuff.png "Pin all desired libraries")](https://docs.blackbeard.media/media/pin-good-stuff.png){ width=750 }
+    <figcaption>Locate a desired library of interest that is shared with you and click the ellipses and **Pin** the desired library *(Repeat this for all libraries of interest)*</figcaption>
+</figure>
+<figure markdown>
+![(../media/back-home.png "Clicked 'PINNED' to go back home")](https://docs.blackbeard.media/media/back-home.png){ width=750 }
+    <figcaption>In the upper left, click the **PINNED** menu item to return to the Home section of Plex</figcaption>
+</figure>
+<figure markdown>
+![(../media/enjoy.png "Enjoy your pinned libraries!")](https://docs.blackbeard.media/media/enjoy.png){ width=750 }
+    <figcaption>Locate a desired library you wish to move and click the ellipses and select **Reorder**</figcaption>
+</figure>
+<figure markdown>
+![(../media/drag-drop.png "Drag and drop to reorder libraries")](https://docs.blackbeard.media/media/drag-drop.png){ width=750 }
+    <figcaption>Simply drag and drop the libraries as you see fit</figcaption>
+</figure>
+<figure markdown>
+![(../media/unorder.png "Close the menu to finish reordering libraries")](https://docs.blackbeard.media/media/unorder.png){ width=750 }
+    <figcaption>Once all your libraries are in the desired order, simply click the tiny 'x' found here to exit the reorder process</figcaption>
+</figure>
+
+Great job! By setting up your profile and organizing your libraries, you can enjoy a more personalized and efficient streaming experience. Whether you are streaming our media or enjoying content shared by family and friends, these steps will help you make the most of your Plex account. So sit back, relax, and enjoy your favorite movies, TV shows, music, and more on Plex!
