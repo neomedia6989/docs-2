@@ -43,7 +43,7 @@ plugins:
 theme:
   name: material
   icon:
-    logo: material/library
+    logo: material/pirate
     repo: fontawesome/brands/github
   features:
     - navigation.instant
