@@ -37,6 +37,8 @@ markdown_extensions:
 
 plugins:
   - glightbox
+  - search:
+      lang: en
   
 theme:
   name: material
@@ -68,23 +70,18 @@ extra:
     class: md-social__link
     link: 'https://discord.blackbeard.media'
     name: Discord
-
   language: en
-
   palette:
+
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
-      primary: indigo
-      accent: indigo
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
+      scheme: default 
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -92,11 +89,10 @@ extra:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+
 
 nav:
   - Home: index.md
