@@ -49,7 +49,12 @@ theme:
     - navigation.path
     - navigation.tabs
     - content.tooltips
-    
+    - navigation.footer
+  extra:
+    social:
+      - icon: fontawesome/brands/discord
+        link: https://discord.blackbeard.media
+
   language: en
 
   palette:
