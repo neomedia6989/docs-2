@@ -51,15 +51,33 @@ When you order an appbox, you'll receive access to a web-based administration pa
 Before you can begin enjoying the benefits of our appboxes, you'll need to subscribe to our service. Don't worry, the process is quick and easy. Simply follow the steps below to create an account, place an order, and receive your login credentials. We frequently add new servers to our inventory, so even if we're temporarily out of stock, more should be available soon, and, with our wide range of payment options, you can start streaming your favorite content in no time.
 
 1. Go to [blackbeard.shop](https://blackbeard.shop/) in your web browser.
-2. Click on the "Create an Account" button on the top-right corner of the page.
-3. Fill out the required information, including your name, email address, and a strong password. Make sure to read and agree to our terms of service.
-4. Click on the "Create Account" button to finish creating your account.
-5. Once you have created an account, go to [our appbox page](https://blackbeard.shop/index.php?rp=/store/appbox) to check if we have any appboxes in stock.
-6. If an appbox is available, click on the "Order Now" button next to the appbox you want to purchase.
-7. Choose any add-ons you want to include with your appbox, such as global CDN or our Plex Meta Manager service.
-8. Review your order summary and select your preferred payment method. We accept PayPal, Stripe or most cryptocurrencies.
-9. Click on the "Complete Order" button to submit your payment.
-10. After payment is received, we will send you an email with our Kronos dashboard URL and your login credentials.
+2. Click on the "Register" button on the top-right corner of the page.
+
+<figure markdown>
+![(../media/whmcs_register.png "Click here to begin registration")](https://docs.blackbeard.media/media/whmcs_register.png){ width=750 }
+  <figcaption>Click here to begin registration</figcaption>
+</figure>
+
+4. Fill out the required information, specifically your email address and a strong password.
+
+<figure markdown>
+![(../media/whmcs_registration.png "Ensure to fully fill out the registration form")](https://docs.blackbeard.media/media/whmcs_registration.png){ width=750 }
+  <figcaption>Please ensure the highlighted fields are accurate</figcaption>
+</figure>
+
+6. Click on the "Register" button to finish creating your account.
+7. Once you have created an account, go to [our appbox page](https://blackbeard.shop/index.php?rp=/store/appbox) to check if we have any appboxes in stock.
+8. If an appbox is available, click on the "Order Now" button next to the appbox you want to purchase.
+9. Choose any add-ons you want to include with your appbox, such as global CDN or our Plex Meta Manager service.
+
+<figure markdown>
+![(../media/whmcs_checkout.png "Choose your billing cycle and any addons you would like, then click continue")](https://docs.blackbeard.media/media/whmcs_checkout.png){ width=750 }
+  <figcaption>Choose your billing cycle and any addons you would like, then click continue</figcaption>
+</figure>
+
+11. Review your order summary and select your preferred payment method. We accept PayPal, Stripe or most cryptocurrencies.
+12. Click on the "Complete Order" button to submit your payment.
+13. After payment is received, we will send you an email with our Kronos dashboard URL and your login credentials.
 
 ### Link Your Discord with WHMCS
 
