@@ -44,23 +44,26 @@ Direct streaming is when you are direct playing the video but the transcoding au
 
 ### Why you should care about transcoding?
 
-When joining a share, server owners usually explicitly mention which of these you're allowed to do and how much of each. Let's break down an example: A share allows 2 direct plays / 1 transcode: This means at any given time you will be able to have two devices direct playing content, and one of them may transcode video, just not both at the same time.
+When joining a share, server owners usually explicitly mention which types of playback are allowed and how much of each. For example, a share may allow 2 direct plays and 1 transcode. This means that at any given time, you will be able to have two devices direct playing content, and one device may transcode video, but not both at the same time. Transcoding can put a significant strain on the server's resources, leading to buffering or playback issues for other users. Additionally, transcoding can reduce the quality of the video and audio being streamed. Direct playing, on the other hand, allows for the highest quality playback and puts less strain on the server, resulting in smoother playback for everyone. As such, it's often recommended to direct play files whenever possible and to limit transcoding as much as possible.
+
+???+ danger "Transcoding 4K"
+
+    It's common for shares to explicitly disallow video transcoding of 4K content, and for good reason. It puts an extreme amount of stress on the server's resources. A single 4K transcode can consume resources equivalent to ~8x 1080p transcodes. Worst of all, the quality of the 4K stream is severely compromised, and Plex is unable to properly tonemap HDR, resulting in a washed-out image. If the 4K version is unplayable, it's recommended to play the 1080p version instead, as this will provide a better viewing experience without compromising the server's resources or video quality
 
 <figure markdown>
 ![(../media/direct-play-vs-transcode.png "Direct play vs Transcode")](https://docs.blackbeard.media/media/direct-play-vs-transcode.png){ width=750 }
     <figcaption>An example of direct playing versus transcoding</figcaption>
 </figure>
 
+### How Do You Avoid Transcoding?
 
-???+ danger "Transcoding 4K"
+When streaming media, there are factors outside of your control that may cause transcoding, such as the source file's compatibility with your device or internet speed. However, there are still some things you can do on your end to optimize your streaming experience. First, make sure you have a stable internet connection with enough bandwidth to handle the highest quality available for your media. Next, go into your device's streaming app settings and select the highest quality available, such as Original/Maximum/Direct Play only. Avoid using subtitles if possible, as they can sometimes cause transcoding if your device doesn't support them natively. Using a device that has high compatibility and support for various formats can also help reduce the likelihood of transcoding. While you may not have control over the media, these steps can help ensure the best streaming experience possible.
 
-    You'll often see shares explicitly disallow video transcoding of 4k content, and for good reason. It stresses the resources of the server to an extreme amount. A single 4K transcode the resources enough for ~8x 1080p transcodes. Worst of all, the quality of the 4K is stream is severely compromised, AND Plex is unable to tonemap HDR properly, which leads to a washed out image, as seen below.
+???+ tip "Pro-tip"
 
-### How do you avoid transcoding?
+    When on a computer, *always* try to use the Plex Media Player app, instead of the browser players (i.e. Chrome). You will get tone-mapping support, subtitle support, and better video/audio support. You will almost never have to transcode when using the official app.
 
-So enough about the evils of transcoding, how do you actually avoid it? As I mentioned earlier, this is usually dependent on the device's capability and the application you are using. But for most devices, you should be able to avoid transcoding, simply by going into Settings > Video > Set quality to Original/Maximum/Direct Play only. We will go further the settings for each client below. Enabling subtitles can also sometimes lead to transcoding if your device doesn't natively support them. The best way to avoid these issues is to use the devices which have the highest compatibility and support for a wide variety of formats. Here are some general good devices and tips:
-
-#### What device should I buy for Plex?
+#### What Device Should I Buy for Plex?
 
 <div class="grid" markdown>
 === "Nvidia Shield Pro"
@@ -83,11 +86,7 @@ So enough about the evils of transcoding, how do you actually avoid it? As I men
     * Has Wi-Fi 6 and Ethernet support, which allows for fast and stable network connectivity and reduces the risk of buffering or playback issues.
 </div>
 
-???+ tip "Pro-tip"
-
-    When on a computer, *always* try to use the Plex Media Player app, instead of the browser players (i.e. Chrome). You will get tone-mapping support, subtitle support, and better video/audio support. You will almost never have to transcode when using the official app.
-
-## Recommended quality settings
+#### Recommended Quality Settings
 
 By default, Plex's out-of-the-box quality settings limit the bandwidth to between 2-4Mbps, which means that many files will have to be transcoded to meet this limit. However, this can result in decreased video quality and increased server load. The good news is that adjusting the quality settings for your specific client can lead to optimum playback without unnecessary transcoding. To do this, simply select your client below and follow the recommended settings for the best possible playback experience:
 
