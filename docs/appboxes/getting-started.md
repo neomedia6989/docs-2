@@ -55,7 +55,7 @@ Before you can begin enjoying the benefits of our appboxes, you'll need to subsc
 
 <figure markdown>
 ![(../media/whmcs_register.png "Click here to begin registration")](https://docs.blackbeard.media/media/whmcs_register.png){ width=750 }
-  <figcaption>Click here to begin registration</figcaption>
+  <figcaption>Click "Register" to begin registration</figcaption>
 </figure>
 
 4. Fill out the required information, specifically your email address and a strong password.
