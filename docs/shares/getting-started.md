@@ -8,8 +8,17 @@ Once you're validated, you can log in to https://blackbeard.media and access our
 
 We strongly recommend that you update your Discord information - this will allow you to join our Discord community and get support from our team and other users.To update your Discord information, simply go to https://blackbeard.media/my-account and enter your full Discord username, including the discriminator *(#XXXX at the very end)*, and your full Discord User ID. If you are already in our Discord server, you can simply type `!id` in any channel and our bot will DM you with the necessary information. Additionally, you can follow the gif below for an example. It's important to keep this information up to date so that we can quickly assist with any issues that may arise while using our share service.
 
+You can also find your referral code on the same account page, which you can share with your friends and family. For each person who signs up for a paid subscription using your referral code, you'll receive a credit that matches their first payment. This same page is also where you can manage your subscription, view your payment history, and update your personal information. If you have any questions or issues, don't hesitate to reach out to our support team on Discord or through our contact page.
+
+Subscribers have access to various tools and information related to their subscription on our My Account page. This includes managing their subscription, viewing payment history, and updating personal information. Keeping this information up-to-date is important to ensure that we can quickly assist with any issues that may arise while using our share service. In addition, you can also find your referral code on the same account page. Share this code with friends and family to receive credits for their subscription payments.
+
+One key piece of information to update is your Discord username and ID. This allows you to join our Discord community and get support from our team and other users. You can easily update your Discord information by going to the My Account page and entering your full Discord username, including the discriminator, and your full Discord User ID.
+
+If you're already in our Discord server, you can use the !id command in any channel to receive the necessary information in a DM from our bot; you can follow the gif below for an example.
+
 <figure markdown>
 ![(../media/discord_share.gif "How to Link Your Discord")](https://docs.blackbeard.media/media/discord_share.gif){ width=750 }
+  <figcaption>How to link your Discord to our web portal</figcaption>
 </figure>
 
-You can also find your referral code on the same account page, which you can share with your friends and family. For each person who signs up for a paid subscription using your referral code, you'll receive a credit that matches their first payment. This same page is also where you can manage your subscription, view your payment history, and update your personal information. If you have any questions or issues, don't hesitate to reach out to our support team on Discord or through our contact page.
+If you have any questions or issues, our support team is always available on Discord. Don't hesitate to reach out if you need assistance!
