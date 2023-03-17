@@ -42,7 +42,7 @@ Direct playing is streaming of video exactly in the format stored on the server,
 
 Direct streaming is when you are direct playing the video but the transcoding audio of the file. This doesn't strain the server much and when shares mention 'No Transcoding', they're typically only referring to video transcoding - so direct streaming can usually be considered the same as direct playing for all intents and purposes.
 
-### Why you should care about transcoding?
+### Why Should You Care About Transcoding?
 
 When joining a share, server owners usually explicitly mention which types of playback are allowed and how much of each. For example, a share may allow 2 direct plays and 1 transcode. This means that at any given time, you will be able to have two devices direct playing content, and one device may transcode video, but not both at the same time. Transcoding can put a significant strain on the server's resources, leading to buffering or playback issues for other users. Additionally, transcoding can reduce the quality of the video and audio being streamed. Direct playing, on the other hand, allows for the highest quality playback and puts less strain on the server, resulting in smoother playback for everyone. As such, it's often recommended to direct play files whenever possible and to limit transcoding as much as possible.
 
