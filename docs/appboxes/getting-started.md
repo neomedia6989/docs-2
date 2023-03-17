@@ -61,7 +61,7 @@ Before you can begin enjoying the benefits of our appboxes, you'll need to subsc
 4. Fill out the required information, specifically your email address and a strong password.
 
 <figure markdown>
-![(../media/whmcs_registration.png "Ensure to fully fill out the registration form")](https://docs.blackbeard.media/media/whmcs_registration.png){ width=750 }
+![(../media/whmcs_registration.png "Ensure to fully fill out the registration form")](https://docs.blackbeard.media/media/whmcs_registration.png){ width=500 }
   <figcaption>Please ensure the highlighted fields are accurate</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ Before you can begin enjoying the benefits of our appboxes, you'll need to subsc
 9. Choose any add-ons you want to include with your appbox, such as global CDN or our Plex Meta Manager service.
 
 <figure markdown>
-![(../media/whmcs_checkout.png "Choose your billing cycle and any addons you would like, then click continue")](https://docs.blackbeard.media/media/whmcs_checkout.png){ width=750 }
+![(../media/whmcs_checkout.png "Choose your billing cycle and any addons you would like, then click continue")](https://docs.blackbeard.media/media/whmcs_checkout.png){ width=500 }
   <figcaption>Choose your billing cycle and any addons you would like, then click continue</figcaption>
 </figure>
 
