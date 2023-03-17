@@ -13,7 +13,7 @@ The Scan Missing Media tool is a feature that helps to resolve playback issues t
 
 This tool updates Plex metadata and usually resolves playback errors. It is available at https://blackbeard.media/scan-media.
 
-### Upload Subtitles Tool
+## Upload Subtitles Tool
 
 The Upload Subtitles tool is a feature that allows you to upload your own subtitles to your Plex media (movie or TV episode). To use this feature:
 
