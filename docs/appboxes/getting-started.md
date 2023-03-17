@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started with Blackbeard Appboxes
 
 ## What is an Appbox?
 
