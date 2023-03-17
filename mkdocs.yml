@@ -1,9 +1,6 @@
 site_name: Blackbeard Media
 site_url: https://docs.blackbeard.media/
 
-repo_name: docs
-repo_url: https://github.com/Blackbeard-Media/docs/
-
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -52,7 +49,6 @@ theme:
     - navigation.tabs
     - content.tooltips
     - navigation.footer
-    - toc.integrate  
     - search.suggest
     - search.highlight
     - search.share
@@ -101,15 +97,12 @@ nav:
     - Getting Started: plex/getting-started.md
     - Libaries / Navigation: plex/libraries.md
     - Playback / Playback Quality: plex/playback.md
-    - Requests: plex/requests.md
     - Things to Consider: plex/things-to-consider.md
   - Shares:
-    - Creating a Plex Account: plex/creating-your-account.md
-    - Accepting your Plex invitation: plex/accepting-your-invite.md
-    - Recommended Client Settings: clients/index.md
+    - Getting Started: shares/getting-started.md
+    - Tools: shares/tools.md
   - Appboxes:
-    - How to manage your Blackbeard account: guides/account/manage-your-account.md
-    - How to link your Discord account: guides/account/linking-your-discord.md
+    - Getting Started: appboxes/getting-started.md
   - Client Settings: 
     - Amazon Firestick/TV: clients/firetv.md
     - Android Mobile: clients/android.md
