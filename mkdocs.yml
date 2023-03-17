@@ -103,6 +103,7 @@ nav:
     - Tools: shares/tools.md
   - Appboxes:
     - Getting Started: appboxes/getting-started.md
+    - Kronos: appboxes/kronos.md
   - Client Settings: 
     - Amazon Firestick/TV: clients/firetv.md
     - Android Mobile: clients/android.md
