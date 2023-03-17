@@ -11,8 +11,13 @@ Plex recently created a Watchlist and Discover tab for users to curate and explo
 When you search for content in Plex, the Discover feature is used to find related content, which may include content that is not currently available to you. To ensure that only content that you have access to is displayed in search results, we recommend turning off the Discover feature while searching.[^2]
 
 1. Go to the Plex Media Player app and click on the search bar (Please note that the search bar varies on every device).
-2. After clicking on the search bar, a sliders icon should appear. Click on that and a dropdown list will appear showing all servers you have access to and the Discover feature.
+2. After clicking on the search bar, a sliders icon ( :fontawesome-solid-sliders: )should appear. Click on that and a dropdown list will appear showing all servers you have access to and the Discover feature.
 3. Uncheck any server that you do not want to appear in your search results as well as the "More Ways to Watch" under Discover.
+
+<figure markdown>
+![(../media/discover_search.png "Uncheck More Ways to Watch")](https://docs.blackbeard.media/media/discover_search.png){ width=750 }
+    <figcaption>Here is the Plex Media Player search settings</figcaption>
+</figure>
 
 *Note that this has to be done on every device you use, and will have to be redone if you sign out and back in.*
 
