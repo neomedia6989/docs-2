@@ -7,6 +7,16 @@ Plex is free to use as a software. However, on some mobile operating systems suc
 
 ??? info "Blackbeard Share Plans"
 
+    === "Free"
+
+        Starting at __$0.00/mo__
+        
+        - 1 Simultaneous Stream
+        - Full HD Access
+        - Mandatory 90-minute weekly watch time
+        
+        [Sign Up Today](https://discord.com/channels/532304048200744982/1056815691342290984){ .md-button .md-button--primary }
+
     === "Basic"
 
         Starting at __$1.99/mo__
@@ -16,7 +26,7 @@ Plex is free to use as a software. However, on some mobile operating systems suc
         - Curated Collections
         - Global CDN w/ Georouting
         
-        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
+        [Subscribe Today](https://blackbeard.media/subscribe){ .md-button .md-button--primary }
         
     === "Standard"
 
@@ -28,7 +38,7 @@ Plex is free to use as a software. However, on some mobile operating systems suc
         - Global CDN w/ Georouting
         - Audiobookshelf / Kavita Access
         
-        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
+        [Subscribe Today](https://blackbeard.media/subscribe){ .md-button .md-button--primary }
         
     === "Premium"
 
@@ -42,7 +52,7 @@ Plex is free to use as a software. However, on some mobile operating systems suc
         - Global CDN w/ Georouting
         - Audiobookshelf / Kavita Access
         
-        [Subscribe Today](https://blackbeard.shop/index.php?rp=/store/appbox){ .md-button .md-button--primary }
+        [Subscribe Today](https://blackbeard.media/subscribe){ .md-button .md-button--primary }
 
 ??? info "Blackbeard Appbox Plans"
 
