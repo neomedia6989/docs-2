@@ -26,7 +26,11 @@ When you order an appbox, you'll receive access to a web-based administration pa
 
     ---
 
-    With a private instance of Plex, you have full control over your media library's metadata, allowing you to make custom collections, playlists, and modify posters to your liking. 
+    With a private instance of Plex, you have full control over your media library's metadata, allowing you to make custom collections, playlists, and modify posters to your liking. (1){ .annotate }
+    
+    1. Looking to keep your Plex libraries organized and up-to-date? Look no further than Blackbeard Media's Plex Meta Manager service. We will set up and configure Plex Meta Manager to automatically update the metadata for your movies, shows, and collections on a schedule that you set so that you can have custom collections to help browse your vast libraries as well as add custom overlays to help easily assess each movie and show as you're scrolling. 
+    
+    Create a support ticket for more info.
 
 -   :material-lightning-bolt:{ .lg .middle } __Optimal Performance__
 
