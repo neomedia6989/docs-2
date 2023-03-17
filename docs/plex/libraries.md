@@ -11,8 +11,6 @@ With Plex, you have control over what you watch and how you watch it. One of the
 ??? info "Recommended"
 
     This view shows a mix of items that are new or popular in the library selected by the server.
-    
-    We utilize this page to show you what is popular and trending with TMDb and Trakt charts as well as what is popular on streaming platforms, such as Disney+, HBO Max, Hulu, Netflix and more!
 
 ??? info "Library"
 
@@ -21,8 +19,6 @@ With Plex, you have control over what you watch and how you watch it. One of the
 ??? info "Collections"
 
     If the server owner has curated collections of content, they will appear here. These may include grouped genres of movies, different TV networks for series, or film franchises.
-    
-    We utilize Plex Meta Manager to keep up-to-date collections for all libraries to help organize content based on streaming service, broadcast network, popular and trending charts as well as country, franchise, language and more!
 
 ??? info "Playlists"
 
