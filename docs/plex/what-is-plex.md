@@ -2,7 +2,7 @@
 
 Plex is a streaming service that allows you to watch movies, TV shows, and other media on your computer, smartphone, tablet, or smart TV. It's like having your own personal Netflix or Amazon Prime Video, but with content curated by someone you know and trust instead of a faceless corporation.
 
-## Is Plex free?
+## Is Plex Free?
 Plex is free to use as a software. However, on some mobile operating systems such as Android or iOS, a small one-time fee (around $5 USD) may be required to activate the Plex player on your iTunes or Google Play account. This will unlock the player on all the devices you use on your account.
 
 ??? info "Blackbeard Individual Plans"
@@ -102,14 +102,14 @@ Plex is free to use as a software. However, on some mobile operating systems suc
  </ul>
   </details>
 
-## How do I watch content on Plex?
+## How Do I Watch Content on Plex?
 To get the best playback experience, you'll need to use a Plex player that's specific to your hardware and platform. Unless you have PlexPass, there is a small one-time fee (around $5 USD) to activate the Plex player on some platforms like iPhone and iPad, as well as Android phones and tablets. This fee unlocks the player on all devices associated with your account. Luckily, all other devices are free to use for all users.
 
 !!! warning "Streaming Troubles?"
   
     Having issues streaming from your device? Be sure to check out our **[Frequently Asked Questions](#)** section to help resolve your issues. 
 
-## Is Plex legal?
+## Is Plex Legal?
 Plex is just a collection of software encompassing servers and clients. Plex itself is perfectly legal and you can use Plex to stream content anywhere without worrying about copyright notices or the need to use a VPN or other means to hide your traffic.
 
 Depending on where the server is located and how the available media on the server was obtained, there is a large grey area of legality surrounding copyright issues.
