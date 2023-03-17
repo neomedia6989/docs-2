@@ -52,29 +52,29 @@ Before you can begin enjoying the benefits of our appboxes, you'll need to subsc
 
 1. Go to [blackbeard.shop](https://blackbeard.shop/) in your web browser.
 2. Click on the "Register" button on the top-right corner of the page.
-
-<figure markdown>
-![(../media/whmcs_register.png "Click here to begin registration")](https://docs.blackbeard.media/media/whmcs_register.png){ width=750 }
-  <figcaption>Click "Register" to begin registration</figcaption>
-</figure>
-
+    
+    <figure markdown>
+    ![(../media/whmcs_register.png "Click here to begin registration")](https://docs.blackbeard.media/media/whmcs_register.png){ width=750 }
+      <figcaption>Click "Register" to begin registration</figcaption>
+    </figure>
+    
 3. Fill out the required information, specifically your email address and a strong password.
-
-<figure markdown>
-![(../media/whmcs_registration.png "Ensure to fully fill out the registration form")](https://docs.blackbeard.media/media/whmcs_registration.png){ width=500 }
-  <figcaption>Please ensure the highlighted fields are accurate</figcaption>
-</figure>
-
+    
+    <figure markdown>
+    ![(../media/whmcs_registration.png "Ensure to fully fill out the registration form")](https://docs.blackbeard.media/media/whmcs_registration.png){ width=500 }
+      <figcaption>Please ensure the highlighted fields are accurate</figcaption>
+    </figure>
+    
 4. Click on the "Register" button to finish creating your account.
 5. Once you have created an account, go to [our appbox page](https://blackbeard.shop/index.php?rp=/store/appbox) to check if we have any appboxes in stock.
 6. If an appbox is available, click on the "Order Now" button next to the appbox you want to purchase.
 7. Choose any add-ons you want to include with your appbox, such as global CDN or our Plex Meta Manager service.
-
-<figure markdown>
-![(../media/whmcs_checkout.png "Choose your billing cycle and any addons you would like, then click continue")](https://docs.blackbeard.media/media/whmcs_checkout.png){ width=500 }
-  <figcaption>Choose your billing cycle and any addons you would like, then click continue</figcaption>
-</figure>
-
+    
+    <figure markdown>
+    ![(../media/whmcs_checkout.png "Choose your billing cycle and any addons you would like, then click continue")](https://docs.blackbeard.media/media/whmcs_checkout.png){ width=500 }
+      <figcaption>Choose your billing cycle and any addons you would like, then click continue</figcaption>
+    </figure>
+    
 8. Review your order summary and select your preferred payment method. We accept PayPal, Stripe or most cryptocurrencies.
 9. Click on the "Complete Order" button to submit your payment.
 10. After payment is received, we will send you an email with our Kronos dashboard URL and your login credentials.
