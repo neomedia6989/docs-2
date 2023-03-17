@@ -4,10 +4,6 @@ Kronos is a powerful dashboard that gives you complete control and management ov
 
 ## Claiming Your Appbox
 
-!!! warning "Disable Two Factor Authentication"
-  
-  Before claiming your server, if you have Two Factor Authentication (2FA) Enabled in Plex, you must disable it prior to claiming your server. Once the server has been claimed, you can re-enable 2FA. More information on 2FA, including how to disable/enable it, can be found [here](https://support.plex.tv/articles/two-factor-authentication/).
-
 1. Using the credentials which were emailed to you, log into our [Kronos Dashboard](https://kronos.blackbeard.shop).
 2. Once logged in, you should see your server listed in the Dashboard, select it.
 
