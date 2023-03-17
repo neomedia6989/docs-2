@@ -5,7 +5,7 @@ Plex is a streaming service that allows you to watch movies, TV shows, and other
 ## Is Plex Free?
 Plex is free to use as a software. However, on some mobile operating systems such as Android or iOS, a small one-time fee (around $5 USD) may be required to activate the Plex player on your iTunes or Google Play account. This will unlock the player on all the devices you use on your account.
 
-??? info "Blackbeard Individual Plans"
+??? info "Blackbeard Share Plans"
 
     === "Basic"
 
