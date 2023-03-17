@@ -1,4 +1,4 @@
-# Getting Started with Blackbeard Media Shares
+# Getting Started with Blackbeard Shares
 
 To sign up for our share service, you'll need a Plex account. If you don't have one already, you can get more info [here](../plex/getting-started.md).
 
