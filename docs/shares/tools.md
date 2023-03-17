@@ -20,7 +20,7 @@ The Upload Subtitles tool is a feature that allows you to upload your own subtit
 1. Login to the Plex Web App on https://app.plex.tv.
 2. Navigate to the Plex media (movie or episode) for which you want to add subtitles.
 3. Copy the URL from the browser and paste it into the URL field.
-4. Select the subtitle file. The file must be in SRT format and named in the following format: `Title (Year).ISO-639-1-Language-Code.srt` (for example, `Black Widow (2021).en.srt`), as described in the Plex documentation.
+4. Select the subtitle file. The file must be in SRT format and named in the following format: `Title (Year).ISO-639-1-Language-Code.srt` *(for example, `Black Widow (2021).en.srt`)*, as described in the Plex documentation.
 5. Click the Upload button.
 6. Refresh the page for the movie or TV episode, and the new subtitles should be available.
 
