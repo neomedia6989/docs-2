@@ -9,7 +9,7 @@ Plex is free to use as a software. However, on some mobile operating systems suc
 
     === "Free"
 
-        Starting at __$0.00/mo__
+        Always __$0.00/mo__
         
         - 1 Simultaneous Stream
         - Full HD Access
