@@ -2,11 +2,11 @@
 
 To sign up for our share service, you'll need a Plex account. If you don't have one already, you can get more info [here](../plex/getting-started.md).
 
-Once you have a Plex account, you can sign up for our share service by going to **https://blackbeard.media/register** and entering the referral code provided by your friend or family member. After registering, you'll need to validate your email by clicking the link in the email that we send you.
+Once you have a Plex account, you can sign up for our share service by going to https://blackbeard.media/register and entering the referral code provided by your friend or family member. After registering, you'll need to validate your email by clicking the link in the email that we send you.
 
-Once you're validated, you can log in to **https://blackbeard.media** and access our home page, where you can learn more about our service and subscribe to any of our plans. We offer both pay as you go and recurring subscriptions. If you have a promo code, make sure to select pay-as-you-go to use it.
+Once you're validated, you can log in to https://blackbeard.media and access our home page, where you can learn more about our service and subscribe to any of our plans. We offer both pay as you go and recurring subscriptions. If you have a promo code, make sure to select pay-as-you-go to use it.
 
-We strongly recommend that you update your Discord information on your account page at **https://blackbeard.media/my-account**. This will allow you to join our Discord community and get support from our team and other users.
+We strongly recommend that you update your Discord information on your account page at https://blackbeard.media/my-account. This will allow you to join our Discord community and get support from our team and other users.
 
  <details>
   <summary>How to Link Your Discord</summary>
