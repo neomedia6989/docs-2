@@ -60,3 +60,19 @@ Before you can begin enjoying the benefits of our appboxes, you'll need to subsc
 8. Review your order summary and select your preferred payment method. We accept PayPal, Stripe or most cryptocurrencies.
 9. Click on the "Complete Order" button to submit your payment.
 10. After payment is received, we will send you an email with our Kronos dashboard URL and your login credentials.
+
+### Link Your Discord with WHMCS
+
+Linking your Discord and WHMCS accounts provides additional benefits such as server access and specific appbox notifications.
+
+1. Go to the [Blackbeard Media WHMCS page](https://blackbeard.shop/) and log in to your account.
+2. Click on the "Home" button in the upper left-hand corner.
+3. Look for the "Link Social Media" box on the right-hand side of the page.
+4. Click on the "Link" button next to Discord.
+5. A window will pop up asking you to authorize the connection. Please allow it.
+6. Your role within our Discord server will be automatically updated.
+
+<figure markdown>
+![(../media/discord_appbox.gif "How to Link Your Discord")](https://docs.blackbeard.media/media/discord_appbox.gif){ width=750 }
+  <figcaption>How to link your Discord with WHMCS</figcaption>
+</figure>
