@@ -16,7 +16,7 @@ If you're already in our Discord server, you can use the `!id` command in any ch
 
 <figure markdown>
 ![(../media/discord_share.gif "How to Link Your Discord")](https://docs.blackbeard.media/media/discord_share.gif){ width=750 }
-  <figcaption>How to link your Discord to our web portal</figcaption>
+  <figcaption>How to link your Discord with our web portal</figcaption>
 </figure>
 
 If you have any questions or issues, our support team is always available on Discord. Don't hesitate to reach out if you need assistance!
