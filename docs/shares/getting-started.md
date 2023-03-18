@@ -2,7 +2,7 @@
 
 !!! danger "Closed to the Public"
     
-    Our Plex shares are closed to the public and require a referral from an existing member to be able to sign up. Please do not attempt to sign up for our Plex shares without a referral, as your account will be rejected.
+    Our Plex shares are closed to the public and require a referral from an existing member to be able to sign up. Please do not attempt to sign up for our Plex share service without a referral, as your account will be rejected.
 
 To sign up for our share service, you'll need a Plex account. If you don't have one already, you can get more info [here](../plex/getting-started.md).
 
