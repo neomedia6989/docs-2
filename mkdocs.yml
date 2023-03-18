@@ -88,12 +88,6 @@ extra:
     link: 'https://discord.blackbeard.media'
     name: Discord
   language: en
- 
-{% extends "base.html" %}
-
-{% block announce %}
-  Make sure to join **[ :simple-discord: our Discord](https://discord.blackbeard.media)** for the most up-to-date information and be part of our community!!
-{% endblock %}
 
 nav:
   - Home: index.md
