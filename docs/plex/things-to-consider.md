@@ -57,11 +57,11 @@ When it comes to downloading video files, there are generally three types of fil
 
 ## Location / Peering
 
-???+ info inline end "Content Delivery Network"
+When evaluating a Plex share, it's important to take into account the location and upload speed of the server, as well as the quality of your ISP's network. However, even with a high-speed connection, you may not always achieve the advertised speeds due to the complexity of the internet. One way to improve your streaming experience is through the use of a Content Delivery Network (CDN).
+
+???+ info "Content Delivery Network"
 
     A CDN (Content Delivery Network) is a group of servers located in different geographical locations that work together to provide faster and more reliable access to content. CDNs work by caching content on multiple servers and delivering it from the server that is closest to the end user, reducing latency and improving the overall streaming experience. By using a CDN, a Plex share provider can ensure that their content is delivered quickly and reliably to users, regardless of their location or network quality.
-
-When evaluating a Plex share, it's important to take into account the location and upload speed of the server, as well as the quality of your ISP's network. However, even with a high-speed connection, you may not always achieve the advertised speeds due to the complexity of the internet. One way to improve your streaming experience is through the use of a Content Delivery Network (CDN).
 
 To determine the actual speed you can achieve from a server, it's important to get a trial and test it out. One way to test the theoretical maximum of the server is by playing the highest bitrate file available and checking its bitrate information. If you're allowed multiple streams, you can open multiple browser tabs, the Plex app on your phone, and your TV to play multiple movies at the same time, mimicking the maximum use case. Even if you don't plan on watching high bitrate files right away, it's still worth checking if you can, just in case you decide to do so in the future.
 
