@@ -54,6 +54,7 @@ theme:
     - search.share
     - toc.follow
     - navigation.top
+    - announce.dismiss
   palette:
    
     # Palette toggle for automatic mode
@@ -88,7 +89,11 @@ extra:
     name: Discord
   language: en
  
+{% extends "base.html" %}
 
+{% block announce %}
+  Make sure to join **[ :simple-discord: our Discord](https://discord.blackbeard.media)** for the most up-to-date information and be part of our community!!
+{% endblock %}
 
 nav:
   - Home: index.md
