@@ -1,5 +1,9 @@
 # Getting Started with Blackbeard Shares
 
+!!! danger "Closed to the Public"
+    
+    Our Plex shares are closed to the public and require a referral from an existing member to be able to sign up. Please do not attempt to sign up for our Plex shares without a referral, as your account will be rejected.
+
 To sign up for our share service, you'll need a Plex account. If you don't have one already, you can get more info [here](../plex/getting-started.md).
 
 Once you have a Plex account, you can sign up for our share service by going to [blackbeard.media/register](https://blackbeard.media/register) and entering the referral code provided by your friend or family member. After registering, you'll need to validate your email by clicking the link in the email that we send you.
