@@ -104,6 +104,7 @@ nav:
   - Appboxes:
     - Getting Started: appboxes/getting-started.md
     - Kronos: appboxes/kronos.md
+  - FAQ: faq/index.md
   - Client Settings: 
     - Amazon Firestick/TV: clients/firetv.md
     - Android Mobile: clients/android.md
