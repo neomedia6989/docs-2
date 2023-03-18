@@ -103,7 +103,8 @@ nav:
   - Appboxes:
     - Getting Started: appboxes/getting-started.md
     - Kronos: appboxes/kronos.md
-  - FAQ: faq/index.md
+  - FAQ:
+    - General: faq/general.md
     - Appboxes: faq/appboxes.md
     - Shares: faq/shares.md
   - Client Settings: 
