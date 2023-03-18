@@ -55,3 +55,13 @@ Setting up daily restarts on your appbox allows for Plex to install any necessar
       <figcaption></figcaption>
     </figure>
     
+## Kronos Dashboard
+
+The Kronos dashboard also provides a range of tools for troubleshooting and customization. These tools can help you optimize your Plex server and ensure a seamless streaming experience for your users. Some of the things you can do on the Kronos dashboard include:
+
+1. **Restarting the server:** If you encounter any issues with your Plex server, you can use the dashboard to restart the server. This can help resolve many common problems and ensure that your server is running smoothly.
+2. **Unclaiming the server:** If you need to move your Plex server to a different account, you can use the unclaim option on the dashboard to release the server from your account.
+3. **Resetting the Plex config:** If you have made changes to your Plex server's settings and want to revert to the default configuration, you can use the reset option on the dashboard.
+4. **Rebuilding the Plex server:** If your Plex server is experiencing issues that cannot be resolved through other troubleshooting methods, you can use the rebuild option on the dashboard. This will completely wipe the server and start over with a fresh installation.
+5. **Enabling a CDN:** A Content Delivery Network (CDN) can help improve the streaming performance of your Plex server by distributing content across multiple servers. You can enable a CDN on the Kronos dashboard to enhance your server's performance.
+6. **Installing and managing Tautulli:** Tautulli is a third-party tool that can be used to monitor and analyze the performance of your Plex server. You can install and manage Tautulli directly from the Kronos dashboard.
