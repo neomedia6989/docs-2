@@ -11,7 +11,36 @@ To evaluate the quality of the library, hover over the movies that interest you 
 
 It's important to check a variety of old and new titles from different genres to understand the scope of the library. For example, the newest Hollywood blockbuster might be available in 1080p Remux with a 30GB size, but other titles may be low-quality encodes at 1080p and 2GB.
 
-Now that you have evaluated the quantity and quality of the titles in the library, it's important to understand the different types of file quality that may be available. Generally, there are three types of file quality: scene encodes, P2P encodes, and remux.
+Now that you have evaluated the quantity and quality of the titles in the library, it's important to understand the different types of file quality that may be available. One of the best factors to determine quality is bitrate, which refers to the amount of data used to represent a unit of time in a video or audio file. A higher bitrate generally means better quality, as more data is used to represent the video or audio.Generally, there are three types of file quality: scene encodes, P2P encodes, and remux.
+
+### Bitrate
+
+Bitrate refers to the amount of data that is transmitted over a specific period of time. In the context of streaming media, bitrate refers to the amount of data that is transmitted per second, and it is typically measured in bits per second (bps).
+
+Bitrate is an important factor that affects the quality of streaming media because it determines how much data is used to represent the video or audio being streamed. Generally, the higher the bitrate, the better the quality of the video or audio. This is because a higher bitrate allows more data to be used to represent the content, resulting in a clearer and more detailed image or sound. However, a higher bitrate also requires more bandwidth to transmit, which can be a limitation for some devices or internet connections. As a result, it's important to balance the bitrate with other factors like resolution and frame rate to ensure that the streaming media is of high quality without being too demanding on bandwidth.
+
+<figure markdown>
+![(../media/bitrate.gif "Multiple bitrate of the same video")](https://docs.blackbeard.media/media/bitrate.gif)
+<figcaption>An example of multiple bitrates of the same video</figcaption>
+</figure>
+
+Bitrate is comprised of resolution and quality, as these factors determine the amount of data that is needed to represent the video or audio being streamed.
+
+#### Resolution
+
+Resolution refers to the number of pixels that make up an image, and it is typically measured in terms of width and height (e.g. 1920x1080 for Full HD). Higher resolution images require more data to be transmitted, which in turn requires a higher bitrate. For example, a 1080p video will require more bitrate than a 720p video of the same length and frame rate.
+
+#### Quality
+
+Higher bitrate means that more data is used to represent the video or audio being streamed. This increased data allows for more detail to be captured and transmitted, resulting in a clearer and more detailed image or sound. This is particularly important for high-resolution videos or high-quality audio, where the additional detail provided by a higher bitrate can make a significant difference in the overall quality of the media being streamed.
+
+???+ warning "Select the Proper Bitrate"
+    
+    Different devices and internet connections may have different limitations on bitrate. For example, some older devices may not be able to handle high bitrate video, while some internet connections may not have enough bandwidth to support high bitrate streaming. It's important to consider the limitations of your devices and internet connection when choosing the appropriate bitrate for streaming media. In some cases, it may be necessary to choose a lower bitrate to ensure that the media can be streamed smoothly without buffering or interruptions.
+
+### Encode Quality
+
+When it comes to downloading video files, there are generally three types of file quality that you may come across: scene encodes, P2P encodes, and remux. Scene encodes and P2P encodes are both types of compressed files that have been encoded by different groups within the online piracy community. Scene encodes are typically released by groups that are part of the warez scene, which is an underground community of pirates who race to release the latest content. P2P encodes, on the other hand, are released by peer-to-peer networks and are often higher in quality than scene encodes. Remux, on the other hand, is a higher quality format that is uncompressed and typically taken from a Blu-ray or other high-quality source.
 
 `Scene Encodes (2-6Mbps at 1080p)`
 :   Scene encodes refer to video files that have been compressed using a specific set of encoding standards created by the Scene release groups. These standards ensure that the encoded video file is of a consistent quality and format across all Scene releases, making it easy for users to know what to expect from each release.
