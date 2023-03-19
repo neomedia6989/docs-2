@@ -34,7 +34,7 @@ To access your appbox for the first time, you will need to use the IP address pr
 
 You can access your appbox on an unlimited number of devices and are only limited by the number of transcodes and total concurrent streams based upon your plan.
 
-## Can I share my friends and family to my appbox?
+## Can I share my appbox with friends and family?
 
 Yes, you can invite your friends and family to your appbox by following these simple steps:
 
