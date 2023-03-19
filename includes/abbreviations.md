@@ -63,8 +63,6 @@
 *[Xvid]: MPEG-4 Part 2 Advanced Simple Profile (ASP) (Play on the word "DivX"
 *[xvid]: MPEG-4 Part 2 Advanced Simple Profile (ASP) (Play on the word "DivX"
 *[XVID]: MPEG-4 Part 2 Advanced Simple Profile (ASP) (Play on the word "DivX"
-*[PC]: Personal computer
-*[TV]: Television
 *[SRT]: SubRip Text
 *[ASS]: Advanced SubStation Alpha
 *[SSA]: SubStation Alpha
