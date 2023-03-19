@@ -21,3 +21,7 @@ Downloads are enabled on certain plans. Please refer to [your account](https://b
 ## What should I do if I experience technical issues?
 
 Please refer to our [troubleshooting section](#) for initial troubleshooting and you are unable to resolve the issue, please create a support ticket on our Discord server so we can find a solution as quickly as possible.
+
+## Can I request content to be added?
+
+Absolutely. All requests are handled through [Overseerr](https://overseerr.blackbeard.media). When you first subscribed to our Plex share service, you were sent an e-mail with your unique password. If you are unable to find it, click on the "Forgot Password" button on the Overseerr login page.
