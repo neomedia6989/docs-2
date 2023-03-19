@@ -1,9 +1,6 @@
 site_name: Blackbeard Media
 site_url: https://docs.blackbeard.media/
 
-extra_css:
-  - stylesheets/extra.css
-
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -93,6 +90,9 @@ extra:
     link: 'https://discord.blackbeard.media'
     name: Discord
   language: en
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
