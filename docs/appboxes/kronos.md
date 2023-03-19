@@ -21,6 +21,11 @@ Kronos is a powerful dashboard that gives you complete control and management ov
     
 4. You should be presented with a "Success!" box. This means that the Appbox has successfully been claimed by your user, and you should now be able to log into Plex and see your appbox, either by clicking the link underneath "Plex server IP" on the Server Overview page, or by navigating to the Plex website. Make sure to use the same credentials that you used to claim the Plex Server.
 
+!!! warning "Create a Support Ticket"
+    
+    After claiming your Plex server, it is important that you do not initiate any manual scans as our autoscan system will ensure that everything is fully updated. Instead, we kindly ask that you create a support ticket on our Discord channel and include your time zone so that we can update the docker container accordingly. This step is crucial to ensure that your server is up-to-date and running smoothly. 
+    We appreciate your cooperation and support in maintaining the quality of our service.
+
 ## Setting up Daily Restarts
 
 Setting up daily restarts on your appbox allows for Plex to install any necessary updates on the scheduled restart and is also a best practice to reduce the likelihood of issues occurring if your appbox is powered on for a long period of time.
