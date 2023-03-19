@@ -9,3 +9,9 @@
 .heart {
   animation: heart 1000ms infinite;
 }
+.heart:hover {
+  color: #8B0000;
+}
+.discord:hover {
+  color: #7289da;
+}
