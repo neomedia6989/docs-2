@@ -114,9 +114,9 @@ nav:
     - Shares: faq/shares.md
     - Requests: faq/requests.md
   - Troubleshooting / Tips:
-    - General:
-    - Plex Client:
-    - Plex Server:
+    - General: troubleshooting/general.md
+    - Plex Client: troubleshooting/client.md
+    - Plex Server: troubleshooting/server.md
   - Client Settings: 
     - Amazon Firestick/TV: clients/firetv.md
     - Android Mobile: clients/android.md
