@@ -6,28 +6,28 @@ To help you quickly find the information you're looking for, we've organized the
 
 === "Appboxes"
     
-    - [What is an appbox?](appboxes/#what-is-an-appbox)
-    - [How can I get an appbox?](appboxes/#how-can-i-get-an-appbox)
-    - [Do you offer a free trial?](appboxes/#do-you-offer-a-free-trial)
-    - [What kind of content is available on an appbox?](appboxes/#what-kind-of-content-is-available-on-an-appbox)
-    - [How many simultaneous streams can I have on an appbox?](appboxes/#how-many-simultaneous-streams-can-i-have-on-an-appbox)
-    - [How do I access my appbox?](appboxes/#how-do-i-access-my-appbox)
-    - [Can I use an appbox on multiple devices?](appboxes/#can-i-use-an-appbox-on-multiple-devices)
-    - [Can I share my appbox with friends and family?](appboxes/#can-i-share-my-appbox-with-friends-and-family)
-    - [What happens if I have technical issues with my appbox?](appboxes/#can-i-share-my-appbox-with-friends-and-family)
-    - [Can I request specific content to be added to my appbox?](appboxes/#can-i-request-specific-content-to-be-added-to-my-appbox)
+    1. [What is an appbox?](appboxes/#what-is-an-appbox)
+    2. [How can I get an appbox?](appboxes/#how-can-i-get-an-appbox)
+    3. [Do you offer a free trial?](appboxes/#do-you-offer-a-free-trial)
+    4. [What kind of content is available on an appbox?](appboxes/#what-kind-of-content-is-available-on-an-appbox)
+    5. [How many simultaneous streams can I have on an appbox?](appboxes/#how-many-simultaneous-streams-can-i-have-on-an-appbox)
+    6. [How do I access my appbox?](appboxes/#how-do-i-access-my-appbox)
+    7. [Can I use an appbox on multiple devices?](appboxes/#can-i-use-an-appbox-on-multiple-devices)
+    8. [Can I share my appbox with friends and family?](appboxes/#can-i-share-my-appbox-with-friends-and-family)
+    9. [What happens if I have technical issues with my appbox?](appboxes/#can-i-share-my-appbox-with-friends-and-family)
+    10. [Can I request specific content to be added to my appbox?](appboxes/#can-i-request-specific-content-to-be-added-to-my-appbox)
     
 === "Shares"
     
     
-    - What is a Plex share?
-    How do I join the Plex share?
-    Do you offer a free trial?
-    How do I use the service after I subscribe?
-    How many devices can I use?
-    Can I download content?
-    What should I do if I experience technical issues?
-    Can I request content to be added?
+    1. [What is a Plex share?](shares/#what-is-a-plex-share)
+    2. [How do I join the Plex share?](shares/#how-do-i-join-the-plex-share)
+    3. [Do you offer a free trial?](shares/#do-you-offer-a-free-trial)
+    4. [How do I use the service after I subscribe?](shares/#how-do-i-use-the-service-after-i-subscribe)
+    5. [How many devices can I use?](shares/#how-many-devices-can-i-use)
+    6. [Can I download content?](shares/#can-i-download-content)
+    7. [What should I do if I experience technical issues?](shares/#what-should-i-do-if-i-experience-technical-issues)
+    8. [Can I request content to be added?](shares/#can-i-request-content-to-be-added)
 
     
 === "Requests"
