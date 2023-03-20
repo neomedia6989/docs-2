@@ -18,6 +18,10 @@ Depending on the appbox you purchase, 4K content may not be included. It's impor
 
 Users can get an appbox by visiting [blackbeard.shop](https://blackbeard.shop) and selecting the desired plan. Once the purchase is complete, users will receive an email with the login details for their dashboard, Kronos, where they can manage their appbox. See [Getting Started with Blackbeard Appboxes](../appboxes/getting-started.md) for more info.
 
+## Do you offer a free trial?
+
+Unfortunately, we do not offer a trial of our appbox services.
+
 ## What kind of content is available on an appbox?
 
 Our appboxes come pre-loaded a wide variety of content, including thousands of movies, TV shows, and anime shows, with many available in 4K resolution.
