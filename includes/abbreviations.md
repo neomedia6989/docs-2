@@ -1,6 +1,7 @@
 *[CDN]: Content Delivery Network
 *[WHMCS]: Web Host Manager Complete Solution
 *[PMM]: Plex Meta Manager
+*[PMS]: Plex Media Server
 *[ISP]: Internet Service Provider
 *[P2P]: Peer-to-peer
 *[MA]: Master Audio
