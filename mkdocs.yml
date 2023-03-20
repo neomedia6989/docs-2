@@ -121,11 +121,11 @@ nav:
     - Amazon FireTV: clients/firetv.md
     - Android Mobile: clients/android.md
     - Android TV: clients/androidtv.md
-    - Apple iOS: clients/appleios.md
+    - Apple iOS: clients/ios.md
     - Apple TV: clients/appletv.md
     - Plex Media Player: clients/desktop.md
     - PlayStation / Xbox: clients/console.md
     - Roku: clients/roku.md
-    - Smart TV: clients/television.md
-    - Web Browser: clients/browser.md
+    - Smart TV: clients/tv.md
+    - Web Browser: clients/web.md
     - Other: clients/other.md
