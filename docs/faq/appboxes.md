@@ -12,7 +12,7 @@ The appboxes that Blackbeard Media is selling are private Plex Media Server (PMS
 `Dedicated / Baremetal Appbox` 
 :    An appbox hosting arrangement where only one Plex Media Server instance is hosted on the server. This means that dedicated appboxes do not share resources with other appboxes, allowing for a much greater amount of connections and/or transcoding. As a result, users can enjoy a high-performance streaming experience without being limited by resource constraints.
 
-Depending on the appbox you purchase, 4K content may not be included. It's important to check the specifications of each Appbox before purchasing to ensure that it meets your specific needs. When purchasing an Appbox, Blackbeard Media is responsible for the back-end operations of the service, such as maintaining the server and managing updates.
+Depending on the appbox you purchase, 4K content may not be included. It's important to check the specifications of each Appbox before purchasing to ensure that it meets your specific needs. When purchasing an appbox, Blackbeard Media is responsible for the back-end operations of the service, such as maintaining the server and managing updates.
 
 ## How can I get an appbox?
 
@@ -33,6 +33,10 @@ The number of simultaneous streams that you can have on an appbox depends on the
 ## How do I access my appbox?
 
 To access your appbox for the first time, you will need to use the IP address provided on the Kronos dashboard. Once you have connected to the IP address and completed the initial setup, you will be able to access your appbox using any device with the Plex app installed. This can include devices such as smartphones, tablets, smart TVs, and streaming media players. The Plex app can be downloaded for free from your device's app store. After installing the app, simply sign in with your Plex account credentials and your appbox content will be available to stream.
+
+## Is it set up immediately after purchase?
+
+While your appbox will work right after claiming it, please create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on Discord to allow us to help guide you through the process.
 
 ## Can I use an appbox on multiple devices?
 
@@ -56,8 +60,8 @@ For a more detailed guide, you can refer to the [step-by-step guide](https://sup
 
 If you encounter any technical issues with your appbox, you can access the Kronos dashboard for assistance. The dashboard provides access to various tools that can help troubleshoot and resolve issues. These tools include restarting the server, resetting the Plex configuration to default settings, and rebuilding the Plex server if necessary.
 
-If you are still having problems after using these tools, you can refer to our [troubleshooting section](#) for further guidance or create a support ticket on our Discord server. Our support team is always ready to help and will work with you to find a solution to your technical issues.
+If you are still having problems after using these tools, you can refer to our [troubleshooting section](#) for further guidance or create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on our Discord server. Our support team is always ready to help and will work with you to find a solution to your technical issues.
 
 ## Can I request specific content to be added to my appbox?
 
-Currently we are manually creating [Overseerr](https://overseerr.blackbeard.media) accounts for appbox users but will have this process automated in the near future! For now, please create a support ticket on Discord and we will help get you started.
+Currently we are manually creating [Overseerr](https://overseerr.blackbeard.media) accounts for appbox users but will have this process automated in the near future! For now, please create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on Discord and we will help get you started.
