@@ -4,13 +4,31 @@ Welcome to our Frequently Asked Questions (FAQ) section. Here, we provide answer
 
 To help you quickly find the information you're looking for, we've organized the questions into categories. Please refer to the table of contents below to navigate to the section that best fits your needs.
 
-=== "Shares"
-    
-    hi
-    
 === "Appboxes"
     
-    hi
+    - [What is an appbox?](appboxes/#what-is-an-appbox)
+    - [How can I get an appbox?](appboxes/#how-can-i-get-an-appbox)
+    - [Do you offer a free trial?](appboxes/#do-you-offer-a-free-trial)
+    - [What kind of content is available on an appbox?](appboxes/#what-kind-of-content-is-available-on-an-appbox)
+    - [How many simultaneous streams can I have on an appbox?](appboxes/#how-many-simultaneous-streams-can-i-have-on-an-appbox)
+    - [How do I access my appbox?](appboxes/#how-do-i-access-my-appbox)
+    - [Can I use an appbox on multiple devices?](appboxes/#can-i-use-an-appbox-on-multiple-devices)
+    - [Can I share my appbox with friends and family?](appboxes/#can-i-share-my-appbox-with-friends-and-family)
+    - [What happens if I have technical issues with my appbox?](appboxes/#can-i-share-my-appbox-with-friends-and-family)
+    - [Can I request specific content to be added to my appbox?](appboxes/#can-i-request-specific-content-to-be-added-to-my-appbox)
+    
+=== "Shares"
+    
+    
+    - What is a Plex share?
+    How do I join the Plex share?
+    Do you offer a free trial?
+    How do I use the service after I subscribe?
+    How many devices can I use?
+    Can I download content?
+    What should I do if I experience technical issues?
+    Can I request content to be added?
+
     
 === "Requests"
     
