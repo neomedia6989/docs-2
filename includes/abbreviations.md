@@ -3,6 +3,7 @@
 *[PMM]: Plex Meta Manager
 *[PMS]: Plex Media Server
 *[ISP]: Internet Service Provider
+*[ISPs]: Internet Service Providers
 *[P2P]: Peer-to-peer
 *[MA]: Master Audio
 *[bps]: bits per second
