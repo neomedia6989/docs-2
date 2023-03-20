@@ -112,6 +112,11 @@ nav:
     - General: faq/general.md
     - Appboxes: faq/appboxes.md
     - Shares: faq/shares.md
+    - Requests: faq/requests.md
+  - Troubleshooting / Tips:
+    - General:
+    - Plex Client:
+    - Plex Server:
   - Client Settings: 
     - Amazon Firestick/TV: clients/firetv.md
     - Android Mobile: clients/android.md
