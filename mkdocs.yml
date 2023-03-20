@@ -109,14 +109,14 @@ nav:
     - Getting Started: appboxes/getting-started.md
     - Kronos: appboxes/kronos.md
   - FAQ:
-    - General: faq/general.md
+    - Table of Contents: faq/index.md
     - Appboxes: faq/appboxes.md
     - Shares: faq/shares.md
     - Requests: faq/requests.md
   - Troubleshooting / Tips:
-    - General: troubleshooting/general.md
     - Plex Client: troubleshooting/client.md
     - Plex Server: troubleshooting/server.md
+    - Miscellaneous: troubleshooting/misc.md
   - Client Settings: 
     - Amazon Firestick/TV: clients/firetv.md
     - Android Mobile: clients/android.md
