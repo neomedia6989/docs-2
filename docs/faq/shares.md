@@ -8,6 +8,10 @@ A Plex Share is a fully-managed Plex server which you are invited to for streami
 
 To join the Plex share, you need to be invited by an existing member as Plex shares are closed to the public. If you do have a referral, you can get more info on our [Getting Started with Blackbeard Shares](../shares/getting-started.md) page.
 
+## Do you offer a free trial?
+
+Yes, every member is entitled to a free, five-day trial.
+
 ## How do I use the service after I subscribe?
 
 To utilize your new subscription, you need to have a Plex account and a compatible device such as a computer, smartphone, tablet, or smart TV. Once you have been granted access by the server owner, you can log in to your Plex account and access the server's library of media content.
