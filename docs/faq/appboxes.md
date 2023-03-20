@@ -61,7 +61,3 @@ For a more detailed guide, you can refer to the [step-by-step guide](https://sup
 If you encounter any technical issues with your appbox, you can access the Kronos dashboard for assistance. The dashboard provides access to various tools that can help troubleshoot and resolve issues. These tools include restarting the server, resetting the Plex configuration to default settings, and rebuilding the Plex server if necessary.
 
 If you are still having problems after using these tools, you can refer to our [troubleshooting section](#) for further guidance or create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on our Discord server. Our support team is always ready to help and will work with you to find a solution to your technical issues.
-
-## Can I request specific content to be added to my appbox?
-
-Currently we are manually creating [Overseerr](https://overseerr.blackbeard.media) accounts for appbox users but will have this process automated in the near future! For now, please create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on Discord and we will help get you started.
