@@ -2,11 +2,7 @@
 
 Follow the steps below in order to change the Plex video quality settings on a FireTV device, such as a FireStick. 
 
-!!! warning "Quality Suggestions"
-    
-    Plex has recently introduced a new feature called "Quality Suggestions" on select Android TV devices. This feature may automatically adjust the video quality based on your internet speed and other factors. If you notice this option in your settings, it is recommended to turn it off.
-
-1. Nvigate to the "Settings" option located at the bottom of the left-hand navigation pane on the Plex home screen.
+1. Navigate to the "Settings" option located at the bottom of the left-hand navigation pane on the Plex home screen.
     
     <figure markdown>
     ![(../media/clients-firetv-1.png "Click on 'Settings'")](https://docs.blackbeard.media/media/clients-firetv-1.png){ width=700 }
