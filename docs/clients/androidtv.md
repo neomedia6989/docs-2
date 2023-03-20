@@ -9,14 +9,14 @@ Follow the steps below in order to change the Plex video quality settings on an
 1. To adjust the video quality settings on your Nvidia Shield, Xiaomi MiBox or a similar device while using Plex, navigate to the "Settings" option located at the bottom of the left-hand navigation pane on the Plex home screen.
     
     <figure markdown>
-    ![(../media/clients-androidtv-1.png "Click on 'Settings'")](https://docs.blackbeard.media/media/clients-androidtv-1.png){ width=650 }
+    ![(../media/clients-androidtv-1.png "Click on 'Settings'")](https://docs.blackbeard.media/media/clients-androidtv-1.png){ width=700 }
       <figcaption></figcaption>
     </figure>
     
 2. Select "Video Quality," then turn off "Adjust automatically" and set both "Home streaming" and "Remote streaming" to "Maximum."
     
     <figure markdown>
-    ![(../media/clients-androidtv-2.png "Turn of 'Adjust automatically' and set streaming to 'Maximum'")](https://docs.blackbeard.media/media/clients-androidtv-2.png){ width=650 }
+    ![(../media/clients-androidtv-2.png "Turn of 'Adjust automatically' and set streaming to 'Maximum'")](https://docs.blackbeard.media/media/clients-androidtv-2.png){ width=700 }
       <figcaption></figcaption>
     </figure>
     
