@@ -67,6 +67,10 @@ To determine the actual speed you can achieve from a server, it's important to g
 
 To ensure a smooth streaming experience, you should ideally be able to achieve 2x the average bitrate displayed in the file, to account for spikes in network traffic. To get a rough estimate of your speed to the media server, you can visit our speed test page. Remember that the quality of your ISP and server's network, as well as your location, can significantly impact your actual speeds, so it's important to test the server thoroughly before committing to a subscription. Additionally, if the server uses a CDN, it can help improve your streaming experience by delivering content faster and more efficiently.
 
+???+ info "Peering: What is it?"
+    
+    Peering refers to the way in which different ISPs exchange traffic with one another. It's like trucks carrying goods on different highways to reach their destination. Sometimes, when there is a lot of traffic or a fault in the highway, it can cause congestion and slow down the delivery of the goods. Similarly, when there is a peering issue between two ISPs, it can cause congestion or slow down the delivery of streaming video from the content provider to the viewer. This can result in buffering, poor video quality, or other issues that can make for a frustrating viewing experience.
+    
 ## Time
 
 The time of day can also play a significant role in the quality of your streaming experience. Many servers have limited resources, and during peak usage times, such as in the evening, you might experience slow or choppy playback. Conversely, during off-peak hours, you might find that the server performs better, and you can stream high-quality content with ease. This issue can arise if the server is oversold to maximize profits, much like how ISPs oversell their network capacity. The assumption here is that not everyone will be using the server simultaneously, which is often true. However, it may be important to consider when you plan to watch and ensure that you choose a time when the server is not overloaded with other users.
