@@ -6,7 +6,7 @@ To help you quickly find the information you're looking for, we've organized the
 
 === "Appboxes"
     
-    1. [What is an appbox?](/appboxes/#what-is-an-appbox)
+    1. [What is an appbox?](appboxes/#what-is-an-appbox)
     2. [How can I get an appbox?](appboxes/#how-can-i-get-an-appbox)
     3. [Do you offer a free trial?](appboxes/#do-you-offer-a-free-trial)
     4. [What kind of content is available on an appbox?](appboxes/#what-kind-of-content-is-available-on-an-appbox)
