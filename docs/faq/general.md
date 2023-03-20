@@ -12,10 +12,10 @@ To help you quickly find the information you're looking for, we've organized the
     4. [What kind of content is available on an appbox?](appboxes/#what-kind-of-content-is-available-on-an-appbox)
     5. [How many simultaneous streams can I have on an appbox?](appboxes/#how-many-simultaneous-streams-can-i-have-on-an-appbox)
     6. [How do I access my appbox?](appboxes/#how-do-i-access-my-appbox)
-    7. [Can I use an appbox on multiple devices?](appboxes/#can-i-use-an-appbox-on-multiple-devices)
-    8. [Can I share my appbox with friends and family?](appboxes/#can-i-share-my-appbox-with-friends-and-family)
-    9. [What happens if I have technical issues with my appbox?](appboxes/#can-i-share-my-appbox-with-friends-and-family)
-    10. [Can I request specific content to be added to my appbox?](appboxes/#can-i-request-specific-content-to-be-added-to-my-appbox)
+    7. [Is the appbox fully configured after I claim it?](appboxes/#how-do-i-access-my-appbox)
+    8. [Can I use an appbox on multiple devices?](appboxes/#can-i-use-an-appbox-on-multiple-devices)
+    9. [Can I share my appbox with friends and family?](appboxes/#can-i-share-my-appbox-with-friends-and-family)
+    10. [What happens if I have technical issues with my appbox?](appboxes/#can-i-share-my-appbox-with-friends-and-family)
     
 === "Shares"
     
@@ -27,11 +27,14 @@ To help you quickly find the information you're looking for, we've organized the
     5. [How many devices can I use?](shares/#how-many-devices-can-i-use)
     6. [Can I download content?](shares/#can-i-download-content)
     7. [What should I do if I experience technical issues?](shares/#what-should-i-do-if-i-experience-technical-issues)
-    8. [Can I request content to be added?](shares/#can-i-request-content-to-be-added)
-
     
 === "Requests"
     
-    hi
+    1. [How do I make a request for content?](#)
+    2. [What do I do if I can't login to Overseerr?](#)
+    3. [Can I request adult content?](#)
+    4. [Can I request anime content?](#)
+    5. [What should I do if my request isn't fulfilled?](#)
+    6. [What should I do if my request is fulfilled incorrectly?](#)
     
     
