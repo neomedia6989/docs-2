@@ -36,7 +36,7 @@ To access your appbox for the first time, you will need to use the IP address pr
 
 ## Is the appbox fully configured after I claim it?
 
-While your appbox will work right after claiming it, please create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on Discord to allow us to help guide you through the process.
+While your appbox will work right after claiming it, please create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on Discord to allow us to help guide you through the process and add our custom autoscan.
 
 ## Can I use an appbox on multiple devices?
 
