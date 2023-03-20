@@ -34,7 +34,7 @@ The number of simultaneous streams that you can have on an appbox depends on the
 
 To access your appbox for the first time, you will need to use the IP address provided on the Kronos dashboard. Once you have connected to the IP address and completed the initial setup, you will be able to access your appbox using any device with the Plex app installed. This can include devices such as smartphones, tablets, smart TVs, and streaming media players. The Plex app can be downloaded for free from your device's app store. After installing the app, simply sign in with your Plex account credentials and your appbox content will be available to stream.
 
-## Is it set up immediately after purchase?
+## Is the appbox fully configured after I claim it?
 
 While your appbox will work right after claiming it, please create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on Discord to allow us to help guide you through the process.
 
