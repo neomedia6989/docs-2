@@ -118,14 +118,14 @@ nav:
     - Plex Server: troubleshooting/server.md
     - Miscellaneous: troubleshooting/misc.md
   - Client Settings: 
-    - Amazon Firestick/TV: clients/firetv.md
+    - Amazon FireTV: clients/firetv.md
     - Android Mobile: clients/android.md
     - Android TV: clients/androidtv.md
     - Apple iOS: clients/appleios.md
     - Apple TV: clients/appletv.md
-    - Browser: clients/browser.md
     - Plex Media Player: clients/desktop.md
-    - PS4/5 / Xbox: clients/console.md
+    - PlayStation / Xbox: clients/console.md
     - Roku: clients/roku.md
     - Smart TV: clients/television.md
+    - Web Browser: clients/browser.md
     - Other: clients/other.md
