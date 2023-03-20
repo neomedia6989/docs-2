@@ -1,10 +1,10 @@
 # FAQ - Requests
 
-# How do I make a request for content?
+## How do I make a request for content?
 
 All requests, except anime, are handled through [Overseerr](https://overseerr.blackbeard.media/). Appbox subscribers need to create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on Discord to have their account created. Share subscribers have a unique password emailed to them when they subscribed.
 
-# What do I do if I can't login to Overseerr?
+## What do I do if I can't login to Overseerr?
 
 First, try to [reset your password](https://overseerr.blackbeard.media/resetpassword). If you are unable to reset your password, create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on Discord.
 
