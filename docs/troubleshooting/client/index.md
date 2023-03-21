@@ -34,6 +34,10 @@ To fix these issues, you can try a few things. First, you can adjust the setting
 
 If the subtitles still don't work, you can try downloading new ones and making them match with what the people are saying on the screen. If you're a Share subscriber, you can upload new subtitles to [our website](https://blackbeard.media/subtitles-upload). If you're an Appbox subscriber, you can upload new subtitles through the Plex user interface.
 
+???+ note "Subtitles and Transcoding"
+    
+    When troubleshooting playback issues on Plex, it's important to note that subtitles can often force the video to transcode, which can cause playback issues. Therefore, turning off subtitles should be one of the first things to try when troubleshooting transcoding issues.
+
 ## Troubleshooting Device Compatibility Issues
 
 Sometimes when people try to use Plex on a device, it might not work the way they want it to. This is called a "device compatibility issue." This means that the device you're trying to use Plex on might not work well with Plex.
