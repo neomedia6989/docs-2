@@ -1,4 +1,4 @@
-# iOS[^1]
+# Apple iOS[^1]
 
 Follow the steps below in order to change the Plex video quality settings on Apple iOS devices (e.g. iPhones & iPads).
 
