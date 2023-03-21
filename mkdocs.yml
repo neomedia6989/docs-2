@@ -49,6 +49,7 @@ theme:
     - navigation.tracking
     - navigation.path
     - navigation.tabs
+    - navigation.expand
     - content.tooltips
     - navigation.footer
     - search.suggest
