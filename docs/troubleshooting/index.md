@@ -46,7 +46,7 @@ Sometimes, the cache and cookies can build up and make the videos load slowly. T
 
 ???+ failure "Restarting / Uninstalling Plex"
     
-    If you're still experiencing issues with your video streaming quality, you can try signing out of the app or game and signing back in to see if that helps. If all else fails, you can try uninstalling and reinstalling the app to see if that helps improve performance.
+    If you're still experiencing issues with your video streaming quality, you can try signing out of the app and signing back in to see if that helps. If all else fails, you can try uninstalling and reinstalling the app to see if that helps improve performance.
 
 ## Improving Video Streaming by Changing DNS
 
