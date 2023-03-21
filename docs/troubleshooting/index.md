@@ -1,8 +1,8 @@
 # Troubleshooting & Tips
 
-Welcome to the Troubleshooting & Tips section, where we provide you with helpful solutions and advice to common problems you may encounter with your devices and technology. We understand that technology can sometimes be tricky, but don't worry, we have got you covered.
+We understand that technology can sometimes be tricky, but don't worry, we have got you covered. In this section, beyond the general tips below, we have organized our tips and solutions into two categories to make it easier for you to navigate: Plex Clients and Plex Servers. 
 
-In this section, beyond the general tips below, we have organized our tips and solutions into two categories to make it easier for you to navigate: Plex Clients and Plex Servers. If you are an end user streaming content, our Plex Clients section provides tips on how to optimize your streaming experience, troubleshoot common issues, and get the most out of your device.
+If you are an end user streaming content, our Plex Clients section provides tips on how to optimize your streaming experience, troubleshoot common issues, and get the most out of your device.
 
 If you are an appbox subscriber running a Plex Server, our Plex Servers section provides helpful solutions to common issues, tips on how to optimize your server's performance, and advice on how to troubleshoot problems with your server.
 
