@@ -6,7 +6,7 @@ In this section, beyond the general tips below, we have organized our tips and s
 
 If you are an appbox subscriber running a Plex Server, our Plex Servers section provides helpful solutions to common issues, tips on how to optimize your server's performance, and advice on how to troubleshoot problems with your server.
 
-## Improving Video Streaming by Changing DNS to 1.1.1.1 or 8.8.8.8
+## Improving Video Streaming by Changing DNS
 
 If you are experiencing buffering or slow video streaming, changing your DNS settings to a faster and more reliable DNS server such as 1.1.1.1 (Cloudflare DNS) or 8.8.8.8 (Google  DNS) can help improve your internet connection speed and resolve network issues.
 
