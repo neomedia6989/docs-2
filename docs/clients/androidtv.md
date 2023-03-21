@@ -1,4 +1,4 @@
-# Android TV
+# Android TV[^1]
 
 Follow the steps below in order to change the Plex video quality settings on an Android TV device. 
 
@@ -22,3 +22,4 @@ Follow the steps below in order to change the Plex video quality settings on an
     
 3. You are ready to stream
 
+[^1]: Originally posted on [The Media Clients Wiki](https://mediaclients.wiki/)
