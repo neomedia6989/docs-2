@@ -42,7 +42,7 @@ If the subtitles still don't work, you can try downloading new ones and making t
 
 Sometimes when people try to use Plex on a device, it might not work the way they want it to. This is called a "device compatibility issue." This means that the device you're trying to use Plex on might not work well with Plex.
 
-To fix this, there are a few things you can try. First, you can check if there are any updates or compatibility issues with the device or platform you're using. This means making sure that the device you're using is compatible with Plex and that it's up-to-date.
+To fix this, there are a few things you can try. To start with, check out our [recommended settings guides](../clients/other/). Beyond those guides, you can check if there are any updates or compatibility issues with the device or platform you're using. This means making sure that the device you're using is compatible with Plex and that it's up-to-date.
 
 To make sure you're getting the best possible video quality on Plex, there are a few things you can check. First, make sure that HDR and DV are enabled if you're watching content that supports these features. Additionally, ensure that your device's maximum h.264 level is sufficient to handle the video being played.
 
