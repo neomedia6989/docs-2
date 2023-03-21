@@ -1,4 +1,4 @@
-# FireTV[^1]
+# Amazon FireTV[^1]
 
 Follow the steps below in order to change the Plex video quality settings on a FireTV device, such as a FireStick. 
 
