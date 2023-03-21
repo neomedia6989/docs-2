@@ -114,13 +114,13 @@ nav:
     - Shares: faq/shares.md
     - Requests: faq/requests.md
   - Troubleshooting / Tips:
+    - General: troubleshooting/index.md
     - Plex Client:
       - Troubleshooting: troubleshooting/client/index.md
       - Tips: troubleshooting/client/tips.md
     - Plex Server:
       - Troubleshooting: troubleshooting/server/index.md
       - Tips: troubleshooting/server/tips.md
-    - Miscellaneous: troubleshooting/misc.md
   - Client Settings: 
     - Amazon FireTV: clients/firetv.md
     - Android Mobile: clients/android.md
