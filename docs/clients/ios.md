@@ -16,7 +16,7 @@ Follow the steps below in order to change the Plex video quality settings on Ap
       <figcaption></figcaption>
     </figure>
     
-3. Navigate to the Quality section from the Settings menu by selecting it.
+3. Navigate to the **Quality** section from the Settings menu by selecting it.
     
     <figure markdown>
     ![(../media/clients-ios-3.png "Select 'Quality'")](https://docs.blackbeard.media/media/clients-ios-3.png){ width=350 }
@@ -30,16 +30,16 @@ Follow the steps below in order to change the Plex video quality settings on Ap
       <figcaption></figcaption>
     </figure>
     
-5. First, click on Remote Streaming. You may notice that there isn't an option for "Original" or "Maximum" like many other devices. This is because it is hidden by default.
+5. First, click on **Remote Streaming**. You may notice that there isn't an option for "Original" or "Maximum" like many other devices. This is because it is hidden by default.
     
-    - Select the "Show All" menu option
+    - Select the "**Show All**" menu option
       
       <figure markdown>
       ![(../media/clients-ios-5.png "Select 'Show All'")](https://docs.blackbeard.media/media/clients-ios-5.png){ width=350 }
         <figcaption></figcaption>
       </figure>
       
-    - Once you've accessed the Quality Menu, select "Maximum" from the options available. For the other settings, compare your screen to the image below. Note that the cellular data and "Automatically adjust quality" settings are optional and should be set according to your specific data plan requirements.
+    - Once you've accessed the Quality Menu, select "**Maximum**" from the options available. For the other settings, compare your screen to the image below. Note that the cellular data and "Automatically adjust quality" settings are optional and should be set according to your specific data plan requirements.
       
       <figure markdown>
       ![(../media/clients-ios-7.png "Select 'Maximum'")](https://docs.blackbeard.media/media/clients-ios-7.png){ width=350 }
