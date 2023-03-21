@@ -123,9 +123,10 @@ nav:
     - Android TV: clients/androidtv.md
     - Apple iOS: clients/ios.md
     - Apple TV: clients/appletv.md
+    - Kodi: clients/kodi.md
+    - LG / WebOS: clients/lg.md
     - Plex Media Player: clients/pmp.md
+    - Plex Web Player: clients/web.md
     - PlayStation / Xbox: clients/console.md
     - Roku: clients/roku.md
-    - Smart TV: clients/tv.md
-    - Web Browser: clients/web.md
     - Other: clients/other.md
