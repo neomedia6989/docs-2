@@ -7,10 +7,10 @@
       <figcaption></figcaption>
     </figure>
     
-2. Select "Video Quality," then turn off "Auto Adjust Quality" and set both "Local Quality" and "Remote Quality" to "Maximum."
+2. Select "Video Quality," then **turn off** "Auto Adjust Quality" and set both "Local Quality" and "Remote Quality" to "**Maximum**."
     
     <figure markdown>
-    ![(../media/clients-appletv-2.png "Turn of 'Adjust automatically' and set streaming to 'Maximum'")](https://docs.blackbeard.media/media/clients-appletv-2.png){ width=700 }
+    ![(../media/clients-appletv-2.png "Turn off 'Adjust automatically' and set streaming to 'Maximum'")](https://docs.blackbeard.media/media/clients-appletv-2.png){ width=700 }
       <figcaption></figcaption>
     </figure>
     
