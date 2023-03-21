@@ -6,6 +6,48 @@ In this section, beyond the general tips below, we have organized our tips and s
 
 If you are an appbox subscriber running a Plex Server, our Plex Servers section provides helpful solutions to common issues, tips on how to optimize your server's performance, and advice on how to troubleshoot problems with your server.
 
+## Understanding Internet Speed and Your Connection
+
+Internet speed is like how fast you can ride your bike to get to a friend's house. When you want to watch a video on the internet, your computer has to ask the internet to send it the video. If your internet speed is slow, it might take a long time for your computer to get the video, like when you ride your bike slowly to get to your friend's house.
+
+But, if your internet speed is fast, your computer can get the video really quickly, like when you ride your bike really fast to get to your friend's house.
+
+Sometimes, the internet might not be fast enough to send the video to your computer quickly, even if your internet speed is really fast. This can happen when the video is coming from far away, like from another country.
+
+That's why we have something called a CDN (Content Delivery Network) that helps make sure the video gets to your computer as fast as possible. It's like having a special bike lane that's smoother and faster so you can get to your friend's house more quickly.
+
+If you want to check how fast your internet is, you can use a special tool called a speed test. We have two different speed tests you can use: [one to test your direct connection to our servers](https://speedtest.blackbeard.brrrrrr.net/), and [another to test your speed to the closest CDN node](https://speedtest.brrrrrr.net/). It's like checking how fast you can ride your bike in different directions to get to your friend's house.
+
+If your speed test results are poor, it might mean that your internet speed is too slow. It's like when you ride your bike too slowly and it takes a long time to get to your friend's house. In that case, you might need to ask your parents if they can help you get a faster internet speed so you can watch videos more quickly.
+
+## Ethernet vs. Wi-Fi for Video Streaming
+
+When you use the internet to watch a video, your computer or tablet talks to the internet using something called Wi-Fi or Ethernet. Wi-Fi is like a magic spell that lets your computer talk to the internet without any wires. Ethernet is like a magic string that lets your computer talk to the internet with a special wire.
+
+Now, if you use Wi-Fi, it's like trying to have a conversation with your friend while you're running around in the park. Sometimes you might hear your friend, but other times it might be hard to hear them or you might not hear them at all. This is because Wi-Fi can get interrupted by things like walls, other people's Wi-Fi, or even a microwave oven!
+
+On the other hand, if you use Ethernet, it's like having a conversation with your friend while sitting at a table. You can hear your friend very clearly because there's nothing in the way. This is because Ethernet uses a special wire that goes directly from your computer to the internet.
+
+So, if you want to watch videos on the internet without any interruptions, it's a good idea to use Ethernet instead of Wi-Fi. That way, your computer can talk to the internet without any obstacles in the way, and you can watch your videos smoothly and without any interruptions.
+
+## Closing Apps and Disconnecting Devices to Improve Video Streaming
+
+Have you ever played with too many toys at the same time and couldn't find the one you wanted to play with? That's kind of like what happens when there are too many devices using the internet at the same time. When that happens, the internet can get slow and it might take longer for your videos to load. So, it's a good idea to close any apps that are not being used and to disconnect any devices that are not being used, so that your video streaming can be fast and smooth!
+
+## Improving Streaming Performance: Clearing Cache and Cookies
+
+When you watch videos on your computer or TV, sometimes little bits and pieces of the videos get stored in your device so they can play faster later on. These bits and pieces are called "cache". Cookies are little pieces of information that websites leave on your device so they can remember your preferences.
+
+Sometimes, the cache and cookies can build up and make the videos load slowly. To make them play faster, you can clear the cache and cookies. Here's how you can do it on different devices:
+
+- **For smart TVs and streaming devices:** Go to the settings on your TV or streaming device and find the option to clear the cache and cookies. You may need to look in the "System" or "General" settings. Follow the prompts to clear the cache and cookies.
+- **For PCs:** If you're using a web browser like Chrome, Firefox or Edge, you can usually clear the cache and cookies by going to the settings or options menu. Look for the "Privacy" or "Security" section, and you should find an option to clear browsing data. Follow the prompts to clear the cache and cookies
+- **For consoles:** Clearing the cache and cookies may vary depending on the type of console you have. Look for the option to clear cache and cookies in the settings or preferences menu, and follow the prompts to clear them.
+
+???+ failure "Restarting / Uninstalling Plex"
+    
+    If you're still experiencing issues with your video streaming quality, you can try signing out of the app or game and signing back in to see if that helps. If all else fails, you can try uninstalling and reinstalling the app to see if that helps improve performance.
+
 ## Improving Video Streaming by Changing DNS
 
 When you want to watch a video on the internet, you have to tell your computer where to find it. It's like telling your friend where to find a toy in your messy room.
@@ -71,3 +113,11 @@ But, a VPN can also help keep your information safe and secure while you're watc
 However, our video service already has a special delivery person that knows all the best routes and shortcuts to get your videos to you quickly. It's like having a magic pizza delivery person who always knows the fastest way to your house. This way, you can watch your videos quickly without needing to use a VPN.
 
 So, while a VPN can make your videos even faster and keep your information secure, most people don't need to use one because our service already has a magic delivery person to make sure your videos get to you quickly and easily.
+
+## Disable Hardware Acceleration
+
+Hardware acceleration is like having a helper to do some tasks for you so that you don't have to do them yourself. But sometimes, this helper can make things slower or not work properly.
+
+So, when you're watching videos on some devices, like a computer, you can turn off this helper to try to make the videos play better. This might help the videos play more smoothly and not freeze or stop in the middle.
+
+For some devices, like Apple TV, there's also a special setting you can choose that's called "Old" or "Legacy" player. This can also help the videos play better. It's like using an older version of the helper that might work better for some videos.
