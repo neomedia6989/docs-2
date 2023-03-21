@@ -1,4 +1,4 @@
-## Android Mobile
+## Android Mobile[^1]
 
 Follow the steps below in order to change the Plex video quality settings on an Android Mobile device. 
 
@@ -47,3 +47,5 @@ Follow the steps below in order to change the Plex video quality settings on an
       </figure>
     
 5. Hit the :material-arrow-left-thick: in the upper left and you are ready to stream
+
+[^1]: Originally posted on [The Media Clients Wiki](https://mediaclients.wiki/)
