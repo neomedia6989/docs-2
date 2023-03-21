@@ -13,7 +13,7 @@ Follow the steps below in order to change the Plex video quality settings on an
       <figcaption></figcaption>
     </figure>
     
-2. Select "Video Quality," then turn off "Adjust automatically" and set both "Home streaming" and "Remote streaming" to "Maximum."
+2. Select "Video Quality," then **turn off** "Adjust automatically" and set both "Home streaming" and "Remote streaming" to "**Maximum**."
     
     <figure markdown>
     ![(../media/clients-androidtv-2.png "Turn of 'Adjust automatically' and set streaming to 'Maximum'")](https://docs.blackbeard.media/media/clients-androidtv-2.png){ width=700 }
