@@ -8,9 +8,13 @@ If you are an appbox subscriber running a Plex Server, our Plex Servers section 
 
 ## Improving Video Streaming by Changing DNS
 
-If you are experiencing buffering or slow video streaming, changing your DNS settings to a faster and more reliable DNS server such as 1.1.1.1 (Cloudflare DNS) or 8.8.8.8 (Google  DNS) can help improve your internet connection speed and resolve network issues.
+When you want to watch a video on the internet, you have to tell your computer where to find it. It's like telling your friend where to find a toy in your messy room.
 
-DNS, or Domain Name System, is responsible for translating website domain names into IP addresses that your device can understand and connect to. By default, your internet service provider (ISP) provides you with a DNS server, but these servers may be slow or unreliable, especially during peak usage hours.
+DNS (Domain Name System) is like a map that helps your computer find the video you want to watch. It tells your computer the address where the video is located on the internet, just like your mom might tell your friend the location of the toy in your room.
+
+Sometimes, the map your computer is using might not be the best one, and it might take a long time for your computer to find the video. It's like trying to find a toy in your room using a really old and messy map.
+
+By changing your DNS to a better one, it's like getting a new and improved map that helps your computer find the video faster. It's like having a new and organized map of your room that makes it easier for your friend to find the toy. So, changing your DNS can make it faster and easier for your computer to find and play the video you want to watch!
 
 Here's how you can change your DNS settings on various devices:
 
@@ -58,10 +62,12 @@ By changing your DNS server to 1.1.1.1 or 8.8.8.8, you should notice a significa
 
 ## Using a VPN for Video Streaming: Benefits and Considerations
 
-Using a VPN (Virtual Private Network) can sometimes improve your video streaming experience by providing an additional layer of security and privacy, and in some cases, helping to bypass ISP throttling of video streaming traffic.
+Watching videos on the internet is like getting a pizza delivered to your house. Sometimes, the pizza delivery person has to take a really long and slow route to get to your house, and it can take a long time for your pizza to arrive.
 
-ISPs (Internet Service Providers) sometimes throttle video streaming traffic during peak usage times to ensure that all users have a fair share of bandwidth. This can result in slower and lower quality video streaming experiences, which can be frustrating for users. By using a VPN, users may be able to bypass these throttling measures and enjoy faster, more stable video streaming.
+A VPN (Virtual Private Network) is like having a special delivery person who knows all the best shortcuts and can get your pizza to you faster. They can avoid traffic and take a faster route to your house, which means you get your pizza quicker!
 
-However, it's worth noting that a VPN is not necessary for most people when it comes to video streaming. Our CDN (Content Delivery Network) uses geo-locating technology to find the best route to each end user, ensuring that video streams are delivered efficiently and effectively. This means that most users can enjoy a high-quality streaming experience without the need for a VPN.
+But, a VPN can also help keep your information safe and secure while you're watching videos. It's like having a secret password that only you and the pizza delivery person know, so no one else can steal your pizza or your information.
 
-That being said, there are still benefits to using a VPN beyond video streaming, such as increased security and privacy when using public Wi-Fi networks or to prevent ISP throttling.
+However, our video service already has a special delivery person that knows all the best routes and shortcuts to get your videos to you quickly. It's like having a magic pizza delivery person who always knows the fastest way to your house. This way, you can watch your videos quickly without needing to use a VPN.
+
+So, while a VPN can make your videos even faster and keep your information secure, most people don't need to use one because our service already has a magic delivery person to make sure your videos get to you quickly and easily.
