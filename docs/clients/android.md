@@ -1,4 +1,4 @@
-## Android Mobile[^1]
+# Android Mobile[^1]
 
 Follow the steps below in order to change the Plex video quality settings on an Android Mobile device. 
 
