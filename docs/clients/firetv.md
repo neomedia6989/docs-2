@@ -1,4 +1,4 @@
-# FireTV
+# FireTV[^1]
 
 Follow the steps below in order to change the Plex video quality settings on a FireTV device, such as a FireStick. 
 
@@ -17,3 +17,5 @@ Follow the steps below in order to change the Plex video quality settings on a 
     </figure>
     
 3. You are ready to stream
+
+[^1]: Originally posted on [The Media Clients Wiki](https://mediaclients.wiki/)
