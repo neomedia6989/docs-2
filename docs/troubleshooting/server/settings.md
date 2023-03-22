@@ -38,9 +38,9 @@ It's recommended to leave the Agents tab in the Plex Media Server settings at it
 - **Uncheck** 'Scan my library periodically'
 - **Check** 'Run scanner tasks at a lower priority'
 - Set 'Generate video preview thumbnails' to **never**
-- Set 'Generate intro video markers' to **as a schedules task and when media is added** or **never**
+- Set 'Generate intro video markers' to **as a scheduled task and when media is added** or **never**
 - Set 'Generate credits video markers' to **never**
-- Set 'Generate chapter thumbails' to **as a schedules task and when media is added** or **never**
+- Set 'Generate chapter thumbails' to **as a scheduled task and when media is added** or **never**
 - Set 'Analyze audio tracks for loudness' to **never**
 - Set 'Analyze audio tracks for sonic features' to **never**
 - Set 'Database Cache Size (MB)' to **2048**
