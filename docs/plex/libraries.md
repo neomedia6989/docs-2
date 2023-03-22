@@ -12,12 +12,12 @@ When you search for content in Plex, the Discover feature is used to find relate
 
 1. Go to the Plex Media Player app and click on the search bar (Please note that the search bar varies on every device).
 2. After clicking on the search bar, a sliders icon ( :fontawesome-solid-sliders: ) should appear. Click on that and a dropdown list will appear showing all servers you have access to and the Discover feature.
-3. Uncheck any server that you do not want to appear in your search results as well as the "More Ways to Watch" under Discover.
-
-<figure markdown>
-![(../media/discover_search.png "Uncheck More Ways to Watch")](https://docs.blackbeard.media/media/discover_search.png){ width=750 }
-    <figcaption>The Plex Media Player app for PC interface is shown above</figcaption>
-</figure>
+3. Uncheck any server that you do not want to appear in your search results as well as the 'More Ways to Watch' under Discover.
+    
+    <figure markdown>
+    ![(../media/discover_search.png "Uncheck More Ways to Watch")](https://docs.blackbeard.media/media/discover_search.png){ width=750 }
+        <figcaption></figcaption>
+    </figure>
 
 *Note that this has to be done on every device you use, and will have to be redone if you sign out and back in.*
 
