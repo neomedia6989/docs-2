@@ -1,4 +1,4 @@
-# Plex Clients - Troubleshooting & Tips
+# Plex Clients - Troubleshooting
 
 Sometimes, when you use an app like Plex to watch movies or TV shows, things might not work quite right. Maybe the video stops playing or the app freezes up. If this happens, one thing you can try is closing the app and opening it again. This is like turning something off and then turning it back on. It can help the app start fresh and might fix the problem. Another thing you can try is signing out of the app and then signing back in. This can also help the app start fresh and might fix any problems you were having.
 
