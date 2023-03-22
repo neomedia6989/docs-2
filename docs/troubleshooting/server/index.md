@@ -8,7 +8,7 @@ To check the status of your appbox on the Kronos dashboard, follow these steps:
 
 1. Log in to your Kronos dashboard and select your appbox server.
 2. On the server dashboard, look for the status section to see if the server is running.
-3. If the server is not running, click on the "Restart" button in the status section to restart the server.
+3. If the server is not running, click on the 'Restart' button in the status section to restart the server.
 4. Wait for the server to restart, which may take a few minutes, and then refresh the page to check the server status again.
 
 If you encounter any issues with your appbox server, restarting the server using these steps can often help resolve the problem and is the first recommended step in troubleshooting.
@@ -19,16 +19,16 @@ Check the appbox status on the Kronos dashboard after selecting your server. If 
 
 ### CDN Enabled
 
-1. If you are using CDN, verify that your custom access URL within the Network section of the Settings is working and is the correct URL for you. To verify the correct URL, take note of your "Service ID" from the Kronos dashboard. The URLs should be `http://XXX.blackbeard.brrrrrr.net,https://XXX.blackbeard.brrrrrr.net`, where XXX is your Service ID.
+1. If you are using CDN, verify that your custom access URL within the Network section of the Settings is working and is the correct URL for you. To verify the correct URL, take note of your 'Service ID' from the Kronos dashboard. The URLs should be `http://XXX.blackbeard.brrrrrr.net,https://XXX.blackbeard.brrrrrr.net`, where XXX is your Service ID.
 2. Next, we will verify that the URL redirect is active and working properly. Copy and paste each custom access URL (one with `http://` and one with `https://`) into the browser and ensure they go to Plex.
-3. Go back to the Network Settings page and ensure that "Enable server support for IPv6" is **disabled**, "Secure connections" is set to "**Preferred**," and "Enable Relay" is **disabled**.
+3. Go back to the Network Settings page and ensure that 'Enable server support for IPv6' is **disabled**, 'Secure connections' is set to **Preferred**, and 'Enable Relay' is **disabled**.
 4. Click on Remote Access on the left sidebar, then ensure Remote Access is disabled and restart your appbox from the Kronos dashboard.
 5. Your appbox should now be connectable from any device using the Plex app.
 
 ## CDN Disabled
 
 1. If you are not using CDN, start by ensuring that Remote Access is enabled in the Settings. 
-2. If it is enabled but says "Not available outside your network," please take note of the port number from the Kronos dashboard, then toggle the check the box next to "Manually specify public port" and enter the port number from the Kronos dashboard and click Retry.
+2. If it is enabled but says "Not available outside your network," please take note of the port number from the Kronos dashboard, then toggle the check the box next to 'Manually specify public port' and enter the port number from the Kronos dashboard and click Retry.
 3. Your appbox should now be connectable from any device using the Plex app.
 
 ## Invited Users Having Issues
