@@ -56,9 +56,9 @@ You can also set the streaming quality to maximum to ensure the best possible vi
 
 Finally, if none of these things work, you might need to try using a different device or platform to watch your videos on Plex.
 
-???+ note Important information about Plex for various older smart TVs
+???+ note "Important information about Plex for various older smart TVs"
 
-    Since September 2021, some older smart TVs (e.g. Samsung, LG, Vizio, Hisense, and other unsupported TV platforms) will no longer be able to use secure connections to communicate with Plex Media Servers. These devices are no longer supported by their manufacturers, and won’t be receiving an update needed to continue making secure connections to a personal server. Please ensure that your app is set to allow insecure connections as instructed by Plex for a possible workaround. [Click here to learn more](https://forums.plex.tv/t/important-information-about-plex-for-smart-tvs-after-september-30-2021/746506/1)
+    Since September 2021, some older smart TVs (e.g. Samsung, LG, Vizio, Hisense, and other unsupported TV platforms) will no longer be able to use "secure connections" to communicate with Plex Media Servers. Please ensure that your app is set to allow insecure connections as instructed by Plex for a possible workaround if you notice issues when using a known affected model: [Click here to learn more](https://forums.plex.tv/t/important-information-about-plex-for-smart-tvs-after-september-30-2021/746506/1)
 
 ## Understanding 4K Streaming Issues on Plex
 
