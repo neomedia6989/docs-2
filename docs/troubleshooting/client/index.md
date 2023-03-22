@@ -6,11 +6,15 @@ If you are still having issues, please refer to the information below to hopeful
 
 ## Video Playback Issues
 
-There are a few things you can try to fix these issues. First, you can [check your internet connection](https://docs.blackbeard.media/troubleshooting/#understanding-internet-speed-and-your-connection) to make sure it's strong enough to stream videos. If your internet is slow or weak, the video might not play smoothly.
+There are a few things you can try to fix these issues. First, you can [check your internet connection](/troubleshooting/#understanding-internet-speed-and-your-connection) to make sure it's strong enough to stream videos. If your internet is slow or weak, the video might not play smoothly.
 
-Another thing you can try is [adjusting the quality settings for the video](https://docs.blackbeard.media/clients/other/). If the video is set to play at a really high quality, but your internet or device can't handle it, then you might need to lower the quality to make it work better.
+Another thing you can try is [adjusting the quality settings for the video](/clients/other/). If the video is set to play at a really high quality, but your internet or device can't handle it, then you might need to lower the quality to make it work better.
 
-Finally, you can [optimize your network settings](https://docs.blackbeard.media/troubleshooting/#improving-video-streaming-by-changing-dns), which means adjusting the settings on your device or router to make sure that everything is working as well as it can. This can help videos play more smoothly and without any issues.
+Finally, you can [optimize your network settings](/troubleshooting/#improving-video-streaming-by-changing-dns), which means adjusting the settings on your device or router to make sure that everything is working as well as it can. This can help videos play more smoothly and without any issues.
+
+???+ tip "Scan Missing Media Tool"
+    
+    Our web portal features a tool called [Scan Missing Media](https://blackbeard.media/scan-media) that can help subscribers resolve various playback issues, such as receiving an error message stating "Cannot play media, ensure that the drive is mounted". These types of errors often occur when upgrading media files (e.g. from 720p to 1080p) and the Plex metadata becomes outdated. By running the [Scan Missing Media](https://blackbeard.media/scan-media) tool, subscribers can update the Plex metadata and typically resolve playback errors.
 
 ## Audio Playback Issues
 
@@ -42,7 +46,7 @@ If the subtitles still don't work, you can try downloading new ones and making t
 
 Sometimes when people try to use Plex on a device, it might not work the way they want it to. This means that the device you're trying to use Plex on might not work well with Plex.
 
-To fix this, there are a few things you can try. To start with, check out our [recommended settings guides](https://docs.blackbeard.media/clients/other/). Beyond those guides, you can check if there are any updates or compatibility issues with the device or platform you're using. This means making sure that the device you're using is compatible with Plex and that it's up-to-date.
+To fix this, there are a few things you can try. To start with, check out our [recommended settings guides](/clients/other/). Beyond those guides, you can check if there are any updates or compatibility issues with the device or platform you're using. This means making sure that the device you're using is compatible with Plex and that it's up-to-date.
 
 To make sure you're getting the best possible video quality on Plex, there are a few things you can check. First, make sure that HDR and DV are enabled if you're watching content that supports these features. Additionally, ensure that your device's maximum h.264 level is sufficient to handle the video being played.
 
