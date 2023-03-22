@@ -2,7 +2,7 @@
 
 Follow the steps below in order to change the Plex video quality settings on Apple iOS devices (e.g. iPhones & iPads).
 
-1. To access the menu, tap on the button with three horizontal lines, also known as the "hamburger menu" ( :material-menu: ),  located at the top left corner of the home screen.
+1. To access the menu, tap on the button with three horizontal lines, also known as the 'hamburger menu' ( :material-menu: ),  located at the top left corner of the home screen.
     
     <figure markdown>
     ![(../media/clients-ios-1.png "Click on the 'hamburger menu'")](https://docs.blackbeard.media/media/clients-ios-1.png){ width=350 }
@@ -30,7 +30,7 @@ Follow the steps below in order to change the Plex video quality settings on Ap
       <figcaption></figcaption>
     </figure>
     
-5. First, click on **Remote Streaming**. You may notice that there isn't an option for "Original" or "Maximum" like many other devices. This is because it is hidden by default.
+5. First, click on **Remote Streaming**. You may notice that there isn't an option for 'Original' or 'Maximum' like many other devices. This is because it is hidden by default.
     
     - Select the "**Show All**" menu option
       
@@ -39,7 +39,7 @@ Follow the steps below in order to change the Plex video quality settings on Ap
         <figcaption></figcaption>
       </figure>
       
-    - Once you've accessed the Quality Menu, select "**Maximum**" from the options available. For the other settings, compare your screen to the image below. Note that the cellular data and "Automatically adjust quality" settings are optional and should be set according to your specific data plan requirements.
+    - Once you've accessed the Quality Menu, select **Maximum** from the options available. For the other settings, compare your screen to the image below. Note that the cellular data and 'Automatically adjust quality' settings are optional and should be set according to your specific data plan requirements.
       
       <figure markdown>
       ![(../media/clients-ios-7.png "Select 'Maximum'")](https://docs.blackbeard.media/media/clients-ios-7.png){ width=350 }
