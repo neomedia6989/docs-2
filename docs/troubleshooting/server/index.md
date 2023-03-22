@@ -33,11 +33,11 @@ Check the appbox status on the Kronos dashboard after selecting your server. If 
 
 ## Invited Users Having Issues
 
-Troubleshooting Plex clients involves identifying the specific issue the user is experiencing and then taking steps to resolve it. This can include checking network settings, updating software, clearing caches, and adjusting playback settings. Common issues may include video playback issues, audio playback issues, subtitle issues, device compatibility issues, and understanding 4K streaming issues on Plex. By working with the user to identify the specific issue and taking the appropriate steps to resolve it, the user can enjoy their content without interruption. Please see our [client troubleshooting section](https://docs.blackbeard.media/troubleshooting/client/) for more assistance.
+Troubleshooting Plex clients involves identifying the specific issue the user is experiencing and then taking steps to resolve it. This can include checking network settings, updating software, clearing caches, and adjusting playback settings. Common issues may include video playback issues, audio playback issues, subtitle issues, device compatibility issues, and understanding 4K streaming issues on Plex. By working with the user to identify the specific issue and taking the appropriate steps to resolve it, the user can enjoy their content without interruption. Please see our [client troubleshooting section](/troubleshooting/client/) for more assistance.
 
 ## Performance / Stability Issues
 
-Plex servers may require routing maintenance to ensure proper connectivity and availability. To help with this, Kronos will attempt to run as many maintenance tasks as possible, but it relies on users to set up daily restarts. To do this, users can refer to [this link](https://docs.blackbeard.media/appboxes/kronos/#setting-up-daily-restarts) on how to set a daily restart. However, if users continue to experience issues such as extreme latency, missing content, or loss of connectivity, please submit a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196).
+Plex servers may require routing maintenance to ensure proper connectivity and availability. To help with this, Kronos will attempt to run as many maintenance tasks as possible, but it relies on users to set up daily restarts. To do this, users can refer to [this link](/appboxes/kronos/#setting-up-daily-restarts) on how to set a daily restart. However, if users continue to experience issues such as extreme latency, missing content, or loss of connectivity, please submit a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196).
 
 ???+ tip "Check for Plex Updates"
     
