@@ -36,12 +36,12 @@ Have you ever played with too many toys at the same time and couldn't find the o
 
 ## Improving Streaming Performance: Clearing Cache and Cookies
 
-When you watch videos on your computer or TV, sometimes little bits and pieces of the videos get stored in your device so they can play faster later on. These bits and pieces are called "cache". Cookies are little pieces of information that websites leave on your device so they can remember your preferences.
+When you watch videos on your computer or TV, sometimes little bits and pieces of the videos get stored in your device so they can play faster later on. These bits and pieces are called 'cache'. Cookies are little pieces of information that websites leave on your device so they can remember your preferences.
 
 Sometimes, the cache and cookies can build up and make the videos load slowly. To make them play faster, you can clear the cache and cookies. Here's how you can do it on different devices:
 
-- **For smart TVs and streaming devices:** Go to the settings on your TV or streaming device and find the option to clear the cache and cookies. You may need to look in the "System" or "General" settings. Follow the prompts to clear the cache and cookies.
-- **For PCs:** If you're using a web browser like Chrome, Firefox or Edge, you can usually clear the cache and cookies by going to the settings or options menu. Look for the "Privacy" or "Security" section, and you should find an option to clear browsing data. Follow the prompts to clear the cache and cookies
+- **For smart TVs and streaming devices:** Go to the settings on your TV or streaming device and find the option to clear the cache and cookies. You may need to look in the 'System' or 'General' settings. Follow the prompts to clear the cache and cookies.
+- **For PCs:** If you're using a web browser like Chrome, Firefox or Edge, you can usually clear the cache and cookies by going to the settings or options menu. Look for the 'Privacy' or 'Security' section, and you should find an option to clear browsing data. Follow the prompts to clear the cache and cookies
 - **For consoles:** Clearing the cache and cookies may vary depending on the type of console you have. Look for the option to clear cache and cookies in the settings or preferences menu, and follow the prompts to clear them.
 
 ???+ failure "Restarting / Uninstalling Plex"
@@ -63,29 +63,29 @@ Here's how you can change your DNS settings on various devices:
 ### On a PC (Windows)
 
 1. Open the Start menu and click on the Settings icon (gear icon / :fontawesome-solid-gear: ).
-2. Click on "Network & Internet".
-3. Click on "Change adapter options".
-4. Right-click on the network connection you want to change and select "Properties".
-5. Scroll down and select "Internet Protocol Version 4 (TCP/IPv4)" and click on "Properties".
+2. Click on 'Network & Internet'.
+3. Click on 'Change adapter options'.
+4. Right-click on the network connection you want to change and select 'Properties'.
+5. Scroll down and select 'Internet Protocol Version 4 (TCP/IPv4)' and click on 'Properties'.
 6. Select "Use the following DNS server addresses" and enter 1.1.1.1 and 1.0.0.1 or 8.8.8.8 and 8.8.4.4 for Cloudflare or Google DNS respectively.
 7. Click on "OK" to save the changes.
 
 ### On a Mac
 
-1. Click on the Apple menu and select "System Preferences".
-2. Click on "Network".
-3. Select the network connection you want to change and click on "Advanced".
-4. Click on the "DNS" tab.
-5. Click on the "+" button to add a new DNS server and enter 1.1.1.1 and 1.0.0.1 or 8.8.8.8 and 8.8.4.4 for Cloudflare or Google DNS respectively.
-6. Click on "OK" to save the changes.
+1. Click on the Apple menu and select 'System Preferences'.
+2. Click on 'Network'.
+3. Select the network connection you want to change and click on 'Advanced'.
+4. Click on the 'DNS' tab.
+5. Click on the '+' button to add a new DNS server and enter 1.1.1.1 and 1.0.0.1 or 8.8.8.8 and 8.8.4.4 for Cloudflare or Google DNS respectively.
+6. Click on 'OK' to save the changes.
 
 ### On a Smart TV
 
 Note that the steps may vary depending on your TV brand and model.
 
-1. Press the "Menu" button on your remote.
-2. Go to "Settings" or "Network Settings".
-3. Select "DNS Settings" or "Manual DNS Settings".
+1. Press the 'Menu' button on your remote.
+2. Go to 'Settings' or 'Network Settings'.
+3. Select 'DNS Settings' or 'Manual DNS Settings'.
 4. Enter 1.1.1.1 and 1.0.0.1 or 8.8.8.8 and 8.8.4.4 for Cloudflare or Google DNS respectively.
 5. Save the changes and restart your TV.
 
@@ -93,10 +93,10 @@ Note that the steps may vary depending on your TV brand and model.
 
 Note that the steps may vary depending on your streaming device.
 
-1. Go to the "Settings" menu on your device.
-2. Select "Network" or "Internet".
-3. Select "DNS Settings" or "Configure DNS".
-4. Select "Manual" or "Custom".
+1. Go to the 'Settings' menu on your device.
+2. Select 'Network' or 'Internet'.
+3. Select 'DNS Settings' or 'Configure DNS'.
+4. Select 'Manual' or 'Custom'.
 5. Enter 1.1.1.1 and 1.0.0.1 or 8.8.8.8 and 8.8.4.4 for Cloudflare or Google DNS respectively.
 6. Save the changes and restart your device.
 
@@ -120,4 +120,4 @@ Hardware acceleration is like having a helper to do some tasks for you so that y
 
 So, when you're watching videos on some devices, like a computer, you can turn off this helper to try to make the videos play better. This might help the videos play more smoothly and not freeze or stop in the middle.
 
-For some devices, like Apple TV, there's also a special setting you can choose that's called "Old" or "Legacy" player. This can also help the videos play better. It's like using an older version of the helper that might work better for some videos.
+For some devices, like Apple TV, there's also a special setting you can choose that's called 'Old' or 'Legacy' player. This can also help the videos play better. It's like using an older version of the helper that might work better for some videos.
