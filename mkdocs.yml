@@ -36,7 +36,8 @@ markdown_extensions:
 
 plugins:
   - glightbox
-  - optimize
+  - typeset
+  - meta
   - search:
       lang: en
   
