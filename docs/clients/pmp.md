@@ -9,7 +9,7 @@ Follow the steps below in order to change the Plex video quality settings on th
       <figcaption></figcaption>
     </figure>
     
-2. Change the video quality to Maximum by clicking Quality on the left, and choosing "**Maximum**" from the dropdown next to "Video quality" before clicking "Save Changes".
+2. Change the video quality to Maximum by clicking Quality on the left, and choosing **Maximum** from the dropdown next to 'Video quality' before clicking 'Save Changes'.
     
     <figure markdown>
     ![(../media/clients-pmp-2.png "Select 'Maximum' from the dropdown")](https://docs.blackbeard.media/media/clients-pmp-2.png)
