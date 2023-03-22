@@ -1,4 +1,4 @@
-# Recommended Settings
+# Appboxes - Recommended Settings
 
 Plex Media Server is a powerful media management tool that allows users to organize and stream their media collections across a variety of devices. With so many features and settings, it can be overwhelming for new users to navigate. However, with our recommendations for each setting, you can make the most out of your appbox experience. From library organization and playback settings to server optimization and remote access, we will guide you through each setting to ensure that you are getting the most out of your media server.
 
@@ -52,7 +52,9 @@ It's recommended to leave the Plugins tab in the Plex Media Server settings at i
 - **Uncheck** 'Disable video stream transcoding
 - **Check** 'Use hardware acceleration when available'
 - **Check** 'Use hardware-accelerated video encoding'
-- __**DO NOT CHANGE 'Maximum simultaneous video transcode'**__ - This may result in you losing your appbox.
+- __**DO NOT CHANGE 'Maximum simultaneous video transcode'**__
+    
+    This may result in you losing your appbox
 
 ## Languages
 
@@ -79,7 +81,7 @@ Ensure that you have had us change your time zone to match your location so that
 
 ## Extras
 
-The Extras tab should be set to match your prefences on Cinema Trailers.
+The Extras tab should be set to match your preferences on Cinema Trailers.
 
 ## Manage > Libraries
 
@@ -87,4 +89,4 @@ Appbox owners have the ability to tailor their user's viewing experience by cont
 
 ### Recommended Collections to Pin and Order
 
-Below is a list of collections we recommend to pin to the Library Recommended and/or Home screens, as well as the recommended order for them. These collections are available in the default Plex Meta Manager configuration for each library.
+Below is a list of collections we recommend to pin to the Library Recommended and/or Home screens, as well as the recommended order for them. These collections are available in [our default Plex Meta Manager configuration](/troubleshooting/server/pmm) for each library.
