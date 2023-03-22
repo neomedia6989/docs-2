@@ -130,7 +130,7 @@ Appbox owners have the ability to tailor their user's viewing experience by cont
 Below is a list of collections we recommend to pin to the Library Recommended and/or Home screens, as well as the recommended order for them. These collections are available in [our default Plex Meta Manager configuration](/troubleshooting/server/pmm) for each library.
 
 <figure markdown>
-![(/media/appbox-manage-libraries-movies.png)](https://docs.blackbeard.media/media/appbox-libraries-movies.png)
+![(/media/appbox-manage-libraries-movies.png)](https://docs.blackbeard.media/media/appbox-manage-libraries-movies.png)
   <figcaption>Recommended settings for movie libraries</figcaption>
 </figure>
 <figure markdown>
