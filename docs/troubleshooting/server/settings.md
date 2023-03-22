@@ -10,9 +10,23 @@ To access these settings, we will be using a web browser to view the Plex server
 - Toggle 'Push Notifications'
 - Change 'Server update Channel' to match your Kronos settings.
 
+<figure markdown>
+![(/media/appbox-settings-general.png)](https://docs.blackbeard.media/media/appbox-settings-general.png)
+  <figcaption></figcaption>
+</figure>
+
 ## Remote Access
 
 Remote Access settings depend on whether or not a Content Delivery Network (CDN) is enabled. If a CDN is enabled, Remote Access needs be disabled for the most benefit. On the other hand, if there is no active CDN, Remote Access should be enabled and working correctly.
+
+<figure markdown>
+![(/media/appbox-settings-remote-cdn.png)](https://docs.blackbeard.media/media/appbox-settings-remote-cdn.png){ width=500 }
+  <figcaption>An appbox utilizing a CDN</figcaption>
+</figure>
+<figure markdown>
+![(/media/appbox-settings-remote-nocdn.png)](https://docs.blackbeard.media/media/appbox-settings-remote-nocdn.png){ width=500 }
+  <figcaption>An appbox without a CDN</figcaption>
+</figure>
 
 ## Agents
 
@@ -31,6 +45,12 @@ It's recommended to leave the Agents tab in the Plex Media Server settings at it
 - Set 'Analyze audio tracks for sonic features' to **never**
 - Set 'Database Cache Size (MB)' to **2048**
 
+
+<figure markdown>
+![(/media/appbox-settings-library.png)](https://docs.blackbeard.media/media/appbox-settings-library.png){ width=400 }
+  <figcaption></figcaption>
+</figure>
+
 ## Plugins
 
 It's recommended to leave the Plugins tab in the Plex Media Server settings at its default settings.
@@ -43,6 +63,15 @@ It's recommended to leave the Plugins tab in the Plex Media Server settings at i
 - **Disable** 'Enable Relay'
 - 'Custom server acess URLs' will depend on the use of a CDN
 
+<figure markdown>
+![(/media/appbox-settings-network-1.png)](https://docs.blackbeard.media/media/appbox-settings-network-1.png)
+  <figcaption></figcaption>
+</figure>
+<figure markdown>
+![(/media/appbox-settings-network-2.png)](https://docs.blackbeard.media/media/appbox-settings-network-2.png)
+  <figcaption></figcaption>
+</figure>
+
 ## Transcoder
 
 - Set 'Transcoder Quality' to **Prefer higher speed encoding**
@@ -52,9 +81,13 @@ It's recommended to leave the Plugins tab in the Plex Media Server settings at i
 - **Uncheck** 'Disable video stream transcoding
 - **Check** 'Use hardware acceleration when available'
 - **Check** 'Use hardware-accelerated video encoding'
-- __**DO NOT CHANGE 'Maximum simultaneous video transcode'**__
-    
-    This may result in you losing your appbox
+- **^^DO NOT CHANGE^^ 'Maximum simultaneous video transcode'**
+    *Changing this setting may result in you losing your appbox*
+
+<figure markdown>
+![(/media/appbox-settings-transcoder.png)](https://docs.blackbeard.media/media/appbox-settings-transcoder.png)
+  <figcaption></figcaption>
+</figure>
 
 ## Languages
 
@@ -78,6 +111,11 @@ Ensure that you have had us change your time zone to match your location so that
 - **Uncheck** 'Upgrade media analysis during maintenance'
 - **Uncheck** 'Refresh library metadata periodically'
 - **Uncheck** 'Perform extensive media analysis during maintenance'
+
+<figure markdown>
+![(/media/appbox-settings-tasks.png)](https://docs.blackbeard.media/media/appbox-settings-tasks.png)
+  <figcaption></figcaption>
+</figure>
 
 ## Extras
 
