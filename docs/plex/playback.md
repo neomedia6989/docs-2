@@ -78,7 +78,7 @@ When streaming media, there are factors outside of your control that may cause t
     * Supports 4K HDR streaming, which provides high-quality video playback with vibrant colors and deep contrast.
     * Depending on model, the Apple TV 4K has a Gigabit Ethernet port, which allows for fast and stable network connectivity and reduces the risk of buffering or playback issues.
     * Infuse Pro is good for Plex streaming on iOS because it offers a user-friendly interface and supports a wide range of video and audio codecs, including high-resolution formats such as 4K DolbyVision and Dolby Atmos.
-        * Infuse is highly recommended as the default Plex app will struggle with 4K and will be unable to play DolbyVision or direct play DTS HD MA / TrueHD audio.
+        * Infuse is highly recommended as the default Plex app will struggle with 4K and will be unable to play DolbyVision or direct play DTS-HD MA / TrueHD audio.
 === "FireStick 4K Max"
     * Equipped with a powerful quad-core 1.8 GHz processor and 2GB of RAM, which makes it capable of handling demanding video codecs and high bitrate streams without any lag or buffering.
     * Supports a wide range of video and audio codecs, including H.265 (HEVC), HDR10, HDR10+, and Dolby Vision, which allows for direct playback of most media files without transcoding.
@@ -92,21 +92,24 @@ By default, Plex's out-of-the-box quality settings limit the bandwidth to betwee
 
 ##### Media Clients
 <div class="grid cards" markdown>
-- :simple-amazonfiretv: __[Amazon FireTV](#)__
-- :simple-android: __[Android TV](#)__
-- :simple-apple: __[AppleTV](#)__
-- :simple-kodi: __[Kodi](#)__
-- :simple-lg: __[LG / WebOS](#)__
-- :material-plex: __[Plex Media Player](#)__
-- :material-plex: __[Plex Web Player](#)__
-- :simple-roku: __[Roku](#)__
-- :simple-xbox: __[Xbox](#)__
+- :simple-amazonfiretv: __[Amazon FireTV](../clients/firetv/)__
+- :simple-android: __[Android TV](../clients/androidtv/)__
+- :simple-apple: __[AppleTV](../clients/appletv/)__
+- :simple-kodi: __[Kodi](../clients/kodi/)__
+- :simple-lg: __[LG / WebOS](../clients/lg/)__
+- :simple-playstation: __[PlayStation](../clients/console/)__
+- :material-plex: __[Plex Media Player](../clients/pmp/)__
+- :material-plex: __[Plex Web Player](../clients/web/)__
+- :simple-roku: __[Roku](../clients/roku/)__
+- :simple-xbox: __[Xbox](../clients/console/)__
 </div>
 
 ##### Mobile Clients
 <div class="grid cards" markdown>
-- :simple-android: __[Android Devices](#)__
-- :simple-ios: __[Apple Devices](#)__
+- :simple-android: __[Android Devices](../clients/android/)__
+- :simple-ios: __[Apple Devices](../clients/ios/)__
 </div>
+
+If you don't see your device on this list, [click here](../clients/other/) for a general overview of what settings are recommended.
 
 By adjusting these settings, you can ensure that your media is streamed in the best possible quality without causing unnecessary server strain.
