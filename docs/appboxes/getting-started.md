@@ -68,7 +68,7 @@ Before you can begin enjoying the benefits of our appboxes, you'll need to subsc
     
     <figure markdown>
     ![(../media/whmcs_register.png "Click here to begin registration")](https://docs.blackbeard.media/media/whmcs_register.png){ width=750 }
-      <figcaption>Click "Register" to begin registration</figcaption>
+      <figcaption></figcaption>
     </figure>
     
 3. Fill out the required information, specifically your email address and a strong password.
@@ -81,11 +81,11 @@ Before you can begin enjoying the benefits of our appboxes, you'll need to subsc
 4. Click on the 'Register' button to finish creating your account.
 5. Once you have created an account, go to [our appbox page](https://blackbeard.shop/index.php?rp=/store/appbox) to check if we have any appboxes in stock.
 6. If an appbox is available, click on the 'Order Now' button next to the appbox you want to purchase.
-7. Choose any add-ons you want to include with your appbox, such as global CDN or our Plex Meta Manager service.
+7. Choose any add-ons you want to include with your appbox, such as global CDN or our Plex Meta Manager service, then click 'Continue'.
     
     <figure markdown>
     ![(../media/whmcs_checkout.png "Choose your billing cycle and any addons you would like, then click continue")](https://docs.blackbeard.media/media/whmcs_checkout.png){ width=500 }
-      <figcaption>Choose your billing cycle and any addons you would like, then click continue</figcaption>
+      <figcaption></figcaption>
     </figure>
     
 8. Review your order summary and select your preferred payment method. We accept PayPal, Stripe or most cryptocurrencies.
