@@ -6,11 +6,11 @@ A Plex Share is a fully-managed Plex server which you are invited to for streami
 
 ## How do I join the Plex share?
 
-To join the Plex share, you need to be invited by an existing member as Plex shares are closed to the public. If you do have a referral, you can get more info on our [Getting Started with Blackbeard Shares](../shares/getting-started.md) page.
+To join the Plex share, you need to be invited by an existing member as Plex shares are closed to the public. If you do have a referral, you can get more info on our [Getting Started with Blackbeard Shares](/shares/getting-started) page.
 
 ## Do you offer a free trial?
 
-Yes, every member is entitled to a free, five-day trial. Registerd members can access it by clicking on "Trial" link at the top of our [web portal](https://blackbeard.media/) or by clicking [here](https://blackbeard.media/free-trial).
+Yes, every member is entitled to a free, five-day trial. Registerd members can access it by clicking on 'Trial' link at the top of our [web portal](https://blackbeard.media/) or by clicking [here](https://blackbeard.media/free-trial).
 
 ## How do I use the service after I subscribe?
 
@@ -24,4 +24,4 @@ Downloads are enabled on certain plans. Please refer to [your account](https://b
 
 ## What should I do if I experience technical issues?
 
-Please refer to our [troubleshooting section](#) for initial troubleshooting and you are unable to resolve the issue, please create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on our Discord server so we can find a solution as quickly as possible.
+Please refer to our [troubleshooting section](/troubleshooting) for initial troubleshooting and you are unable to resolve the issue, please create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on our Discord server so we can find a solution as quickly as possible.
