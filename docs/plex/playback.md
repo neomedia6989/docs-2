@@ -100,8 +100,8 @@ By default, Plex's out-of-the-box quality settings limit the bandwidth to betwee
 - :simple-playstation: __[PlayStation](https://docs.blackbeard.media/clients/console/)__
 - :material-plex: __[Plex Media Player](https://docs.blackbeard.media/clients/pmp/)__
 - :material-plex: __[Plex Web Player](https://docs.blackbeard.media/clients/web/)__
-- :simple-roku: __[Roku](/clients/roku.md)__
-- :simple-xbox: __[Xbox](/clients/console.md)__
+- :simple-roku: __[Roku](/clients/roku)__
+- :simple-xbox: __[Xbox](/clients/console)__
 </div>
 
 ##### Mobile Clients
