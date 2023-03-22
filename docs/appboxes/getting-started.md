@@ -79,6 +79,18 @@ Before you can begin enjoying the benefits of our appboxes, you'll need to subsc
 9. Click on the "Complete Order" button to submit your payment.
 10. After payment is received, we will send you an email with our Kronos dashboard URL and your login credentials.
 
+ <details>
+  <summary>Why choose us?</summary>
+ <br />
+ Our service is unique because we focus on providing the best quality all around - whether it's the content we offer, our hardware and network, or our community. Here are some specific features and benefits that set us apart:
+ <br />
+<ul>
+  <li><strong>Fast and Reliable:</strong> Our global CDN, utilizing <a href="https://datapacket.com" target="_blank">Datapacket</a>'s optimized network, ensures that our server is always up and running, so you can access your favorite content whenever you want, without any lag or buffering. It even geolocates the best route from the server to each individual user so you'll get the same experience, regardless of where you are.</li>
+  <li><strong>Dedicated Technical Support:</strong> We offer support through Discord and have a dedicated team that is located throughout the world, so you will get help regardless of where you live or the time of day. Our support team also provides a friendly and personalized service, so you'll never feel like you're just another number.</li>
+  <li><strong>Engaging Community:</strong> We have a huge emphasis on our community and encourage all users to join our Discord to engage in conversation and help out all other users. Our community is known for being welcoming and supportive. We have regular giveaways and events as well as curated, daily questions to engage users and weekly movie selections to drive conversation and help you discover more to watch!</li>
+ </ul>
+  </details>
+
 ### Link Your Discord with WHMCS
 
 Linking your Discord and WHMCS accounts provides additional benefits such as server access and specific appbox notifications.
