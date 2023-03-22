@@ -16,9 +16,11 @@ Sometimes, the internet might not be fast enough to send the video to your compu
 
 That's why we have something called a CDN (Content Delivery Network) that helps make sure the video gets to your computer as fast as possible. It's like having a special bike lane that's smoother and faster so you can get to your friend's house more quickly.
 
-If you want to check how fast your internet is, you can use a special tool called a speed test. We have two different speed tests you can use: [one to test your direct connection to our servers](https://speedtest.blackbeard.brrrrrr.net/), and [another to test your speed to the closest CDN node](https://speedtest.brrrrrr.net/). It's like checking how fast you can ride your bike in different directions to get to your friend's house.
+Another possible issue with streaming might mean that your internet speed is too slow. It's like when you ride your bike too slowly and it takes a long time to get to your friend's house. In that case, you might need to get a faster internet speed so you can watch videos more quickly.
 
-If your speed test results are poor, it might mean that your internet speed is too slow. It's like when you ride your bike too slowly and it takes a long time to get to your friend's house. In that case, you might need to ask your parents if they can help you get a faster internet speed so you can watch videos more quickly.
+???+ question "How Can I Test My Connection?"
+    
+    We have a speed test available for users to check their connectionto our servers and the nearest Content Delivery Network (CDN) node. To test your connection to our servers, please visit [this speedtest](https://speedtest.blackbeard.brrrrrr.net/). To check the speed to the closest CDN node, visit [this speedtest](https://speedtest.brrrrrr.net).
 
 ## Ethernet vs. Wi-Fi for Video Streaming
 
