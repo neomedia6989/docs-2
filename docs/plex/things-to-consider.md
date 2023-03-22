@@ -5,7 +5,7 @@ When it comes to choosing a Plex share, there are several factors that you shoul
 
 ## Quantity and Quality
 
-To evaluate a Plex share, you can gather information about the library content that is offered. Start by selecting a library and switching from "Recommended" to "Library" view. At the top of the screen, you can see the total number of movies and TV shows available. Scroll through the selection to check if the titles you want to watch are available.
+To evaluate a Plex share, you can gather information about the library content that is offered. Start by selecting a library and switching from 'Recommended' to 'Library' view. At the top of the screen, you can see the total number of movies and TV shows available. Scroll through the selection to check if the titles you want to watch are available.
 
 To evaluate the quality of the library, hover over the movies that interest you and click on the three dots at the bottom right of the poster. Then select "Get Info" to view details about the file being streamed. Note the video resolution, bitrate, and file size, as higher attributes generally indicate better quality.
 
