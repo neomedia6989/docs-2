@@ -11,7 +11,7 @@ The Scan Missing Media tool is a feature that helps to resolve playback issues t
 3. Copy the URL from the browser and paste it into the URL field.
 4. Click the Scan button.
 
-This tool updates Plex metadata and usually resolves playback errors. It is available at [blackbeard.media/scan-media](https://blackbeard.media/scan-media).
+This tool updates Plex metadata and usually resolves playback errors; you can [click here](https://blackbeard.media/scan-media) to use it.
 
 ## Upload Subtitles Tool
 
@@ -24,7 +24,7 @@ The Upload Subtitles tool is a feature that allows you to upload your own subtit
 5. Click the Upload button.
 6. Refresh the page for the movie or TV episode, and the new subtitles should be available.
 
-This tool is available at [blackbeard.media/subtitles-upload](https://blackbeard.media/subtitles-upload).
+[Click here](https://blackbeard.media/subtitles-upload) to use this tool.
 
 
 If the Scan Missing Media feature and Upload Subtitles tool do not resolve your playback issues, we encourage subscribers to create a support ticket on our Discord server. Our team is dedicated to ensuring that our share service is running smoothly, and we are always happy to assist with any issues that may arise. We strive to respond to all inquiries as quickly as possible to ensure that our users are enjoying their media with minimal interruptions.
