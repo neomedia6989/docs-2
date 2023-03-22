@@ -10,7 +10,7 @@ Before using Plex, make sure to close any other apps or programs that might be r
 
 ## Use a High-Quality Device
 
-While Plex can work on a variety of devices, using a more powerful device with a faster processor and more RAM can provide a smoother and more seamless experience. See [here](https://docs.blackbeard.media/plex/playback/#what-device-should-i-buy-for-plex) for our recommendations on what device to purchase.
+While Plex can work on a variety of devices, using a more powerful device with a faster processor and more RAM can provide a smoother and more seamless experience. See [here](/plex/playback/#what-device-should-i-buy-for-plex) for our recommendations on what device to purchase.
 
 ## Ensure Your Client is Up-to-Date
 
@@ -22,7 +22,7 @@ Whenever possible, use direct play instead of transcoding. Direct play allows th
 
 ## Optimize Your Network
 
-Optimize your network by ensuring your router is in a central location, use the 5 GHz band instead of 2.4 GHz, ensure that your router firmware is up to date and is configured with optimal DNS settings.
+Optimize your network by ensuring your router is in a central location, use the 5 GHz band instead of 2.4 GHz, ensure that your router firmware is up to date and configure your DNS optimally.
 
 ## Use Infuse on Apple TV
 
@@ -30,8 +30,8 @@ For Apple TV users, consider using the Infuse app instead of the Plex app as it 
 
 ## Disable Unnecessary Features
 
-If you don't use the Discover feature, Live TV, or free Movies & Shows provided by Plex, it's recommended to turn them off to reduce clutter and optimize the user experience. This can prevent any unwanted content from showing up in your search results and simplify your media browsing experience. You can also [disable them from search results only](https://docs.blackbeard.media/plex/libraries/#disable-discover-feature-on-search), if you would like to keep them enabled.
+If you don't use the Discover feature, Live TV, or free Movies & Shows provided by Plex, it's recommended to turn them off to reduce clutter and optimize the user experience. This can prevent any unwanted content from showing up in your search results and simplify your media browsing experience. You can also [disable them from search results only](/plex/libraries/#disable-discover-feature-on-search), if you would like to keep them enabled.
 
 ## Unpin Unused Libraries
 
-If you have multiple libraries in Plex but only use a few of them regularly, it's recommended to unpin the ones you don't use to reduce clutter and optimize the user experience. This can prevent any unwanted content from showing up in your library section and simplify your media browsing experience. Additionally, pinning only the libraries you browse through can reduce the time it takes to load your library section and improve performance. See how to [here](https://docs.blackbeard.media/plex/getting-started/#how-to-setup-your-libraries).
+If you have multiple libraries in Plex but only use a few of them regularly, it's recommended to unpin the ones you don't use to reduce clutter and optimize the user experience. This can prevent any unwanted content from showing up in your library section and simplify your media browsing experience. Additionally, pinning only the libraries you browse through can reduce the time it takes to load your library section and improve performance. See how to [here](/plex/getting-started/#how-to-setup-your-libraries).
