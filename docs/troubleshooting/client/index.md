@@ -13,7 +13,7 @@ Another thing you can try is [adjusting the quality settings for the video](/cli
 Finally, you can [optimize your network settings](/troubleshooting/#improving-video-streaming-by-changing-dns), which means adjusting the settings on your device or router to make sure that everything is working as well as it can. This can help videos play more smoothly and without any issues.
 
 ???+ tip "Scan Missing Media Tool"
-    
+
     Our web portal features a tool called [Scan Missing Media](https://blackbeard.media/scan-media) that can help subscribers resolve various playback issues, such as receiving an error message stating "Cannot play media, ensure that the drive is mounted". These types of errors often occur when upgrading media files (e.g. from 720p to 1080p) and the Plex metadata becomes outdated. By running the [Scan Missing Media](https://blackbeard.media/scan-media) tool, subscribers can update the Plex metadata and typically resolve playback errors.
 
 ## Audio Playback Issues
@@ -27,7 +27,7 @@ Another thing you can try is updating the audio drivers on your device. This is 
 Finally, you can check for compatibility issues with your device or platform. This means making sure that the device you're using to watch the video and the platform you're using to play it on (like Windows, Mac, or Android) are working together correctly. If they're not, you might need to find a different way to watch the video or use a different device.
 
 ???+ note "Lossless Audio"
-    
+
     Please note that lossless audio formats, like DTS-HD MA and TrueHD, may require audio passthrough to be enabled on most devices. This means that the device is able to pass the audio signal through to another device, like a receiver, to decode the audio.
 
 ## Subtitle Issues
@@ -39,7 +39,7 @@ To fix these issues, you can try a few things. First, you can adjust the setting
 If the subtitles still don't work, you can try downloading new ones and making them match with what the people are saying on the screen. If you're a Share subscriber, you can upload new subtitles to [our website](https://blackbeard.media/subtitles-upload). If you're an Appbox subscriber, you can upload new subtitles through the Plex user interface.
 
 ???+ note "Subtitles and Transcoding"
-    
+
     When troubleshooting playback issues on Plex, it's important to note that subtitles can often force the video to transcode, which can cause playback issues. Therefore, turning off subtitles should be one of the first things to try when troubleshooting transcoding issues.
 
 ## Device Compatibility Issues
@@ -55,6 +55,10 @@ Next, check that Direct Play and Direct Stream are enabled, as this will ensure 
 You can also set the streaming quality to maximum to ensure the best possible video playback. Additionally, turn off 'Automatically Adjust Quality' and 'Quality Suggestions' to prevent Plex from changing the video quality during playback. Finally, ensure that 'Use Recommended Settings' is turned off so that you can manually adjust settings for optimal performance.
 
 Finally, if none of these things work, you might need to try using a different device or platform to watch your videos on Plex.
+
+???+ note Important information about Plex for various older smart TVs
+
+    Since September 2021, some older smart TVs (e.g. Samsung, LG, Vizio, Hisense, and other unsupported TV platforms) will no longer be able to use secure connections to communicate with Plex Media Servers. These devices are no longer supported by their manufacturers, and won’t be receiving an update needed to continue making secure connections to a personal server. Please ensure that your app is set to allow insecure connections as instructed by Plex for a possible workaround. [Click here to learn more](https://forums.plex.tv/t/important-information-about-plex-for-smart-tvs-after-september-30-2021/746506/1)
 
 ## Understanding 4K Streaming Issues on Plex
 
