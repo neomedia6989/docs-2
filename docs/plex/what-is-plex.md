@@ -23,5 +23,3 @@ To get the best playback experience, you'll need to use a Plex player that's spe
 
 ## Is Plex Legal?
 Plex is just a collection of software encompassing servers and clients. Plex itself is perfectly legal and you can use Plex to stream content anywhere without worrying about copyright notices or the need to use a VPN or other means to hide your traffic.
-
-Depending on where the server is located and how the available media on the server was obtained, there is a large grey area of legality surrounding copyright issues.
