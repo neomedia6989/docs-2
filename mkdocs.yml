@@ -119,9 +119,11 @@ nav:
     - Plex Client:
       - Troubleshooting: troubleshooting/client/index.md
       - Tips: troubleshooting/client/tips.md
-    - Plex Server:
+    - Appboxes:
       - Troubleshooting: troubleshooting/server/index.md
-      - Tips: troubleshooting/server/tips.md
+      - Settings: troubleshooting/server/settings.md
+      - Plex Meta Manager: troubleshooting/server/pmm.md
+      - Tautulli: troubleshooting/server/tautulli.md
   - Client Settings: 
     - Amazon FireTV: clients/firetv.md
     - Android Mobile: clients/android.md
