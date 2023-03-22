@@ -92,16 +92,16 @@ By default, Plex's out-of-the-box quality settings limit the bandwidth to betwee
 
 ##### Media Clients
 <div class="grid cards" markdown>
-- :simple-amazonfiretv: __[Amazon FireTV](../clients/firetv/)__
-- :simple-android: __[Android TV](../clients/androidtv/)__
-- :simple-apple: __[AppleTV](../clients/appletv/)__
-- :simple-kodi: __[Kodi](../clients/kodi/)__
-- :simple-lg: __[LG / WebOS](../clients/lg/)__
-- :simple-playstation: __[PlayStation](../clients/console/)__
-- :material-plex: __[Plex Media Player](../clients/pmp/)__
-- :material-plex: __[Plex Web Player](../clients/web/)__
-- :simple-roku: __[Roku](../clients/roku/)__
-- :simple-xbox: __[Xbox](../clients/console/)__
+- :simple-amazonfiretv: __[Amazon FireTV](https://docs.blackbeard.media/clients/firetv/)__
+- :simple-android: __[Android TV](https://docs.blackbeard.media/clients/androidtv/)__
+- :simple-apple: __[AppleTV](https://docs.blackbeard.media/clients/appletv/)__
+- :simple-kodi: __[Kodi](https://docs.blackbeard.media/clients/kodi/)__
+- :simple-lg: __[LG / WebOS](https://docs.blackbeard.media/clients/lg/)__
+- :simple-playstation: __[PlayStation](https://docs.blackbeard.media/clients/console/)__
+- :material-plex: __[Plex Media Player](https://docs.blackbeard.media/clients/pmp/)__
+- :material-plex: __[Plex Web Player](https://docs.blackbeard.media/clients/web/)__
+- :simple-roku: __[Roku](/clients/roku.md)__
+- :simple-xbox: __[Xbox](/clients/console.md)__
 </div>
 
 ##### Mobile Clients
