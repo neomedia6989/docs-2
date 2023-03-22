@@ -2,7 +2,7 @@
 
 Follow the steps below in order to change the Plex video quality settings on an Android Mobile device. 
 
-1. To access the menu, tap on the button with three horizontal lines, also known as the "hamburger menu" ( :material-menu: ),  located at the top left corner of the home screen.
+1. To access the menu, tap on the button with three horizontal lines, also known as the 'hamburger menu' ( :material-menu: ),  located at the top left corner of the home screen.
     
     <figure markdown>
     ![(../media/clients-android-1.png "Click on the 'hamburger menu'")](https://docs.blackbeard.media/media/clients-android-1.png){ width=350 }
@@ -30,7 +30,7 @@ Follow the steps below in order to change the Plex video quality settings on an
       <figcaption></figcaption>
     </figure>
     
-5. First, click on **Remote Streaming**. You may notice that there isn't an option for "Original" or "Maximum" like many other devices. This is because it is hidden by default.
+5. First, click on **Remote Streaming**. You may notice that there isn't an option for 'Original' or 'Maximum' like many other devices. This is because it is hidden by default.
     
     - Select the "Show All" menu option
       
