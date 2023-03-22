@@ -14,7 +14,7 @@ Depending on the appbox you purchase, 4K content may not be included. It's impor
 
 ## How can I get an appbox?
 
-Users can get an appbox by visiting [blackbeard.shop](https://blackbeard.shop) and selecting the desired plan. Once the purchase is complete, users will receive an email with the login details for their dashboard, Kronos, where they can manage their appbox. See [Getting Started with Blackbeard Appboxes](../appboxes/getting-started.md) for more info.
+Users can get an appbox by visiting [blackbeard.shop](https://blackbeard.shop) and selecting the desired plan. Once the purchase is complete, users will receive an email with the login details for their dashboard, Kronos, where they can manage their appbox. See [Getting Started with Blackbeard Appboxes](/appboxes/getting-started) for more info.
 
 ## Do you offer a free trial?
 
@@ -30,7 +30,7 @@ The number of simultaneous streams that you can have on an appbox depends on the
 
 ## How do I access my appbox?
 
-To access your appbox for the first time, you will need to use the IP address provided on the Kronos dashboard *(See the [Kronos](../appboxes/kronos/#kronos-dashboard) section for more info)*. Once you have connected to the IP address and completed the initial setup, you will be able to access your appbox using any device with the Plex app installed. This can include devices such as smartphones, tablets, smart TVs, and streaming media players
+To access your appbox for the first time, you will need to use the IP address provided on the Kronos dashboard *(See the [Kronos](/appboxes/kronos/#kronos-dashboard) section for more info)*. Once you have connected to the IP address and completed the initial setup, you will be able to access your appbox using any device with the Plex app installed. This can include devices such as smartphones, tablets, smart TVs, and streaming media players
 
 ## Is the appbox fully configured after I claim it?
 
@@ -46,10 +46,10 @@ Yes, you can invite your friends and family to your appbox by following these si
 
 1. First, ensure that your Plex server is set up and running smoothly.
 2. Open Plex Web App or Plex Media Player and select your server from the sidebar.
-3. Navigate to the Settings section and click on "Manage Library Access".
-4. Click on the "Grant Library Access" button, and enter the email address or Plex username of the person you want to invite.
+3. Navigate to the Settings section and click on 'Manage Library Access'.
+4. Click on the 'Grant Library Access' button, and enter the email address or Plex username of the person you want to invite.
 5. Choose the libraries that you want to share with them, and customize their access level.
-6. Finally, click on the "Send" button to send the invitation.
+6. Finally, click on the 'Send' button to send the invitation.
 7. Optionally, you can copy and paste the URL provided to allow them to easily accept the invite.
 
 For a more detailed guide, you can refer to the [step-by-step guide](https://support.plex.tv/articles/201105738-creating-and-managing-server-shares/) provided by Plex support.
@@ -58,4 +58,4 @@ For a more detailed guide, you can refer to the [step-by-step guide](https://sup
 
 If you encounter any technical issues with your appbox, you can access the Kronos dashboard for assistance. The dashboard provides access to various tools that can help troubleshoot and resolve issues. These tools include restarting the server, resetting the Plex configuration to default settings, and rebuilding the Plex server if necessary.
 
-If you are still having problems after using these tools, you can refer to our [troubleshooting section](#) for further guidance or create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on our Discord server. Our support team is always ready to help and will work with you to find a solution to your technical issues.
+If you are still having problems after using these tools, you can refer to our [troubleshooting section](/troubleshooting) for further guidance or create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on our Discord server. Our support team is always ready to help and will work with you to find a solution to your technical issues.
