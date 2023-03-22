@@ -1,4 +1,4 @@
-# Plex Client - Tips
+# Plex Clients - Tips
 
 ## Use a Wired Internet Connection
 
