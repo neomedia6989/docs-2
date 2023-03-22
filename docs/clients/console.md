@@ -14,7 +14,7 @@ Follow the steps below in order to change the Plex video quality settings on a 
       <figcaption></figcaption>
     </figure>
     
-2. Adjust the Plex video settings by opening the Settings menu, clicking on "**Video**", and setting Local Quality, Remote Quality, and Online Quality to "**Original**", as well as **checking the boxes** for "Allow Direct Play" and "Allow Direct Stream".
+2. Adjust the Plex video settings by opening the Settings menu, clicking on 'Video', and setting Local Quality, Remote Quality, and Online Quality to **Original**, as well as **checking the boxes** for 'Allow Direct Play' and 'Allow Direct Stream'.
     
     <figure markdown>
     ![(../media/clients-console-3.png "Set quality to 'Original' and turn on Direct Play / Stream")](https://docs.blackbeard.media/media/clients-console-3.png){ width=700 }
