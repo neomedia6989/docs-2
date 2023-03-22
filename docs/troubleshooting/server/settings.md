@@ -20,11 +20,11 @@ To access these settings, we will be using a web browser to view the Plex server
 Remote Access settings depend on whether or not a Content Delivery Network (CDN) is enabled. If a CDN is enabled, Remote Access needs be disabled for the most benefit. On the other hand, if there is no active CDN, Remote Access should be enabled and working correctly.
 
 <figure markdown>
-![(/media/appbox-settings-remote-cdn.png)](https://docs.blackbeard.media/media/appbox-settings-remote-cdn.png){ width=500 }
+![(/media/appbox-settings-remote-cdn.png)](https://docs.blackbeard.media/media/appbox-settings-remote-cdn.png){ width=600 }
   <figcaption>An appbox utilizing a CDN</figcaption>
 </figure>
 <figure markdown>
-![(/media/appbox-settings-remote-nocdn.png)](https://docs.blackbeard.media/media/appbox-settings-remote-nocdn.png){ width=500 }
+![(/media/appbox-settings-remote-nocdn.png)](https://docs.blackbeard.media/media/appbox-settings-remote-nocdn.png){ width=600 }
   <figcaption>An appbox without a CDN</figcaption>
 </figure>
 
@@ -128,3 +128,12 @@ Appbox owners have the ability to tailor their user's viewing experience by cont
 ### Recommended Collections to Pin and Order
 
 Below is a list of collections we recommend to pin to the Library Recommended and/or Home screens, as well as the recommended order for them. These collections are available in [our default Plex Meta Manager configuration](/troubleshooting/server/pmm) for each library.
+
+<figure markdown>
+![(/media/appbox-manage-libraries-movies.png)](https://docs.blackbeard.media/media/appbox-libraries-movies.png)
+  <figcaption>Recommended settings for movie libraries</figcaption>
+</figure>
+<figure markdown>
+![(/media/appbox-manage-libraries-tv.png)](https://docs.blackbeard.media/media/appbox-manage-libraries-tv.png)
+  <figcaption>Recommended settings for TV libraries</figcaption>
+</figure>
