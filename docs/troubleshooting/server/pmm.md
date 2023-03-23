@@ -33,7 +33,7 @@ Below are some examples of what our configuration will turn your Plex library in
   <figcaption>TV - Anime Library</figcaption>
 </figure>
 <figure markdown>
-![(/media/pmm-movies-overlay.png)](https://docs.blackbeard.media/media/movies-overlay.png)
+![(/media/pmm-movies-overlay.png)](https://docs.blackbeard.media/media/pmm-movies-overlay.png)
   <figcaption>4K Movies Overlay</figcaption>
 </figure>
 
