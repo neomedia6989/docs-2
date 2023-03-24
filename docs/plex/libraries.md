@@ -28,6 +28,11 @@ With Plex, you have control over what you watch and how you watch it. One of the
 ??? info "Recommended"
 
     This view shows a mix of items that are new or popular in the library selected by the server.
+    
+    <figure markdown>
+    ![(../media/discover_search.png "Uncheck More Ways to Watch")](https://docs.blackbeard.media/media/discover_search.png){ width=750 }
+        <figcaption></figcaption>
+    </figure>
 
 ??? info "Library"
 
