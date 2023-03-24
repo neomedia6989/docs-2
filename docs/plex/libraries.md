@@ -2,9 +2,14 @@
 
 Plex servers are organized with Libraries in order to help organize and sort content. Libraries are broad categories like TV shows and movies, and depending on what device or platform you're using Plex from, the interface can vary slightly. Typically, you will find a list of the Libraries on the server located in a table on the left side of the display. Clicking or tapping the name of a Library will change the content view on the bulk of the page to that Library.
 
-Libraries are often further separated into subjects like 4K, Reality TV, Kid's TV or Documentaries to facilitate finding what you want to watch.[^1]
+Libraries are often further separated into subjects like 4K, Reality TV, Kid's TV or Documentaries to facilitate finding what you want to watch.
 
-Plex recently created a Watchlist and Discover tab for users to curate and explore content as well. The Watchlist feature allows you to make a single list of all the movies or shows you plan to watch, regardless of where they’re found, even including content that’s not yet released. The Discover library, on the other hand, lets you browse trending and popular content from across your mediaverse, and shows you where it's available to watch, including any Plex Media Server available to your Plex account, Plex’s own free Movies & Shows streaming service, and other popular streaming services such as Netflix, Disney+, Amazon Prime, and Funimation, starting with the ones you regularly use.
+<figure markdown>
+![(/media/library-navigation.png)](https://docs.blackbeard.media/media/library-navigation.png)
+    <figcaption>An example of what libraries may look like</figcaption>
+</figure>
+
+Plex has recently added some new features for users to curate and explore content, such as the Watchlist and Discover tab. Users should also be aware of new Libraries that appear for all users called Movies & Shows, Live TV, and Music, which may contain ad-supported content provided by movie and/or music studios. The content of these libraries cannot be controlled by Plex server owners, but in most Plex players, you can find an option to [unpin these libraries](/plex/getting-started/#how-to-setup-your-libraries) from your list so they do not appear. The Watchlist feature allows you to create a list of all the movies or shows you plan to watch, and the Discover library lets you browse trending and popular content from across your mediaverse, including content available on Plex’s own free Movies & Shows streaming service and other popular streaming services such as Netflix, Disney+, Amazon Prime, and Funimation.
 
 ## Disable Discover Feature on Search
 
@@ -61,5 +66,4 @@ With Plex, you have control over what you watch and how you watch it. One of the
         <figcaption></figcaption>
     </figure>
  
-[^1]: The Plex creators recently added new Libraries that appears for all users called Movies & Shows, Live TV and Music. Users should know that the ad-supported content in these special libraries is not provided by the owner of the Plex server and is available through a deal between Plex software and a number of movie and/or music studios. Plex server owners have no control over the content of these libraries. In most Plex players, you can find an option to unpin these library from your list so it doesn't appear.
-[^2]: This is only necessary if the Discover feature is enabled. If the feature is disabled, this step is not needed.
+[^1]: This is only necessary if the Discover feature is enabled. If the feature is disabled, this step is not needed.
