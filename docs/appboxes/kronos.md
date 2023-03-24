@@ -23,7 +23,8 @@ Kronos is a powerful dashboard that gives you complete control and management ov
 
 !!! danger "Create a Support Ticket Next"
     
-    After claiming your Plex server, it is important that you **do ^^not^^ initiate any manual scans** as our autoscan system will ensure that everything is fully updated. Instead, we kindly ask that you create a support ticket on our Discord channel and include your time zone so that we can update the docker container accordingly. This step is crucial to ensure that your server is up-to-date and running smoothly. 
+    After claiming your Plex server, it is important that you **do ^^not^^ initiate any manual scans** as our autoscan system will ensure that everything is fully updated. Instead, we kindly ask that you create a [support ticket](https://discord.com/channels/532304048200744982/921503213432242196) on our Discord channel. Please include your time zone so that we can update the docker container accordingly. This step is crucial to ensure that your server is up-to-date and running smoothly. 
+    
     We appreciate your cooperation and support in maintaining the quality of our service.
 
 ## Setting up Daily Restarts
