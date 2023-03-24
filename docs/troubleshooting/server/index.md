@@ -25,7 +25,7 @@ Check the appbox status on the Kronos dashboard after selecting your server. If 
 4. Click on Remote Access on the left sidebar, then ensure Remote Access is disabled and restart your appbox from the Kronos dashboard.
 5. Your appbox should now be connectable from any device using the Plex app.
 
-## CDN Disabled
+### CDN Disabled
 
 1. If you are not using CDN, start by ensuring that Remote Access is enabled in the Settings. 
 2. If it is enabled but says "Not available outside your network," please take note of the port number from the Kronos dashboard, then toggle the check the box next to 'Manually specify public port' and enter the port number from the Kronos dashboard and click Retry.
