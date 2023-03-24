@@ -52,5 +52,14 @@ With Plex, you have control over what you watch and how you watch it. One of the
         <figcaption></figcaption>
     </figure>
  
+??? info "Categories"
+
+    'Categories' is the most recent tab to be added for each library where users can easily see every genre from media within the library, displayed as a grid across the screen.
+    
+    <figure markdown>
+    ![(/media/library-categories.png)](https://docs.blackbeard.media/media/library-categories.png)
+        <figcaption></figcaption>
+    </figure>
+ 
 [^1]: The Plex creators recently added new Libraries that appears for all users called Movies & Shows, Live TV and Music. Users should know that the ad-supported content in these special libraries is not provided by the owner of the Plex server and is available through a deal between Plex software and a number of movie and/or music studios. Plex server owners have no control over the content of these libraries. In most Plex players, you can find an option to unpin these library from your list so it doesn't appear.
 [^2]: This is only necessary if the Discover feature is enabled. If the feature is disabled, this step is not needed.
