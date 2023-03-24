@@ -30,22 +30,27 @@ With Plex, you have control over what you watch and how you watch it. One of the
     This view shows a mix of items that are new or popular in the library selected by the server.
     
     <figure markdown>
-    ![(../media/discover_search.png "Uncheck More Ways to Watch")](https://docs.blackbeard.media/media/discover_search.png){ width=750 }
+    ![(/media/library-recommended.png)](https://docs.blackbeard.media/media/library-recommended.png)
         <figcaption></figcaption>
     </figure>
 
 ??? info "Library"
 
     This view shows the full contents of the library in alphabetical order by default, but you can use filters and sorting to change how the list is presented. With personalized recommendations based on viewing history, you can find new content that fits your interests and preferences. Plex offers a user-friendly interface that makes it easy to navigate and find the content you want.
-
+    
+    <figure markdown>
+    ![(/media/library-library.png)](https://docs.blackbeard.media/media/library-library.png)
+        <figcaption></figcaption>
+    </figure>
+    
 ??? info "Collections"
 
     If the server owner has curated collections of content, they will appear here. These may include grouped genres of movies, different TV networks for series, or film franchises.
-
-??? info "Playlists"
-
-    If the server owner has curated playlists of content, such as all the films in a series, they may be presented here. It is normal if this page is empty.
-
+    
+    <figure markdown>
+    ![(/media/library-collections.png)](https://docs.blackbeard.media/media/library-collections.png)
+        <figcaption></figcaption>
+    </figure>
  
 [^1]: The Plex creators recently added new Libraries that appears for all users called Movies & Shows, Live TV and Music. Users should know that the ad-supported content in these special libraries is not provided by the owner of the Plex server and is available through a deal between Plex software and a number of movie and/or music studios. Plex server owners have no control over the content of these libraries. In most Plex players, you can find an option to unpin these library from your list so it doesn't appear.
 [^2]: This is only necessary if the Discover feature is enabled. If the feature is disabled, this step is not needed.
