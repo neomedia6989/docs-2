@@ -24,7 +24,7 @@ Before you can start enjoying that extensive library of content, you'll need to 
 4. Head to your e-mail to verify your account -- The verification e-mail will be from `noreply@plex.tv`
     
     <figure markdown>
-    ![(/media/plex-getting-started-3.png)](https://docs.blackbeard.media/media/plex-getting-started-3.png)
+    ![(/media/plex-getting-started-3.png)](https://docs.blackbeard.media/media/plex-getting-started-3.png){ width=500 }
         <figcaption></figcaption>
     </figure>
     
@@ -44,7 +44,7 @@ Your Plex profile is a way to personalize your streaming experience and showcase
 2. On this page, you can begin customizing your profile by setting your profile picture, username, full name, set up two-factor authentication, set your preferred audio & subtitle settings, and link other accounts.
     
     <figure markdown>
-    ![(/media/plex-getting-started-4.png)](https://docs.blackbeard.media/media/plex-getting-started-4.png){ width=400 }
+    ![(/media/plex-getting-started-5.png)](https://docs.blackbeard.media/media/plex-getting-started-5.png){ width=400 }
         <figcaption></figcaption>
     </figure>
     
