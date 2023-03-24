@@ -7,9 +7,27 @@ Before you can start enjoying that extensive library of content, you'll need to 
 ### How to Create Your Account
 
 1. Go to [https://plex.tv/](https://plex.tv/) and click on the 'Sign Up' button
+    
+    <figure markdown>
+    ![(/media/getting-started-1.png)](https://docs.blackbeard.media/media/getting-started-1.png)
+        <figcaption></figcaption>
+    </figure>
+    
 2. You can continue with your Google, Facebook, or Apple account or you can enter in your e-mail address.
+    
+    <figure markdown>
+    ![(/media/getting-started-2.png)](https://docs.blackbeard.media/media/getting-started-2.png)
+        <figcaption></figcaption>
+    </figure>
+    
 3. Create your password *(8 character minimum)*
 4. Head to your e-mail to verify your account -- The verification e-mail will be from `noreply@plex.tv`
+    
+    <figure markdown>
+    ![(/media/getting-started-3.png)](https://docs.blackbeard.media/media/getting-started-3.png)
+        <figcaption></figcaption>
+    </figure>
+    
 5. You're account is now created and verified!
 
 ## Customizing Your Settings & Profile
@@ -17,9 +35,19 @@ Before you can start enjoying that extensive library of content, you'll need to 
 Your Plex profile is a way to personalize your streaming experience and showcase your personality to friends and family. While customizing your profile is not required, it can be a good way to make your streaming experience feel more like your own. In this section, we'll show you how to change your Plex account settings as well as customize your Plex profile by adding a profile picture, biography, and other information.
 
 1. To begin editing your profile, head to [https://plex.tv/](https://plex.tv/) and log in. After you are signed in, hover over your profile picture in the upper right corner and click on 'Account Settings'.
+    
+    <figure markdown>
+    ![(/media/getting-started-4.png)](https://docs.blackbeard.media/media/getting-started-4.png)
+        <figcaption></figcaption>
+    </figure>
+    
 2. On this page, you can begin customizing your profile by setting your profile picture, username, full name, set up two-factor authentication, set your preferred audio & subtitle settings, and link other accounts.
-
-
+    
+    <figure markdown>
+    ![(/media/getting-started-4.png)](https://docs.blackbeard.media/media/getting-started-4.png){ width=400 }
+        <figcaption></figcaption>
+    </figure>
+    
 ???+ tip "Recommended Settings"
 
     === "Two-Factor Authentication"
