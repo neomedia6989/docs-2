@@ -8,7 +8,7 @@ To sign up for our share service, you'll need a Plex account. If you don't have 
 
 Once you have a Plex account, you can sign up for our share service by going to [blackbeard.media/register](https://blackbeard.media/register) and entering the referral code provided by your friend or family member. After registering, you'll need to validate your email by clicking the link in the email that we send you.
 
-Once you're validated, you can log in to [blackbeard.media](https://blackbeard.media) and access our home page, where you can learn more about our service and subscribe to any of our plans. We offer both pay-as-you-go and recurring subscriptions. If you have a promo code, make sure to select pay-as-you-go to use it. To sign up for your free trial or to subscribe, click the relevant link on the top of the navigation bar when you are signed in.
+Once you're validated, you can log in to [blackbeard.media](https://blackbeard.media) and access our home page, where you can learn more about our service and subscribe to any of our plans. To sign up for your free trial or to subscribe, click the relevant link on the top of the navigation bar when you are signed in. We offer both pay-as-you-go and recurring subscriptions. If you have a promo code, make sure to select pay-as-you-go to use it. 
 
 ## My Account Page
 
