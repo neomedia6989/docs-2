@@ -6,7 +6,7 @@ To use Tautulli, you first need to install it via the Kronos dashboard. Once it 
 
 ???+ tip "Varys: an iOS Alternative"
     
-    Include info on Varys here
+    Varys for Plex is a third-party app that connects to your Plex Media Server and uses data from Tautulli to provide you with a more detailed look at your Plex Media Server's activity. For example, you can see how many users are currently streaming from your server, what they are streaming, and how much bandwidth they are using. You can also see what media items are most popular, and how much storage space they are using. Varys is a paid application, but drastically extends the functionality of Tautulli to include features such as the [Plex Dance](https://www.plexopedia.com/plex-media-server/general/plex-dance/).
 
 Below, you will provide an overview of Tautulli and its features, benefits, and how to use it. It will also include links to further documentation and support resources.
 
