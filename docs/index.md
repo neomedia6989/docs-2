@@ -14,7 +14,7 @@ If you're an appbox user, we've got you covered too. Our guides will walk you th
 We hope this documentation will be a valuable resource for you as you explore the world of streaming. If you have any questions or feedback, please don't hesitate to contact us on Discord.
 
 ``` mermaid
-graph LR
+graph TD
   A(Appbox or Share?) --> B[Personal use or sharing with friends and family?];
   B -->|Personal| C{{Share}};
   B ---->|Sharing| E{{Appbox}};
