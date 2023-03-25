@@ -1,5 +1,7 @@
 # Quick Links
 
+Here are some quick links to various tools and resources related to our media services, including registration and management links, tools, support channels and more.
+
 ## Services
 
 <div class="grid cards" markdown>
