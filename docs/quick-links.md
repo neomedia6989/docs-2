@@ -51,7 +51,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-magnify: .lg .middle } __Overseerr *(Shares)*__
+-   :material-magnify:{ .lg .middle } __Overseerr *(Shares)*__
 
     ---
 
@@ -106,7 +106,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-magnify: .lg .middle } __Discord Community__
+-   :material-magnify:{ .lg .middle } __Discord Community__
 
     ---
 
