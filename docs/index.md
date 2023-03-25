@@ -11,6 +11,15 @@ Whether you're a new user just getting started with the Plex app and the world o
 
 If you're an appbox user, we've got you covered too. Our guides will walk you through the initial setup process, including recommended settings for your appbox, and show you how to utilize the Kronos dashboard. We'll also help ensure you have all content scanned in and provide information about Plex Meta Manager to organize your media. Whether you're new to appboxes or an experienced user, we'll provide you with the information you need to get the most out of your streaming experience.
 
+In summation, this site will:
+
+1. Give a general overview of [what Plex is](/plex/what-is-plex)
+2. Describe how to get started with both [shares](/shares) and [appboxes](/appboxes)
+3. Answer any questions you may have about [shares](/faq/shares), [appboxes](/faq/appboxes) and [requests](/faq/requests)
+4. Troubleshoot [streaming](/troubleshooting/client) and [appbox](/troubleshooting/server) issues, as well as [tips](/troubleshooting/client/tips) and [recommended appbox settings](/troubleshooting/appbox/settings)
+5. Guide you through [recommended client settings](/clients/other)
+6. Provide [quick links](/quick-links) to all our service
+
 # What Should I Choose?
 
 ``` mermaid
