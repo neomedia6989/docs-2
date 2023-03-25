@@ -114,6 +114,7 @@ nav:
     - FAQ: faq/index.md
     - Troubleshooting / Tips: troubleshooting/index.md
     - Client Settings: clients/other.md
+    - Quick Links: quick-links.md 
   - Plex: 
     - What Is Plex?: plex/what-is-plex.md
     - Getting Started: plex/getting-started.md
@@ -154,3 +155,5 @@ nav:
     - PlayStation / Xbox: clients/console.md
     - Roku: clients/roku.md
     - Other: clients/other.md
+  - Quick Links: quick-links.md 
+    
