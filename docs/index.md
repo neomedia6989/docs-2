@@ -11,7 +11,9 @@ Whether you're a new user just getting started with the Plex app and the world o
 
 If you're an appbox user, we've got you covered too. Our guides will walk you through the initial setup process, including recommended settings for your appbox, and show you how to utilize the Kronos dashboard. We'll also help ensure you have all content scanned in and provide information about Plex Meta Manager to organize your media. Whether you're new to appboxes or an experienced user, we'll provide you with the information you need to get the most out of your streaming experience.
 
-We hope this documentation will be a valuable resource for you as you explore the world of streaming. If you have any questions or feedback, please don't hesitate to contact us on Discord.
+# What Should I Choose?
+
+Blackbeard Media offers two main services: Shares and appboxes. While both services are designed to provide users with access to high-quality media content, there is a key difference between the two. Shares are intended for personal use only and are not intended for sharing with others outside of the household. On the other hand, appboxes are designed for users who plan to share content with friends and family. Appboxes come with additional features that make it easy to set up and manage a media server that can be accessed by multiple users. Ultimately, users can choose the service that best fits their needs based on their intended usage and the features they require. 
 
 ``` mermaid
 graph TD
@@ -20,3 +22,9 @@ graph TD
   B ---->|Sharing| E{{Appbox}};
 ```
 
+<figure markdown>
+![(/media/pirate-tv.png)](https://docs.blackbeard.media/media/pirate-tv.png)
+    <figcaption></figcaption>
+</figure>
+
+We hope this documentation will be a valuable resource for you as you explore the world of streaming. If you have any questions or feedback, please don't hesitate to contact us on Discord.
