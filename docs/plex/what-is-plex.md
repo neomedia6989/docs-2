@@ -7,7 +7,7 @@ To get the best playback experience, you'll need to use a Plex player that's spe
 
 !!! warning "Streaming Troubles?"
   
-    Having issues streaming from your device? Be sure to check out our **[Troubleshooting](/troubleshooting)** section to help resolve your issues. 
+    Having issues streaming from your device? Be sure to check out our **[Troubleshooting](/troubleshooting)** section to help resolve any issues you may be experiencing. 
 
 ## Is Plex Legal?
 Plex is just a collection of software encompassing servers and clients. Plex itself is perfectly legal and you can use Plex to stream content anywhere without worrying about copyright notices or the need to use a VPN or other means to hide your traffic.
