@@ -13,12 +13,12 @@ If you're an appbox user, we've got you covered too. Our guides will walk you th
 
 In summation, this site will:
 
-1. Give a general overview of [what Plex is](/plex/what-is-plex)
-2. Describe how to get started with both [shares](/shares) and [appboxes](/appboxes)
-3. Answer any questions you may have about [shares](/faq/shares), [appboxes](/faq/appboxes) and [requests](/faq/requests)
-4. Troubleshoot [streaming](/troubleshooting/client) and [appbox](/troubleshooting/server) issues, as well as [tips](/troubleshooting/client/tips) and [recommended appbox settings](/troubleshooting/appbox/settings)
-5. Guide you through [recommended client settings](/clients/other)
-6. Provide [quick links](/quick-links) to all our service
+- Give a general overview of [what Plex is](/plex/what-is-plex)
+- Describe how to get started with [shares](/shares) and [appboxes](/appboxes)
+- Answer your questions about [shares](/faq/shares), [appboxes](/faq/appboxes) and [requests](/faq/requests)
+- Troubleshoot [streaming](/troubleshooting/client) and [appbox](/troubleshooting/server) issues, and provide [tips](/troubleshooting/client/tips) and [recommended appbox settings](/troubleshooting/appbox/settings)
+- Guide you through [recommended client settings](/clients/other)
+- Provide a list [quick links](/quick-links)
 
 # What Should I Choose?
 
