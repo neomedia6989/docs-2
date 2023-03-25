@@ -19,7 +19,7 @@ Tautulli can help you monitor how much of your appbox's resources are being used
 Tautulli can help you track what your users are watching and when they are watching it. This information can be used to determine what content is popular and what content is not. For example, you can create a collection of the most popular movies on your appbox, or you can create a collection of movies that you think your users would enjoy, based on their past viewing habits.
 
 <figure markdown>
-![(/media/tautulli-activity.png)](https://docs.blackbeard.media/media/tautulli-activity.png)
+![(/media/tautulli-monitor.png)](https://docs.blackbeard.media/media/tautulli-monitor.png)
   <figcaption></figcaption>
 </figure>
 
@@ -29,14 +29,14 @@ Tautulli can generate notifications when certain events occur, such as when a ne
 
 ???+ tip "Get Notified About Transcoding"
     
-    Add info here.
-
+    Tautulli offers a notification system that allows you to receive alerts whenever a user starts transcoding a media file. This can be useful in situations where you want to monitor the performance of your server or want to ensure that your users are not overloading your system. To set up this notification, you can create a custom notification agent within Tautulli and set it to trigger whenever a user begins transcoding. From there, you can choose to receive an email, push notification, or other alert. With this feature, you can stay on top of your server's performance and ensure a smooth streaming experience for all users.
+    
 ### Provide Access to Watch History
 
 Tautulli can provide your users with access to their watch history, which can be used to help them find the content they are looking for or to help them keep track of what they have watched. This information can also be helpful for users who want to track their viewing habits over time or who want to identify any trends in their viewing. In addition, Tautulli can help users troubleshoot problems by showing if they are direct playing or transcoding content as well as the required bandwidth of the file they are watching.
 
 <figure markdown>
-![(/media/tautulli-history.png)](https://docs.blackbeard.media/media/tautulli-history.png)
+![(/media/tautulli-track.png)](https://docs.blackbeard.media/media/tautulli-track.png)
   <figcaption></figcaption>
 </figure>
 
