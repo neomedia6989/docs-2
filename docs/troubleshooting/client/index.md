@@ -71,3 +71,11 @@ Another thing that's important is the amount of information that's in the video,
 Finally, some 4K videos have special features called HDR or DV, which make the colors and brightness look even better. But if your device or TV doesn't support these features, then the video might not work very well or look very good.
 
 So, if you want to watch 4K videos on Plex, you need to make sure that your internet is fast enough, the video uses a supported codec, the bitrate isn't too high, and your device or TV supports any special features like HDR or DV. If you're not sure if something will work, you can always try it and see how it goes!
+
+## Chromecast Subtitle Playback Issues on Plex
+
+Some Chromecast models lack hardware support for certain subtitle types, so the Plex server must "burn in" the subtitles into the video stream, which can cause the transcoder to stall and freeze playback. This issue can be particularly frustrating for users who want to watch foreign-language content or movies with subtitles. It is recommended to check the compatibility of your Chromecast model with the subtitle types you plan to use before attempting to stream with Plex or disable sub-titles when viewing on a Chromecast.
+
+## Audio Playback Issues on Samsung and LG Plex App
+
+If you're using Samsung or LG Plex apps, it's important to note that these apps do not play back many files with DTS audio. To work around this issue, we recommend forcing the client to transcode by changing the maximum bitrate to lower than the original bitrate of the file or utilizing a streaming device, such as an Apple TV 4K, FireStick 4K Max, or Nvidia Shield Pro, that supports DTS audio. By doing so, you can ensure smooth playback with minimal interruptions.
