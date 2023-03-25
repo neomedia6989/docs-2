@@ -20,7 +20,7 @@ Another possible issue with streaming might mean that your internet speed is too
 
 ???+ question "How Can I Test My Connection?"
     
-    We have a speed test available for users to check their connectionto our servers and the nearest Content Delivery Network (CDN) node. To test your connection directly to our servers, please visit [this speedtest](https://speedtest.blackbeard.brrrrrr.net/). To check the speed to the closest CDN node, visit [this speedtest](https://speedtest.brrrrrr.net).
+    We have a speed test available for users to check their connectionto our servers and the nearest Content Delivery Network (CDN) node. To test your connection directly to our servers, please visit [this speedtest](https://speedtest.blackbeard.brrrrrr.net/). To check the speed to the closest CDN node, visit [this speedtest](https://speedtest.brrrrrr.net). We recommend a minimum of 100-200Mbps connection to our servers for smooth playback of most content; if your speed test results / ISP plan speeds are lower than this, we may recommend stepping up your Internet plan.
 
 ## Ethernet vs. Wi-Fi for Video Streaming
 
