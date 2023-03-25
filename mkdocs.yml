@@ -106,7 +106,14 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Home: index.md
+  - Home:
+    - Welcome: index.md
+    - Plex: plex/what-is-plex.md
+    - Shares: shares/getting-started.md
+    - Appboxes: appboxes/getting-started.md
+    - FAQ: faq/index.md
+    - Troubleshooting / Tips: troubleshooting/index.md
+    - Client Settings: clients/other.md
   - Plex: 
     - What Is Plex?: plex/what-is-plex.md
     - Getting Started: plex/getting-started.md
