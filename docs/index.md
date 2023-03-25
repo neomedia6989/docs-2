@@ -15,8 +15,8 @@ We hope this documentation will be a valuable resource for you as you explore th
 
 ``` mermaid
 graph LR
-  A[Appbox or Share?] --> B{Personal use or sharing with friends and family?};
-  B -->|Personal| C[Share];
-  B ---->|Sharing| E[Appbox];
+  A(Appbox or Share?) --> B[Personal use or sharing with friends and family?];
+  B -->|Personal| C{{Share}};
+  B ---->|Sharing| E{{Appbox}};
 ```
 
