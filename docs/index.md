@@ -11,14 +11,29 @@ Whether you're a new user just getting started with the Plex app and the world o
 
 If you're an appbox user, we've got you covered too. Our guides will walk you through the initial setup process, including recommended settings for your appbox, and show you how to utilize the Kronos dashboard. We'll also help ensure you have all content scanned in and provide information about Plex Meta Manager to organize your media. Whether you're new to appboxes or an experienced user, we'll provide you with the information you need to get the most out of your streaming experience.
 
-In summation, this site will:
+In summation, this site will help you:
 
-- Give a general overview of [what Plex is](/plex/what-is-plex)
-- Describe how to get started with [shares](/shares) and [appboxes](/appboxes)
-- Answer your questions about [shares](/faq/shares), [appboxes](/faq/appboxes) and [requests](/faq/requests)
-- Troubleshoot [streaming](/troubleshooting/client) and [appbox](/troubleshooting/server) issues, and provide [tips](/troubleshooting/client/tips) and [recommended appbox settings](/troubleshooting/appbox/settings)
-- Guide you through [recommended client settings](/clients/other)
-- Provide a list [quick links](/quick-links)
+<div class="grid" markdown>
+
+:material-school: [Learn all about __Plex__](/plex/what-is-plex)
+{ .card }
+
+:material-plex: [Get started with __shares__](/shares/getting-started)
+{ .card }
+
+:material-plex: [Get started with __appboxes__](/appboxes/getting-started)
+{ .card }
+    
+:material-account-question: [Answering your __FAQ__](/faq)
+{ .card }
+
+:material-alert: [__Troubleshoot__ common issues](/troubleshooting)
+{ .card }
+
+:fontawesome-solid-gear: [Configure your __client settings__](/clients/other)
+{ .card }
+
+</div>
 
 # What Should I Choose?
 
