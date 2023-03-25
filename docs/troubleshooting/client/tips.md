@@ -26,7 +26,7 @@ Optimize your network by ensuring your router is in a central location, use the 
 
 ## Use Infuse on Apple TV
 
-For Apple TV users, consider using the Infuse app instead of the Plex app as it supports direct play of all video formats including Dolby Vision (DV) and lossless audio, which can provide a better quality video and audio experience.
+For Apple TV users, consider using the Infuse app instead of the Plex app as it supports direct play of all video formats including Dolby Vision (DV) and lossless audio, which can provide a better quality video and audio experience. You can find our more about Infuse [here](https://firecore.com/infuse).
 
 ## Disable Unnecessary Features
 
