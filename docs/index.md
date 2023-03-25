@@ -24,7 +24,7 @@ In summation, this site will help you:
 :material-plex: [Get started with __appboxes__](/appboxes/getting-started)
 { .card }
     
-:material-account-question: [Answering your __FAQ__](/faq)
+:material-account-question: [Answer your __FAQ__](/faq)
 { .card }
 
 :material-alert: [__Troubleshoot__ common issues](/troubleshooting)
