@@ -1,30 +1,141 @@
+# Quick Links
+
 ## Services
 
 <div class="grid cards" markdown>
-[Share Subscriptions](https://blackbeard.media){ .md-button }
-[Appbox Subscriptions](https://blackbeard.shop){ .md-button }
-[Kronos Dashboard](https://kronos.blackbeard.shop){ .md-button }
-[Kavita](https://kavita.blackbeard.media){ .md-button }
-[Audiobookshelf](https://audiobookshelf.blackbeard.media){ .md-button }
+
+-   :material-plex:{ .lg .middle } __Share Subscriptions__
+
+    ---
+
+    Follow this link provides a platform for users to register or manage their subscription for Blackbeard shares.
+
+    [:octicons-arrow-right-24: Click Here](https://blackbeard.media/)
+
+-   :material-plex:{ .lg .middle } __Appbox Subscriptions__
+
+    ---
+
+    Follow this link provides a platform for users to register or manage their subscription for Blackbeard appboxes.
+
+    [:octicons-arrow-right-24: Click Here](https://blackbeard.shop/)
+
+-   :material-server:{ .lg .middle } __Kronos__
+
+    ---
+
+    The Kronos dashboard is a platform where users can manage their appbox.
+
+    [:octicons-arrow-right-24: Click Here](https://kronos.blackbeard.shop)
+
+-   :material-podcast:{ .lg .middle } __Audiobookshelf__
+
+    ---
+
+    Audiobookshelf is a self-hosted audiobook and podcast server.
+
+    [:octicons-arrow-right-24: Click Here](https://audiobookshelf.blackbeard.media)
+
+
+-   :material-book-open-variant:{ .lg .middle } __Kavita__
+
+    ---
+
+    Kavita is a self-hosted digital library management system.
+
+    [:octicons-arrow-right-24: Click Here](https://kavita.blackbeard.media)
+
 </div>
 
 ## Tools
 
 <div class="grid cards" markdown>
-[Request via Overseerr](https://requests.blackbeard.media){ .md-button }
-[Scan missing content](https://blackbeard.media/scan-media){ .md-button }
-[Upload subtitles](https://blackbeard.media/subtitles-upload){ .md-button }
-[Run a normal speedtest](https://speedtest.blackbeard.brrrrrr.net){ .md-button }
-[Run a CDN speedtest](https://speedtest.brrrrrr.net){ .md-button }
+
+-   :material-magnify: .lg .middle } __Overseerr *(Shares)*__
+
+    ---
+
+    Overseerr is a self-hosted web application that helps manage requests for content on Blackbeard shares.
+
+    [:octicons-arrow-right-24: Click Here](https://overseerr.blackbeard.media)
+
+-   :material-magnify:{ .lg .middle } __Overseerr *(Appboxes)*__
+
+    ---
+
+    Overseerr is a self-hosted web application that helps manage requests for content on Blackbeard appboxes.
+
+    [:octicons-arrow-right-24: Click Here](https://overseerr.blackbeard.shop)
+
+-   :material-scan-helper:{ .lg .middle } __Scan Missing Content__
+
+    ---
+
+    Resolve missing content errors on Blackbeard shares.
+
+    [:octicons-arrow-right-24: Click Here]([https://kronos.blackbeard.shop](https://blackbeard.media/scan-media))
+
+-   :material-subtitles:{ .lg .middle } __Upload Subtitles__
+
+    ---
+
+    Upload your own subtitles to Blackbeard shares.
+
+    [:octicons-arrow-right-24: Click Here](https://blackbeard.media/subtitles-upload)
+
+
+-   :simple-speedtest:{ .lg .middle } __CDN Speedtest__
+
+    ---
+
+    Use the following link to test your speed to the closest CDN node.
+
+    [:octicons-arrow-right-24: Click Here](https://speedtest.brrrrrr.net/)
+
+-   :simple-speedtest:{ .lg .middle } __Direct Speedtest__
+
+    ---
+
+    Use the following link to test your speed directly to our servers.
+
+    [:octicons-arrow-right-24: Click Here](https://speedtest.blackbeard.brrrrrr.net/)
+
 </div>
 
 ## Support & More
 
 <div class="grid cards" markdown>
-[Blackbeard Docs](https://docs.blackbeard.media){ .md-button }
-[Discord Community](https://discord.blackbeard.media){ .md-button }
-[Discord Support Desk](https://discord.com/channels/532304048200744982/921503213432242196){ .md-button }
-[Ticket Transcripts](https://transcripts.blackbeard.media){ .md-button }
-[Make A Donation](https://donate.blackbeard.media){ .md-button }
-[Status Page](https://uptime.blackbeard.media/status/home){ .md-button }
+
+-   :material-magnify: .lg .middle } __Discord Community__
+
+    ---
+
+    Our Discord community is a place where people can gather to discuss and share knowledge about entertainment, Plex, and much more!
+
+    [:octicons-arrow-right-24: Click Here](https://discord.blackbeard.media)
+
+-   :material-magnify:{ .lg .middle } __Discord Support__
+
+    ---
+
+    Our Discord support offers real-time technical assistance and troubleshooting.
+
+    [:octicons-arrow-right-24: Click Here](https://discord.com/channels/532304048200744982/921503213432242196)
+
+-   :material-scan-helper:{ .lg .middle } __Ticket Transcripts__
+
+    ---
+
+    View transcripts of all previous support tickets you have submitted.
+
+    [:octicons-arrow-right-24: Click Here](https://transcripts.blackbeard.media)
+
+-   :material-subtitles:{ .lg .middle } __Uptime Status__
+
+    ---
+
+    Check real-time updates on our services and servers.
+
+    [:octicons-arrow-right-24: Click Here](https://uptime.blackbeard.media/status/home)
+
 </div>
