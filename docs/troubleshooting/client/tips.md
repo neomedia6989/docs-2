@@ -35,3 +35,9 @@ If you don't use the Discover feature, Live TV, or free Movies & Shows provided 
 ## Unpin Unused Libraries
 
 If you have multiple libraries in Plex but only use a few of them regularly, it's recommended to unpin the ones you don't use to reduce clutter and optimize the user experience. This can prevent any unwanted content from showing up in your library section and simplify your media browsing experience. Additionally, pinning only the libraries you browse through can reduce the time it takes to load your library section and improve performance. See how to [here](/plex/getting-started/#how-to-setup-your-libraries).
+
+## Check out PASTA if you use subtitles
+
+Do you watch TV Shows with multiple languages and subtitles and wish you could change them for the entire show, rather than needing to do it for every. single. episode? Or maybe you aren't sure what the difference is between those 2 English (SRT) and English (SRT) subtitle files. Then PASTA is for you!
+
+PASTA allows you to connect to your Plex server and view more details about the audio tracks and subtitles, as well as set the tracks and subtitles or entire shows, or single episodes very quickly. You can [click here](https://www.pastatool.com/) to use the tool.
