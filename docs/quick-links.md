@@ -10,7 +10,7 @@ Here are some quick links to various tools and resources related to our media se
 
     ---
 
-    Follow this link provides a platform for users to register or manage their subscription for Blackbeard shares.
+    Follow this link to register or manage your subscription for Blackbeard shares.
 
     [:octicons-arrow-right-24: Click Here](https://blackbeard.media/)
 
@@ -18,7 +18,7 @@ Here are some quick links to various tools and resources related to our media se
 
     ---
 
-    Follow this link provides a platform for users to register or manage their subscription for Blackbeard appboxes.
+    Follow this link to register or manage your subscription for Blackbeard appboxes.
 
     [:octicons-arrow-right-24: Click Here](https://blackbeard.shop/)
 
