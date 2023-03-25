@@ -74,7 +74,7 @@ So, if you want to watch 4K videos on Plex, you need to make sure that your inte
 
 ## Chromecast Subtitle Playback Issues on Plex
 
-Some Chromecast models lack hardware support for certain subtitle types, so the Plex server must "burn in" the subtitles into the video stream, which can cause the transcoder to stall and freeze playback. This issue can be particularly frustrating for users who want to watch foreign-language content or movies with subtitles. It is recommended to check the compatibility of your Chromecast model with the subtitle types you plan to use before attempting to stream with Plex or disable sub-titles when viewing on a Chromecast.
+Some Chromecast models lack hardware support for certain subtitle types, so the Plex server must "burn in" the subtitles into the video stream, which can cause the transcoder to stall and freeze playback. This issue can be particularly frustrating for users who want to watch foreign-language content or movies with subtitles. It is recommended to check the compatibility of your Chromecast model with the subtitle types you plan to use before attempting to stream with Plex or to disable sub-titles when viewing on a Chromecast.
 
 ## Audio Playback Issues on Samsung and LG Plex App
 
