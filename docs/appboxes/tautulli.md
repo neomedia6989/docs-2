@@ -73,7 +73,8 @@ By following these steps, you can enable guest access to Tautulli and grant spec
 
     from requests import Session
     from json.decoder import JSONDecodeError
-
+    
+    # Change to 'False' to disable all guest access #
     ENABLE_REMOTE_ACCESS = True
 
     TAUTULLI_URL = 'ADD URL HERE'
