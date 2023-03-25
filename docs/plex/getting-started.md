@@ -16,7 +16,7 @@ Before you can start enjoying that extensive library of content, you'll need to 
 2. You can continue with your Google, Facebook, or Apple account or you can enter in your e-mail address.
     
     <figure markdown>
-    ![(/media/plex-getting-started-2.png)](https://docs.blackbeard.media/media/plex-getting-started-2.png)
+    ![(/media/plex-getting-started-2.png)](https://docs.blackbeard.media/media/plex-getting-started-2.png){ width=400 }
         <figcaption></figcaption>
     </figure>
     
