@@ -13,7 +13,7 @@ Plex has recently added some new features for users to curate and explore conten
 
 ## Disable Discover Feature on Search
 
-When you search for content in Plex, the Discover feature is used to find related content, which may include content that is not currently available to you. To ensure that only content that you have access to is displayed in search results, we recommend turning off the Discover feature while searching.[^2]
+When you search for content in Plex, the Discover feature is used to find related content, which may include content that is not currently available to you. To ensure that only content that you have access to is displayed in search results, we recommend turning off the Discover feature while searching.[^1]
 
 1. Go to the Plex Media Player app and click on the search bar (Please note that the search bar varies on every device).
 2. After clicking on the search bar, a sliders icon ( :fontawesome-solid-sliders: ) should appear. Click on that and a dropdown list will appear showing all servers you have access to and the Discover feature.
