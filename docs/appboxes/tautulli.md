@@ -110,7 +110,8 @@ By following these steps, you can enable guest access to Tautulli and grant spec
             changed_user = session.get(formatted_url, params=params)
             print(f"{string_representation} guest access for {user['friendly_name']}")
     else:
-        print(f'No users to {string_representation.lower()[:-1]}')```
+        print(f'No users to {string_representation.lower()[:-1]}')
+    ```
 
 ### Generate Reports
 
