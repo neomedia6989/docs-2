@@ -57,7 +57,7 @@ By following these steps, you can enable guest access to Tautulli and grant spec
 
 ??? tip "Automate Guest Access with Python"
     
-    To automate the process of enabling guest access for Tautulli users, you can use a Python script like the one below. Before running the script, you will need to configure it with your Tautulli URL and API key. We recommend setting the script to run on a cron schedule so that it runs automatically at set intervals.
+    By default, Tautulli will not have guest access enabled for new users even after you allow guest access for all users. To automate the process of enabling guest access for Tautulli users, you can use a Python script like the one below. Before running the script, you will need to configure it with your Tautulli URL and API key. We recommend setting the script to run on a cron schedule so that it runs automatically at set intervals. Please note that you still need to enable 'Allow Guest Access to Tautulli'.
     
     ```  py title="Enable Guest Access"                                                                    
     #!/usr/bin/env python
