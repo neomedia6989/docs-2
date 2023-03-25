@@ -60,6 +60,10 @@ theme:
     - toc.follow
     - navigation.top
     - announce.dismiss
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate 
+    
   palette:
    
     # Palette toggle for automatic mode
