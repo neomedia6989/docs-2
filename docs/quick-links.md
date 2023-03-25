@@ -106,7 +106,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-magnify:{ .lg .middle } __Discord Community__
+-   :simple-discord:{ .lg .middle } __Discord Community__
 
     ---
 
@@ -114,7 +114,7 @@
 
     [:octicons-arrow-right-24: Click Here](https://discord.blackbeard.media)
 
--   :material-magnify:{ .lg .middle } __Discord Support__
+-   :simple-discord:{ .lg .middle } __Discord Support__
 
     ---
 
@@ -122,7 +122,7 @@
 
     [:octicons-arrow-right-24: Click Here](https://discord.com/channels/532304048200744982/921503213432242196)
 
--   :material-scan-helper:{ .lg .middle } __Ticket Transcripts__
+-   :material-ticket-confirmation:{ .lg .middle } __Ticket Transcripts__
 
     ---
 
@@ -130,7 +130,7 @@
 
     [:octicons-arrow-right-24: Click Here](https://transcripts.blackbeard.media)
 
--   :material-subtitles:{ .lg .middle } __Uptime Status__
+-   :simple-uptimekuma:{ .lg .middle } __Uptime Status__
 
     ---
 
