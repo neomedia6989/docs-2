@@ -29,7 +29,7 @@ When you order an appbox, you'll receive access to a web-based administration pa
     With a private instance of Plex, you have full control over your media library's metadata, allowing you to make custom collections, playlists, and modify posters to your liking. (1)
     { .annotate }
     
-    1. :octicons-question-16: Did you know about Blackbeard Media's Plex Meta Manager service? Click [here](/troubleshooting/server/pmm) for more info.
+    1. :octicons-question-16: Did you know about Blackbeard Media's Plex Meta Manager service? Click [here](/server/pmm) for more info.
 
 -   :material-lightning-bolt:{ .lg .middle } __Optimal Performance__
 
