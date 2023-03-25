@@ -3,7 +3,7 @@
     <figcaption>Set sail for smooth streaming seas with Blackbeard Media.</figcaption>
 </figure>
 
-# Getting Started with Plex Shares and Appboxes
+# Welcome to Blackbeard Media!
 
 Welcome to the Blackbeard Media documentation website! This site is designed to provide you with all the information you need to get the most out of your streaming service, whether you're a share user, an appbox user, or just curious about what there is out there.
 
