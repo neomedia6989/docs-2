@@ -1,6 +1,6 @@
 <figure markdown>
 ![(/media/text_logo.png)](https://docs.blackbeard.media/media/text_logo.png){ width=500 }
-    <figcaption>Set sail for smooth streaming seas with Blackbeard Media.</figcaption>
+    <figcaption>Get ready to set sail on the high seas of streaming</figcaption>
 </figure>
 
 # Welcome to Blackbeard Media!
