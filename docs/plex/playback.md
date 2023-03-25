@@ -114,7 +114,7 @@ By default, Plex's out-of-the-box quality settings limit the bandwidth to betwee
 
 If you don't see your device on this list, [click here](/clients/other) for a general overview of what settings are recommended.
 
-???+ tip "Allow Insecure Settings"
+???+ tip "Allow Insecure Connections"
     
     If you are experiencing buffering or server connectivity issues while using your Plex server, one potential solution is to adjust the 'Allow Insecure Connections' setting. This can be done by navigating to 'Settings' > 'Advanced' > 'Network and then toggling the 'Allow Insecure Connections' setting to 'Always'. Please note this may vary depending on the device.
 
