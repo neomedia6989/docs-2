@@ -128,6 +128,7 @@ nav:
   - Appboxes:
     - Getting Started: appboxes/getting-started.md
     - Kronos: appboxes/kronos.md
+    - Recommended Settings: appboxes/settings.md
     - Tautulli: appboxes/tautulli.md
     - Plex Meta Manager: appboxes/pmm.md
   - FAQ:
@@ -142,7 +143,6 @@ nav:
       - Tips: troubleshooting/client/tips.md
     - Appboxes:
       - Troubleshooting: troubleshooting/server/index.md
-      - Settings: troubleshooting/server/settings.md
   - Client Settings: 
     - Amazon FireTV: clients/firetv.md
     - Android Mobile: clients/android.md
