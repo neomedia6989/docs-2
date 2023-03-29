@@ -51,6 +51,8 @@ theme:
   icon:
     logo: material/pirate
     repo: fontawesome/brands/github
+  font:
+    code: Lato
   features:
     - navigation.instant
     - navigation.tracking
@@ -68,6 +70,7 @@ theme:
     - content.code.copy
     - content.code.select
     - content.code.annotate 
+
     
   palette:
    
