@@ -1,5 +1,6 @@
 <figure markdown>
-![(/media/text_logo.png)](https://docs.blackbeard.media/media/text_logo.png){ width=500 }
+![(/media/logo-light.png)](https://docs.blackbeard.media/media/logo-light.png#only-dark){ width=500 }
+![(/media/logo-dark.png)](https://docs.blackbeard.media/media/logo-dark.png#only-light){ width=500 }
     <figcaption>Get ready to set sail on the high seas of streaming</figcaption>
 </figure>
 
