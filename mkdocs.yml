@@ -77,7 +77,6 @@ theme:
 
     
   palette:
-    primary: blue
     
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -87,6 +86,7 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
+      primary: blue
       scheme: default 
       toggle:
         icon: material/brightness-7
@@ -94,6 +94,7 @@ theme:
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
+      primary: blue
       scheme: slate
       toggle:
         icon: material/brightness-4
