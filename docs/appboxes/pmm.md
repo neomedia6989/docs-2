@@ -1,6 +1,6 @@
 # Plex Meta Manager
 
-Plex Meta Manager is a powerful tool for managing metadata in your Plex media library. It allows you to easily search for and add metadata to your media files, including movie and TV show posters, episode summaries, and more. With Plex Meta Manager, you can keep your media library organized and ensure that all of your content is properly labeled and tagged.
+**[Plex Meta Manager](https://metamanager.wiki/en/latest/)** is a powerful tool for managing metadata in your Plex media library. It allows you to easily search for and add metadata to your media files, including movie and TV show posters, episode summaries, and more. With Plex Meta Manager, you can keep your media library organized and ensure that all of your content is properly labeled and tagged.
 
 ## Our Default Configuration
 
