@@ -56,6 +56,7 @@ theme:
     repo: fontawesome/brands/github
 #  font:
 #    code: Lato
+
   features:
     - navigation.instant
     - navigation.tracking
@@ -76,7 +77,8 @@ theme:
 
     
   palette:
-   
+    primary: blue
+    
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
