@@ -96,7 +96,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       primary: indigo
-      accent: blue
+      accent: light blue
       scheme: slate
       toggle:
         icon: material/brightness-4
