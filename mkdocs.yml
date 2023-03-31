@@ -52,7 +52,7 @@ plugins:
 theme:
   name: material
   icon:
-    logo: material/pirate
+    logo: material/bookshelf
     repo: fontawesome/brands/github
 #  font:
 #    code: Lato
