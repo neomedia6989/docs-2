@@ -10,10 +10,10 @@
   animation: heart 1000ms infinite;
 }
 .heart:hover {
-  color: #8B0000;
+  color: #8B0000 !important;
 }
 .discord:hover {
-  color: #7289da;
+  color: #7289da !important;
 }
 .md-typeset .grid {
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr))
