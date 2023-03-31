@@ -87,7 +87,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       primary: blue
-      accent: light blue
+      accent: indigo
       scheme: default 
       toggle:
         icon: material/brightness-7
@@ -95,8 +95,8 @@ theme:
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      primary: blue
-      accent: light blue
+      primary: indigo
+      accent: blue
       scheme: slate
       toggle:
         icon: material/brightness-4
