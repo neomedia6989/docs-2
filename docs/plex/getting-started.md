@@ -88,8 +88,20 @@ Additionally, users can manage their privacy settings and choose which badges ar
 If you've been invited to join Plex, either by signing up for our service or through a friend or family member's invitation, you may be wondering how to accept the invite and get started. Luckily, accepting a Plex invite is a simple process that can be done in just a few clicks. In this section, we'll go over the steps to accept a Plex invite and get you on your way to enjoying all that Plex has to offer.
 
 1. Go to [https://plex.tv](https://plex.tv/) and login with your Plex account credentials
+    
+    <figure markdown>
+    ![(/media/accept-invite-1.png)](https://docs.blackbeard.media/media/accept-invite-1.png){ width=750 }
+        <figcaption></figcaption>
+    </figure>
+    
 2. Access the Plex web app by clicking on the 'Open Plex' button
-3. Decide if you want to sync your watched status, which is useful if you have access to multiple servers
+    
+    <figure markdown>
+    ![(/media/accept-invite-2.png)](https://docs.blackbeard.media/media/accept-invite-2.png){ width=750 }
+        <figcaption></figcaption>
+    </figure>
+    
+3. Decide if you want to sync your watched status, which is useful if you have access to multiple servers[^1]
 4. Open 'Settings' by clicking on the wrench icon in the top right
     
     <figure markdown>
@@ -158,3 +170,5 @@ Plex is not just a platform for streaming your own personal media libraries, but
     </figure>
 
 Great job! By setting up your profile and organizing your libraries, you can enjoy a more personalized and efficient streaming experience. Whether you are streaming our media or enjoying content shared by family and friends, these steps will help you make the most of your Plex account.
+
+[^1]: This step only appears for new users and may not appear if you have signed in previously
