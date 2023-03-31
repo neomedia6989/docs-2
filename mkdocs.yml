@@ -86,7 +86,7 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: blue
+      primary: indigo
       accent: indigo
       scheme: default 
       toggle:
