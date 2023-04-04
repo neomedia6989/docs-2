@@ -4,6 +4,18 @@ Sometimes, when you use an app like Plex to watch movies or TV shows, things mig
 
 If you are still having issues, please refer to the information below to hopefully resolve your issues.
 
+## Basic Troubleshooting
+
+If you're experiencing issues with the Plex app, don't worry - there are several steps you can take to troubleshoot the problem. Here are some basic troubleshooting steps to help get you started:
+
+1. Ensure "Allow Insecure Connections" is **enabled**. This can be found in your server settings under Network.
+2. Ensure the server is online and accessible. You can check the status of our share servers **[here](https://uptime.blackbeard.media/status/home)** and appboxes on the Kronos dashboard.
+3. Check that the Plex app is up-to-date.
+4. Restart the Plex app on your device.
+5. Restart your device.
+6. Uninstall and reinstall the Plex app on your device.
+7. If you're still experiencing issues, you can consult the documentation below and/or create a **[support ticket](https://discord.com/channels/532304048200744982/921503213432242196)** where we will be happy to help.
+
 ## Video Playback Issues
 
 There are a few things you can try to fix these issues. First, you can [check your internet connection](/troubleshooting/#understanding-internet-speed-and-your-connection) to make sure it's strong enough to stream videos. If your internet is slow or weak, the video might not play smoothly.
