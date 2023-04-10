@@ -52,6 +52,7 @@ plugins:
   - search:
       lang: en
   - git-revision-date-localized
+  - git-authors
   
 theme:
   name: material
