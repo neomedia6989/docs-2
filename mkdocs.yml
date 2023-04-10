@@ -1,6 +1,10 @@
 site_name: Blackbeard Media
 site_url: https://docs.blackbeard.media/
 
+repo_url: https://github.com/Blackbeard-Media/docs
+repo_name: blackbeard-media/docs
+edit_uri: edit/main/docs/
+
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -54,6 +58,8 @@ theme:
   icon:
     logo: material/bookshelf
     repo: fontawesome/brands/github
+    edit: material/pencil 
+    view: material/eye
 #  font:
 #    code: Lato
 
