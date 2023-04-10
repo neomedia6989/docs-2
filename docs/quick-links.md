@@ -75,7 +75,7 @@ Here are some quick links to various tools and resources related to our media se
 
     Resolve missing content errors on Blackbeard shares.
 
-    [:octicons-arrow-right-24: Click Here]([https://kronos.blackbeard.shop](https://blackbeard.media/scan-media))
+    [:octicons-arrow-right-24: Click Here](https://kronos.blackbeard.shop](https://blackbeard.media/scan-media)
 
 -   :material-subtitles:{ .lg .middle } __Upload Subtitles__
 
