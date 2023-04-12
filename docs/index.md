@@ -4,7 +4,7 @@
     <figcaption>Get ready to set sail on the high seas of streaming</figcaption>
 </figure>
 
-# Welcome to Blackbeard Media!
+## Welcome to Blackbeard Media!
 
 Welcome to the Blackbeard Media documentation website! This site is designed to provide you with all the information you need to get the most out of your streaming service, whether you're a share user, an appbox user, or just curious about what there is out there.
 
@@ -36,7 +36,7 @@ In summation, this site will help you:
 
 </div>
 
-# What Should I Choose?
+## What Should I Choose?
 
 ``` mermaid
 graph TD
