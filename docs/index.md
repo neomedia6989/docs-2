@@ -1,6 +1,6 @@
 <figure markdown>
-![Blackbeard Media](https://docs.blackbeard.media/media/logo-light.png#only-dark){ width=600 }
-![Blackbeard Media](https://docs.blackbeard.media/media/logo-dark.png#only-light){ width=600 }
+![Blackbeard Media Logo](/media/logo-light.png#only-dark){ width=600 }
+![Blackbeard Media Logo](/media/logo-dark.png#only-light){ width=600 }
     <figcaption>Get ready to set sail on the high seas of streaming</figcaption>
 </figure>
 
@@ -42,13 +42,15 @@ In summation, this site will help you:
 graph TD
   A(Appbox or Share?) --> B[Personal use or sharing with friends and family?];
   B -->|Personal| C{{Share}};
-  B ---->|Sharing| E{{Appbox}};
+  B -->|Sharing| D{{Appbox}};
+  click C "/shares/getting-started/"
+  click D "/appboxes/getting-started/"
 ```
 
 Blackbeard Media offers two main services: Shares and appboxes. While both services are designed to provide users with access to high-quality media content, there is a key difference between the two. Shares are intended for personal use only and are not intended for sharing with others outside of the household. On the other hand, appboxes are designed for users who plan to share content with friends and family. Appboxes come with additional features that make it easy to set up and manage a media server that can be accessed by multiple users. Ultimately, users can choose the service that best fits their needs based on their intended usage and the features they require. 
 
 <figure markdown>
-![(/media/pirate-tv.png)](https://docs.blackbeard.media/media/pirate-tv.png){ width=500 }
+![(A Pirate sitting in front of a TV)](/media/pirate-tv.png){ width=500 }
     <figcaption></figcaption>
 </figure>
 
